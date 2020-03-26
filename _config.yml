@@ -7,7 +7,7 @@ timezone: America/Los_Angeles
 collections:
   heroes: 
     sort_by: death_date
-#    output: true
+    output: true
 
 defaults:
   -
@@ -16,12 +16,12 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-#   -
-#     scope:
-#       path: ""
-#       type: "heroes"
-#     values:
-#       layout: "hero"
+  -
+    scope:
+      path: ""
+      type: "heroes"
+    values:
+      layout: "hero"
 
 exclude:
   - assets/js/src
