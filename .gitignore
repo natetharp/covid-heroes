@@ -1,18 +1,10 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Undesired Jekyll files
+_site
+_sass
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+node_modules
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Hiding Mac files
+.DS_Store

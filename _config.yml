@@ -1,0 +1,33 @@
+title: Covid Heroes
+baseurl: ""
+url: ""
+timezone: America/Los_Angeles
+
+
+collections:
+  heroes: 
+    sort_by: death_date
+#    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+#   -
+#     scope:
+#       path: ""
+#       type: "heroes"
+#     values:
+#       layout: "hero"
+
+exclude:
+  - assets/js/src
+  - Gemfile*
+  - node_modules
+  - package*.json
+  - README.md
+  - vendor
+  - webpack.config.js
