@@ -1,11 +1,11 @@
 ---
 title: Kious Kelly
 description: 
-portrait: 
+portrait: kious-kelly.jpg
 employer: Mount Sinai West
 occupation: Assistant Nursing Manager
 location: New York, NY
-source: https://twitter.com/_esaliba/status/1243014695390515207
+source: https://twitter.com/_esaliba/status/1243014695390515207, https://twitter.com/_esaliba/status/1243290056107929600, https://www.nbcnews.com/health/health-care/there-s-only-going-be-more-nyc-nurse-dies-after-n1169586
 birth_date: 
 death_date: 2020-03-25
 ---

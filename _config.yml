@@ -3,11 +3,17 @@ baseurl: ""
 url: ""
 timezone: America/Los_Angeles
 
+permalink: pretty
 
 collections:
   heroes: 
-    sort_by: death_date
+    sort_by: death_date DESC
     output: true
+    permalink: :name
+
+sass:
+    style: compressed
+    sass_dir: _sass
 
 defaults:
   -
@@ -28,6 +34,7 @@ exclude:
   - Gemfile*
   - node_modules
   - package*.json
-  - README.md
   - vendor
   - webpack.config.js
+  - README.md
+  - LICENSE.md

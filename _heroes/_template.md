@@ -2,8 +2,8 @@
 title: 
 description: 
 portrait: 
-employer: 
 occupation: 
+employer: 
 location: 
 source: 
 birth_date: 

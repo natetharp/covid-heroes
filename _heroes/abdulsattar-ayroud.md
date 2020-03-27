@@ -1,7 +1,7 @@
 ---
 title: Abdulsattar Ayroud
 description: 
-portrait: 
+portrait: abdulsattar-ayroud.jpg
 employer: 
 occupation: Doctor
 location: Italy

@@ -1,3 +1,67 @@
 ---
+layout: default
 ---
+<div class="usa-section">
+	<div class="grid-container">
+		<div class="grid-row grid-gap">
+			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
+				<nav aria-label="Secondary navigation">
+					<ul class="usa-sidenav">
+					  {% for hero in site.heroes %}
+					    <li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
+					      <a href="{{ hero.url }}">{{ hero.title }}</a>
+					    </li>
+					  {% endfor %}
+					</ul>
+					
+					
+<!--
+					<ul class="usa-sidenav">
+						<li class="usa-sidenav__item">
+						<a href="">Parent link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="" class="usa-current">Current page</a><ul class="usa-sidenav__sublist">
+							<li class="usa-sidenav__item">
+						<a href="">Child link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="" class="usa-current">Child link</a><ul class="usa-sidenav__sublist">
+							<li class="usa-sidenav__item">
+						<a href="">Grandchild link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="">Grandchild link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="" class="usa-current">Grandchild link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="">Grandchild link</a>
+					</li>
+						</ul>
+					</li><li class="usa-sidenav__item">
+						<a href="">Child link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="">Child link</a>
+					</li><li class="usa-sidenav__item">
+						<a href="">Child link</a>
+					</li>
+						</ul>
+					</li><li class="usa-sidenav__item">
+						<a href="">Parent link</a>
+					</li>
+					</ul>
+-->
+					
+					
+				</nav>
+			</div>
 
+			<main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
+				<h1>{{ page.title }}</h1>
+
+				<p class="usa-intro">{{ page.occupation }}{% if page.employer %}, {{ page.employer }}{% endif %}</p>
+				<p class="usa-intro">{{ page.location }}</p>
+
+				{{ content }}
+				
+			</main>
+		</div>
+	</div>
+</div>

@@ -7,14 +7,8 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
 ### List of individuals to be added
 - https://twitter.com/Aba_Tweet/status/1240929052120305664
-- https://twitter.com/hamza_inayat/status/1241813056826544130
-- https://twitter.com/HeartSisters/status/1242101942324588546
-- https://twitter.com/HeroesCovid/status/1243046284816072705
-- https://twitter.com/AsaadHannaa/status/1242212461354328065
-- https://twitter.com/AsaadHannaa/status/1242212461354328065
 - https://twitter.com/HeroesCovid/status/1243034512566575104
-- https://twitter.com/mercnews/status/1243028901619736578
-- https://twitter.com/_esaliba/status/1243014695390515207
+- https://twitter.com/ASRomaEN/status/1241753016891510784
 [Source](https://twitter.com/HeroesCovid)
 
 ---
