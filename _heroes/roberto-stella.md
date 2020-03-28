@@ -4,11 +4,15 @@ description:
 portrait: 
 employer: Medical Guild of Varese
 occupation: President
-location: Como, Italy
-source: https://people.com/health/italian-medical-chief-roberto-stella-dies-coronavirus/
-birth_date: 
+location: Varese, Italy
+source: https://people.com/health/italian-medical-chief-roberto-stella-dies-coronavirus/, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
+birth_date: 1952-07-22
 death_date: 2020-03-10
 ---
+
+Roberto Stella 22 07 1952 † 11 03 2020
+Presidente dell’Ordine dei Medici di Varese, Responsabile Area Strategica Formazione FNOMCeO, Presidente nazionale della SNAMID – Varese
+
 
 Italy’s National Federation of Doctors and General Practitioners issued a statement following the news mourning Roberto Stella’s death.
 
