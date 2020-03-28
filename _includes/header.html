@@ -3,11 +3,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
+	<meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
+	<meta name="keywords" content="coronavirus, covid, covid-19, healthcare, doctor, nurse, memorial" />
+	<link rel="author" href="{{ "/humans.txt" | prepend: site.baseurl }}" />
 	<link rel="canonical" href="{{ page.url | absolute_url }}" />
-	<link rel="author" href="{{ page.url | absolute_url }}/humans.txt" />
 	<meta name="robots" content="index" />
 	<link rel="alternate" hrefLang="en-us" href="{{ page.url | absolute_url }}" />
 	
@@ -23,20 +22,20 @@
 	<!-- / Facebook + Open Graph -->
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="Website" />
+	<meta property="og:site_name" content="{{ site.title }}" />
 	<meta property="og:title" content="{{ site.title }}" />
-	<meta property="og:description" content="Web page description." />
-	<meta property="og:url" content="https://www.example.com" />
+	<meta property="og:description" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+	<meta property="og:url" content="{{ page.url | absolute_url }}" />
 	<meta property="og:image" content="{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | prepend: site.baseurl }}" />
-	<meta property="og:image:alt" content="Image description" />
+	<meta property="og:image:alt" content="Covid Heroes symbol" />
 	
 	<!-- / Twitter Card -->
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:site" content="@example" />
+<!-- 	<meta name="twitter:site" content="@example" /> -->
 	<meta name="twitter:title" content="{{ site.title }}" />
-	<meta name="twitter:description" content="Web page description." />
+	<meta name="twitter:description" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
 	<meta name="twitter:image" content="{{ "/assets/img/favicons/twitter-card-logo-1024x512.png" | prepend: site.baseurl }}" />
-	<meta name="twitter:image:alt" content="Image description" />
+	<meta name="twitter:image:alt" content="Covid Heroes symbol" />
 	
 	<!-- / Favorite Icons -->
 	<meta name="msapplication-TileColor" content="#009ec1" />

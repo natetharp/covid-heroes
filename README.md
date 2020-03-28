@@ -5,11 +5,10 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
 ---
 
-### List of individuals to be added
-- https://twitter.com/Aba_Tweet/status/1240929052120305664
-- https://twitter.com/HeroesCovid/status/1243034512566575104
-- https://twitter.com/ASRomaEN/status/1241753016891510784
-[Source](https://twitter.com/HeroesCovid)
+### Data Resources
+- [Covid Heroes Twitter feed](https://twitter.com/HeroesCovid)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167) by [Jacques Fortier](https://twitter.com/jacquesgt)
+- [List of Italain medical professional casualties](https://portale.fnomceo.it/codice-deontologico/)
 
 ---
 
