@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Cardiology fellow-in-training
 employer: Philippine Heart Center
-location: Quezon City
+city: Quezon City
+province: 
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

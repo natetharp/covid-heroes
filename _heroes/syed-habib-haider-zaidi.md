@@ -4,7 +4,9 @@ description:
 portrait: syed-habib-haider-zaidi.jpg
 occupation: General Practitioner and Managing Partner
 employer: Eastwood Group Practice
-location: Essex, United Kingdom
+city: Essex
+province: 
+country: United Kingdom
 source: https://twitter.com/dara_naqvi/status/1243428027406659585, https://www.bbc.com/news/uk-england-essex-52040991
 birth_date: 
 death_date: 2020-03025

@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Former President
 employer: Philippine Heart Association
-location: 
+city: 
+province: 
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-24

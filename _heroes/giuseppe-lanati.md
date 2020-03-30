@@ -4,7 +4,9 @@ description:
 portrait: giuseppe-lanati.jpg
 occupation: Respiratory Specialist
 employer: 
-location: Como, Italy
+city: Como
+province: 
+country: Italy 
 source: https://twitter.com/HeartSisters/status/1242101942324588546, https://www.facebook.com/TheItalianAmericanPage1/posts/1124508381220371, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1946-08-24
 death_date: 2020-03-12

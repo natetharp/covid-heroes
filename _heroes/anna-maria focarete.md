@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Lecco, Italy
+city: Lecco
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1950-06-22
 death_date: 2020-03-27

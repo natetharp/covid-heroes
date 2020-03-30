@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Macerata, Italy
+city: Macerata
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1953-02-08
 death_date: 2020-03-19

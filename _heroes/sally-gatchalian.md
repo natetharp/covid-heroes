@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Head
 employer: Philippine Pediatric Society
-location: 
+city: 
+province: 
+country: 
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

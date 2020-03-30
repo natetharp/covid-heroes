@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Assistance Doctor
 employer: 
-location: Foggia, Italy
+city: Foggia
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.ansa.it/english/news/2020/03/26/coronavirus-another-2-docs-die-toll-up-to-39_4686de93-b5f9-4c49-803e-6868ec267757.html
 birth_date: 1960-09-14
 death_date: 2020-03-25

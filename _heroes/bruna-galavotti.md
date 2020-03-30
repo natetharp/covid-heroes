@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Bergamo, Italy
+city: Bergamo
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1933-04-03
 death_date: 2020-03-19

@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Cardiologist
 employer: Capitol Medical Center
-location: Quezon City
+city: Quezon City
+province: 
+country: Philippines
 source: https://twitter.com/HeroesCovid/status/1244110118351810562, https://www.msn.com/en-ph/news/national/ups-dr-francisco-lukban-has-passed-away-due-to-covid-19/ar-BB11RHR0?li=BBr8Mkn, https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-25

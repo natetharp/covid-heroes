@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Gynecologist
 employer: Diaconant-Fonderie Clinic
-location: Mulhouse, France
+city: Mulhouse
+province: 
+country: France
 source: https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680
 birth_date: 
 death_date: 2020-03-22

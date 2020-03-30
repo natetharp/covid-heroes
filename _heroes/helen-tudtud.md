@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Pathologist
 employer: Vicente Sotto Memorial Medical Center
-location: Cebu City, Cebu, Philippines
+city: Cebu City
+province: Cebu
+country: Philippines
 source: https://twitter.com/HeroesCovid/status/1244110118351810562, https://www.msn.com/en-ph/news/national/another-doctor-dies-due-to-covid-19-in-cebu-city/ar-BB11R8JM?li=BBr8zL6, https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-28

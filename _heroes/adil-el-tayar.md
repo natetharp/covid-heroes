@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Doctor
 employer: 
-location: Isleworth, United Kingdom
+city: Isleworth
+province: 
+country: United Kingdom
 source: https://twitter.com/HeroesCovid/status/1244109341377978368, https://www.theguardian.com/world/2020/mar/28/first-working-nhs-surgeon-dies-from-coronavirus
 birth_date: 
 death_date: 2020-03-25

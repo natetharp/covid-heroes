@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Lodi, Italy
+city: Lodi
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1958-12-27
 death_date: 2020-03-17

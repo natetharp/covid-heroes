@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: All-Around Doctor
 employer: 
-location: Calanasan, Apayao, Philippines
+city: Calanasan
+province: Apayao
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

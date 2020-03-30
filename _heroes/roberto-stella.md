@@ -4,7 +4,9 @@ description:
 portrait: 
 employer: Medical Guild of Varese
 occupation: President
-location: Varese, Italy
+city: Varese
+province: 
+country: Italy 
 source: https://people.com/health/italian-medical-chief-roberto-stella-dies-coronavirus/, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1952-07-22
 death_date: 2020-03-10

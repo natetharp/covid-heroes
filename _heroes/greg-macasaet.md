@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Anesthesiologist
 employer: Manila Doctors Hospital
-location: 
+city: 
+province: 
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

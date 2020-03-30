@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Medical Oncologist
 employer: San Juan de Dios Hospital
-location: 
+city: 
+province: 
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

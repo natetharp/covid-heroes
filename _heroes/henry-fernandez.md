@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Doctor
 employer: 
-location: Bayambang, Pangasinan, Philippines
+city: Bayambang
+province: Pangasinan
+country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
 death_date: 2020-03-

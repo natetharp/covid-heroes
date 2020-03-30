@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Lucca, Italy
+city: Lucca
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1951-10-30
 death_date: 2020-03-20

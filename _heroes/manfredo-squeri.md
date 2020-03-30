@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: Parma, Italy
+city: Parma
+province: 
+country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1944-01-06
 death_date: 2020-03-23

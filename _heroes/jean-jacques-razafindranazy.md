@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Doctor
 employer: Compiègne-Noyon Hospital
-location: Compiègne, France
+city: Compiègne
+province: 
+country: France
 source: http://www.rfi.fr/en/france/20200323-hospital-staff-pay-homage-to-first-french-doctor-to-die-of-coronavirus, https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680
 birth_date: 
 death_date: 2020-03-21

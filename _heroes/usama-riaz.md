@@ -4,7 +4,9 @@ description:
 portrait: usama-riaz.jpg
 occupation: Doctor
 employer: 
-location: Pakistan
+city: 
+province: 
+country: Pakistan
 source: https://twitter.com/hamza_inayat/status/1241813056826544130, https://www.upworthy.com/dr-usama-riaz-is-a-true-hero-in-fight-against-covid-19
 birth_date: 
 death_date: 2020-03-22

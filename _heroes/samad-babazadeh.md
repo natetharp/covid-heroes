@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Doctor
 employer: 
-location: Babol, Iran
+city: Babol
+province: 
+country: Iran
 source: https://www.middleeasteye.net/news/coronavirus-iran-outpouring-support-doctors-tackling-covid-19-online, https://twitter.com/IranNW/status/1241037604117549057
 birth_date: 
 death_date: 2020-03-20
