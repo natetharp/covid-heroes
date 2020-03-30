@@ -2,14 +2,13 @@
 title: Flavio Roncoli
 description: 
 portrait: 
-occupation: 
+occupation: Retire Doctor
 employer: 
 location: Bergamo, Italy
-source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
-birth_date: 
-death_date: 
+source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.ansa.it/english/news/2020/03/26/coronavirus-another-2-docs-die-toll-up-to-39_4686de93-b5f9-4c49-803e-6868ec267757.html
+birth_date: 1930-05-08
+death_date: 2020-03-25
 ---
 
-
-Flavio Roncoli 08 05 1930 † 03 2020
+Flavio Roncoli 08 05 1930 † 25 03 2020
 Pensionato – Bergamo
