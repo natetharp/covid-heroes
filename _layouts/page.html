@@ -7,13 +7,15 @@ layout: default
 			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
 				<nav aria-label="Secondary navigation">
 					<ul class="usa-sidenav">
-					  {% for page in site.pages %}
-					    <li class="usa-sidenav__item{% if page.title == page.url %} usa-current{% endif %}">
-					      <a href="{{ page.url }}">{{ page.title }}</a>
-					    </li>
-					  {% endfor %}
+						{% for page in site.pages %}
+						{% if page.layout == "default" or page.url contains ".xml" %}
+						{% else %}
+						<li class="usa-sidenav__item{% if page.title == page.url %} usa-current{% endif %}">
+							<a href="{{ page.url }}">{{ page.title }}</a>
+						</li>
+						{% endif %}
+						{% endfor %}
 					</ul>
-					
 				</nav>
 			</div>
 
