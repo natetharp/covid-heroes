@@ -29,6 +29,11 @@ defaults:
     values:
       layout: "hero"
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  
 exclude:
   - assets/js/src
   - Gemfile*
