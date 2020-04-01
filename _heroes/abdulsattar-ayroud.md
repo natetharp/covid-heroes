@@ -4,7 +4,9 @@ description:
 portrait: abdulsattar-ayroud.jpg
 employer: 
 occupation: Doctor
-location: Piacenza, Italy
+city: Piacenza
+province: 
+country: Italy 
 source: https://twitter.com/AsaadHannaa/status/1242212461354328065, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1945-06-23
 death_date: 2020-03-16

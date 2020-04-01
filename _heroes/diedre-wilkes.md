@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: Mammogram Technician 
 employer: Piedmont Newnan Hospital
-location: Newnan, Georgia
+city: Newnan
+province: Georgia
+country: United States
 source: https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386, https://www.ajc.com/news/virus-claims-two-georgia-healthcare-workers/XTijtgzE6z2gcoZ7QLvPZN/
 birth_date: 
 death_date: 2020-03-19

@@ -1,10 +1,12 @@
 ---
 title: Shirin Rouhani
 description: 
-portrait: 
+portrait: shirin-rouhani.jpg
 occupation: Doctor
 employer: 
-location: 
+city: 
+province: 
+country: 
 source: https://www.middleeasteye.net/news/coronavirus-iran-outpouring-support-doctors-tackling-covid-19-online, https://twitter.com/zafarabbaszaidi/status/1240750629686894592
 birth_date: 
 death_date: 2020-03-19

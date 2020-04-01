@@ -4,7 +4,9 @@ description:
 portrait: john-murray.jpg
 employer: San Francisco General Hospital
 occupation: Retired former Chief of Pulmonary and Critical Care
-location: San Francisco, CA
+city: San Francisco
+province: California
+country: United States
 source: https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-specialist-dr-john-f-murray-dies-of-disease-he-helped-fight-after-bout-with-covid-19/
 birth_date: 
 death_date: 2020-03-24

@@ -4,7 +4,9 @@ description:
 portrait: 
 occupation: 
 employer: 
-location: 
+city: 
+province: 
+country: 
 source: 
 birth_date: 
 death_date: 
