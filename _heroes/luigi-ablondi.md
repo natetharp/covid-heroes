@@ -1,7 +1,7 @@
 ---
 title: Luigi Ablondi
 description: 
-portrait: 
+portrait: luigi-ablondi.jpg
 occupation: 
 employer: 
 city: Cremona

@@ -1,7 +1,7 @@
 ---
 title: Giuseppe Finzi
 description: 
-portrait: 
+portrait: giuseppe-finzi.jpg
 occupation: Director
 employer: Parma Day Hospital
 city: Parma

@@ -1,7 +1,7 @@
 ---
 title: Laurentius P.
 description: 
-portrait: 
+portrait: laurentius-p.jpg
 occupation: Doctor
 employer: 
 city: East Jakarta

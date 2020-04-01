@@ -1,7 +1,7 @@
 ---
 title: Jean-Jacques Razafindranazy
 description: 
-portrait: 
+portrait: jean-jacques-razafindranazy.jpg
 occupation: Doctor
 employer: Compiègne-Noyon Hospital
 city: Compiègne

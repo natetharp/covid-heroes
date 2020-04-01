@@ -1,7 +1,7 @@
 ---
 title: Alex Hsu
 description: 
-portrait: 
+portrait: alex-hsu.jpg
 occupation: Doctor of Internal Medicine
 employer: Northwest Medical Center
 city: Margate

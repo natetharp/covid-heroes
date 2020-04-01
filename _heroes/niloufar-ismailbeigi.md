@@ -1,7 +1,7 @@
 ---
 title: Niloufar Ismailbeigi
 description: 
-portrait: 
+portrait: niloufar-ismailbeigi.jpg
 occupation: General Practitioner
 employer: 
 city: 

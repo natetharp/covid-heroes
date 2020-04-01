@@ -1,7 +1,7 @@
 ---
 title: Calogero Giabbarrasi
 description: 
-portrait: 
+portrait: calogero-giabbarrasi.jpg
 occupation: 
 employer: 
 city: Caltanissetta

@@ -1,7 +1,7 @@
 ---
 title: Gino Fasoli
 description: 
-portrait: 
+portrait: gino-fasoli.jpg
 occupation: Doctor
 employer: 
 city: Brescia

@@ -1,7 +1,7 @@
 ---
 title: Amged El-Hawrani
 description: 
-portrait: 
+portrait: amged-el-hawrani.jpg
 occupation: ENT Specialist
 employer: Queen's Hospital Burton
 city: Leicester

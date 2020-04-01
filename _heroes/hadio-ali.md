@@ -1,7 +1,7 @@
 ---
 title: Hadio Ali
 description: 
-portrait: 
+portrait: hadio-ali.jpg
 occupation: Doctor
 employer: 
 city: South Jakarta

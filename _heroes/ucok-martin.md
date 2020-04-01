@@ -1,7 +1,7 @@
 ---
 title: Ucok Martin
 description: 
-portrait: 
+portrait: ucok-martin.jpg
 occupation: Doctor
 employer: 
 city: Medan

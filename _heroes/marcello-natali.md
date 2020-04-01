@@ -1,7 +1,7 @@
 ---
 title: Marcello Natali
 description: 
-portrait: 
+portrait: marcello-natali.jpg
 occupation: Doctor
 employer: 
 city: Lodi

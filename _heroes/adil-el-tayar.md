@@ -1,7 +1,7 @@
 ---
 title: Adil El Tayar
 description: 
-portrait: 
+portrait: adil-el-tayar.jpg
 occupation: Doctor
 employer: 
 city: Isleworth

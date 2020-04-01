@@ -1,7 +1,7 @@
 ---
 title: Samad Babazadeh
 description: 
-portrait: 
+portrait: samad-babazadeh.jpg
 occupation: Doctor
 employer: 
 city: Babol

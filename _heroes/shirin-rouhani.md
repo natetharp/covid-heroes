@@ -1,7 +1,7 @@
 ---
 title: Shirin Rouhani
 description: 
-portrait: 
+portrait: shirin-rouhani.jpg
 occupation: Doctor
 employer: 
 city: 

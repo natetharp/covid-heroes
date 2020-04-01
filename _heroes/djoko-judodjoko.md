@@ -1,7 +1,7 @@
 ---
 title: Djoko Judodjoko
 description: 
-portrait: 
+portrait: djoko-judodjoko.jpg
 occupation: Doctor
 employer: 
 city: Bogor
