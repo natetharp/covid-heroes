@@ -1,11 +1,21 @@
 /* SITE */
 
+Standards: HTML5, CSS3, USWDS
+Components: Jekyll, GitHub Pages
+Software: Coda, Terminal
 
 
 /* TEAM */
 
+Name: Nate Tharp
+Site: https://natetharp.com 
+Twitter: @natetharp
+Location: Los Angeles, CA
 
-	
 
 /* THANKS */
 
+Thanks to Maciej Ceglowski for the original idea: https://twitter.com/Pinboard/status/1243027902767067136
+Thanks to Maciej Ceglowski for creating and maintaining the Covid Heroes Twitter feed: https://twitter.com/HeroesCovid
+Thanks to Jacques Fortier for creating the initial dataset: https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167
+Thanks to the Italain medical association for maintaining a list of those lost in Italy: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
