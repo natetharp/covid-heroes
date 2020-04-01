@@ -5,6 +5,18 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
 ---
 
+### Planned Features
+- List of Heroes by Country
+- List of Heroes Month/Day
+- Order heroes by date
+- Replace blue circle with generic profile image
+- Add images to profile pages
+- Add search
+- Fix mobile navigation
+- Put navigation in YAML file
+
+---
+
 ### Data Resources
 - [Covid Heroes Twitter feed](https://twitter.com/HeroesCovid)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167) by [Jacques Fortier](https://twitter.com/jacquesgt)
