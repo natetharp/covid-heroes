@@ -7,10 +7,12 @@ Software: Coda, Terminal
 
 /* TEAM */
 
-Name: Nate Tharp
-Site: https://natetharp.com 
+Name: Nate Tharp (Research, Design, and Development)
 Twitter: @natetharp
 Location: Los Angeles, CA
+
+Name: Christy Joy (Copywriting)
+Location: Spartanburg, SC
 
 
 /* THANKS */
