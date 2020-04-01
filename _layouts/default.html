@@ -7,15 +7,35 @@
 <body>
 	<a class="usa-skipnav" href="#main-content">Skip to main content</a>
 	
-	<main id="main-content">
-	
 	<header class="usa-header usa-header--extended">
 		<div class="usa-navbar">
-			<div class="usa-logo" id="extended-logo">
+			<div class="usa-logo" id="extended-mega-logo">
 				<em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">COVID Heroes</a></em>
 			</div>
+			<button class="usa-menu-btn">Menu</button>
 		</div>
+		<nav aria-label="Primary navigation" class="usa-nav">
+			<div class="usa-nav__inner">
+				<button class="usa-nav__close"><img src="{{ "/assets/img/close.svg" | prepend: site.baseurl }}" alt="close" /></button>
+				<div class="usa-nav__secondary">
+					<ul class="usa-nav__secondary-links padding-top-4">
+						<li class="usa-nav__secondary-item">
+							<a href="{{ "/about" | prepend: site.baseurl }}">About</a>
+						</li>
+						<li class="usa-nav__secondary-item">
+							<a href="{{ "/support" | prepend: site.baseurl }}">Support</a>
+						</li>
+						<li class="usa-nav__secondary-item">
+							<a href="{{ "/submit" | prepend: site.baseurl }}">Submit</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
 	</header>
+	
+	<main id="main-content">
+	
 	
 	{{ content }}
 	
