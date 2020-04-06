@@ -1,11 +1,11 @@
 # Covid Heroes
 A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
-[Credit](https://twitter.com/Pinboard/status/1243027902767067136)
-
 ---
 
 ### Planned Features
+- Add Submission Form
+- Add contributing details [reference](https://github.com/COVID19Tracking/website)
 - List of Heroes by Country
 - List of Heroes Month/Day
 - Order heroes by date
