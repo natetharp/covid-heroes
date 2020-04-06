@@ -8,6 +8,7 @@ Healthcare providers are under siege and need all the help they can get. Here ar
 
 - [Masks for Docs](https://masksfordocs.com){:target="_blank"}
 - [Donate PPE](https://www.donateppe.org){:target="_blank"}
+- [HospitalHero](https://hospitalhero.care){:target="_blank"}
 - [Face Shields 4 Heroes](https://www.gofundme.com/f/hospital-protective-shield-fundraiser){:target="_blank"}
 - [Partners In Health](https://www.pih.org){:target="_blank"}
 - [Project C.U.R.E.](https://projectcure.org/project-cure-response-covid-19){:target="_blank"}
