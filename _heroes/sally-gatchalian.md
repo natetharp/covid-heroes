@@ -4,15 +4,15 @@ description:
 portrait: 
 occupation: Head
 employer: Philippine Pediatric Society
-city: 
-province: 
-country: 
-source: https://www.esquiremag.ph/author/yvette-fernandez
+city: Manila
+province: National Capital Region
+country: Philippines
+source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.aappublications.org/news/2020/03/27/gatchalianobit032720
 birth_date: 
-death_date: 2020-03-
+death_date: 2020-03-26
 ---
 
-> Dr. Gatchalian was the well-loved head of the Philippine Pediatric Society. She was also a fellow of the Pediatric Infection Disease for many years.  She championed children’s health and fought infectious diseases. She also helped create the Philippines Coalition against TB.
+> Dr. Salvacion "Sally" R. Gatchalian was the well-loved head of the Philippine Pediatric Society. She was also a fellow of the Pediatric Infection Disease for many years. She championed children’s health and fought infectious diseases. She also helped create the Philippines Coalition against TB.
 > 
 > Many students mourned her loss on social media. 
 > 

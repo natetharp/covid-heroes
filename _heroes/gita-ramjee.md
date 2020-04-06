@@ -7,7 +7,7 @@ employer: South African Medical Research Council's HIV Prevention Research Unit
 city: Durban
 province: 
 country: South Africa
-source: https://twitter.com/yashar/status/1245181040525602817, https://www.bbc.com/news/world-africa-52120265
+source: https://twitter.com/yashar/status/1245181040525602817, https://www.bbc.com/news/world-africa-52120265, https://www.msn.com/en-za/news/other/just-in-renowned-sa-scientist-gita-ramjee-dies-of-complications-due-to-covid-19/ar-BB11YPOm
 birth_date: 
 death_date: 2020-03-31
 ---
