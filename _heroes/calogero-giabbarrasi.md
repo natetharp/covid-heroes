@@ -2,10 +2,10 @@
 title: Calogero Giabbarrasi
 description: 
 portrait: calogero-giabbarrasi.jpg
-occupation: 
+occupation: Physician
 employer: 
 city: Caltanissetta
-province: 
+province: Sicily
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.ilfattonisseno.it/wp-content/uploads/2020/03/Screenshot_20200325_121648.jpg
 birth_date: 1951-09-28

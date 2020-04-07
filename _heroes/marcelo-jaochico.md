@@ -2,7 +2,7 @@
 title: Marcelo Jaochico
 description: 
 portrait: 
-occupation: All-Around Doctor
+occupation: Physician, Family Medicine
 employer: 
 city: Calanasan
 province: Apayao

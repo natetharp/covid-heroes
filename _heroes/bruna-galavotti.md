@@ -2,10 +2,10 @@
 title: Bruna Galavotti
 description: 
 portrait: 
-occupation: 
+occupation: Psychiatrist
 employer: 
 city: Bergamo
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1933-04-03

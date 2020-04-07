@@ -2,8 +2,8 @@
 title: Kious Kelly
 description: 
 portrait: kious-kelly.jpg
+occupation: Assistant Nursing Manager, Emergency Department
 employer: Mount Sinai West
-occupation: Assistant Nursing Manager
 city: New York
 province: New York
 country: United States
@@ -14,6 +14,8 @@ death_date: 2020-03-25
 
 He was an assistant nursing manager at Mount Sinai West in New York. 
 
-His colleagues say he was caring for COVID19 patients. 
+His colleagues say he was caring for COVID-19 patients. 
 
 Hospital confirms he died: "Today, we lost another hero — a compassionate colleague, friend and selfless caregiver."
+
+48 years old.

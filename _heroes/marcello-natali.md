@@ -2,10 +2,10 @@
 title: Marcello Natali
 description: 
 portrait: marcello-natali.jpg
-occupation: Doctor
+occupation: Physician
 employer: 
 city: Lodi
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.businessinsider.com/italian-doctor-dies-from-coronavirus-covid-19-after-warning-low-supplies-2020-3, https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/
 birth_date: 1963-09-13

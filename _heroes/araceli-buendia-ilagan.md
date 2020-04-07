@@ -12,3 +12,4 @@ birth_date:
 death_date: 2020-03-27
 ---
 
+63 years old.

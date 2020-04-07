@@ -21,3 +21,5 @@ Italy’s National Federation of Doctors and General Practitioners issued a stat
 > “He was the example of the capability and hard work of family doctors. His death represents the outcry of all colleagues who still today are not equipped with the proper individual protection needed,” 
 > 
 > &mdash; Silvestro Scotti, secretary of Italy's National Federation of Doctors and General Practitioners
+
+67 years old

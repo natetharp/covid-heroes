@@ -2,10 +2,10 @@
 title: Ivano Vezzulli
 description: 
 portrait: 
-occupation: 
+occupation: Physician
 employer: 
 city: Lodi
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1958-12-27

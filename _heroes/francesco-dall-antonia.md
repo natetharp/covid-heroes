@@ -2,10 +2,10 @@
 title: Francesco Dall’Antonia
 description: 
 portrait: 
-occupation: 
+occupation: Retired Surgeon
 employer: 
 city: Vicenza
-province: 
+province: Veneto
 country: Italy
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1938-02-14

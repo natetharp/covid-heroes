@@ -2,10 +2,10 @@
 title: Israel Bactol
 description: 
 portrait: 
-occupation: Cardiology fellow-in-training
+occupation: Cardiology Fellow In-training
 employer: Philippine Heart Center
 city: Quezon City
-province: 
+province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 

@@ -2,10 +2,10 @@
 title: Antonio Buonom
 description: 
 portrait: 
-occupation: 
+occupation: Coroner
 employer: 
 city: Napoli
-province: 
+province: Campania
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1955-01-14

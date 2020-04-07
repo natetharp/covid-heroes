@@ -6,7 +6,7 @@ occupation: Doctor
 employer: 
 city: 
 province: 
-country: 
+country: Iran
 source: https://www.middleeasteye.net/news/coronavirus-iran-outpouring-support-doctors-tackling-covid-19-online, https://twitter.com/zafarabbaszaidi/status/1240750629686894592
 birth_date: 
 death_date: 2020-03-19

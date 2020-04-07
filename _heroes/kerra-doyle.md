@@ -1,0 +1,15 @@
+---
+title: Kerra Doyle
+description: 
+portrait: 
+occupation: Obstetrician
+employer: Excela
+city: Greensburg
+province: Pennsylvania
+country: United States
+source: 
+birth_date: 
+death_date: 
+---
+
+34 years old.

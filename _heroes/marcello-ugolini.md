@@ -2,10 +2,10 @@
 title: Marcello Ugolini
 description: 
 portrait: 
-occupation: 
+occupation: Pulmonologist
 employer: 
 city: Pesaro Urbino
-province: 
+province: Marche
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1949-05-01

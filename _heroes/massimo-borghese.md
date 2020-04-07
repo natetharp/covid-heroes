@@ -2,10 +2,10 @@
 title: Massimo Borghese
 description: 
 portrait: 
-occupation: 
+occupation: Otolaryngologist and Phoniatrist
 employer: 
 city: Napoli
-province: 
+province: Campania
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1957-03-12

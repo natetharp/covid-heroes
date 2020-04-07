@@ -2,10 +2,10 @@
 title: Gino Fasoli
 description: 
 portrait: gino-fasoli.jpg
-occupation: Doctor
+occupation: Retired Physician
 employer: 
 city: Brescia
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.corriere.it/cronache/20_marzo_21/coronavirus-morto-medico-gino-fasoli-era-rientrato-pensione-9e7d0f66-6b35-11ea-8bdc-8d7efa0d8720.shtml
 birth_date: 1946-12-09

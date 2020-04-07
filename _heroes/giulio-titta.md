@@ -2,10 +2,10 @@
 title: Giulio Titta
 description: 
 portrait: 
-occupation: 
+occupation: Physician
 employer: 
 city: Torino
-province: 
+province: Piedmont
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1947-02-23

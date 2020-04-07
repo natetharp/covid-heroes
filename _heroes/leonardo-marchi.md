@@ -2,10 +2,10 @@
 title: Leonardo Marchi
 description: 
 portrait: 
-occupation: 
-employer: 
+occupation: Infectious Disease
+employer: San Camillo Nursing Home
 city: Cremona
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1956-01-01

@@ -4,8 +4,8 @@ description:
 portrait: 
 occupation: Medical Oncologist
 employer: San Juan de Dios Hospital
-city: 
-province: 
+city: Pasay
+province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 
@@ -23,3 +23,5 @@ death_date: 2020-03-
 > "You were a very compassionate, dedicated, patient and caring doctor who devoted time to each patient, even charity patients. You had a sweet smile for everyone,” she said.
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
+
+46 years old.
