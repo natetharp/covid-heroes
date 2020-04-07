@@ -4,13 +4,11 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 ---
 
 ### Planned Features
-- Add Submission Form
 - Add contributing details [reference](https://github.com/COVID19Tracking/website)
 - List of Heroes by Country
 - List of Heroes Month/Day
 - Order heroes by date
 - Replace blue circle with generic profile image
-- Add images to profile pages
 - Add search
 - Fix mobile navigation
 - Put navigation in YAML file
@@ -19,8 +17,13 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
 ### Data Resources
 - [Covid Heroes Twitter feed](https://twitter.com/HeroesCovid)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167) by [Jacques Fortier](https://twitter.com/jacquesgt)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1pFdoZqjnDRaSzJi0JJJ3f5zdb87Q5tL3zc4nGx1nejI/edit#gid=1744604459) by [C. Michael Gibson MD](https://twitter.com/CMichaelGibson)
+- [Medscape Memorial](https://www.medscape.com/viewarticle/927976)
+- [Memorial Page](https://nursingnotes.co.uk/covid-19-memorial/) from [Nursing Notes](https://twitter.com/NursingNotesUK/)
 - [List of Italain medical professional casualties](https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/)
+
+### Former Data Resources
+- ~~[Spreadsheet](https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167) by [Jacques Fortier](https://twitter.com/jacquesgt)~~
 
 ---
 
