@@ -2,10 +2,10 @@
 title: Piero Lucarelli
 description: 
 portrait: 
-occupation: 
+occupation: Anesthesiologist
 employer: 
 city: Bergamo
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1946-01-14

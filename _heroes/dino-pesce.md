@@ -2,10 +2,10 @@
 title: Dino Pesce
 description: 
 portrait: 
-occupation: 
+occupation: Internist
 employer: 
 city: Genova
-province: 
+province: Liguria
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1946-01-16

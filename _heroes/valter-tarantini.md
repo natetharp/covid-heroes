@@ -5,7 +5,7 @@ portrait:
 occupation: Gynecologist
 employer: 
 city: Forlì Cesena
-province: 
+province: Emilia-Romagna
 country: Italy
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1948-09-21

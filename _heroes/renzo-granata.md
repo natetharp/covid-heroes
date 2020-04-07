@@ -2,10 +2,10 @@
 title: Renzo Granata
 description: 
 portrait: 
-occupation: 
+occupation: Physician
 employer: 
 city: Alessandria
-province: 
+province: Piedmont
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1951-09-28

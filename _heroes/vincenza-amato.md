@@ -2,10 +2,10 @@
 title: Vincenza Amato
 description: 
 portrait: 
-occupation: 
-employer: 
+occupation: Chief Medical Officer
+employer: Department of Hygiene and Health
 city: Bergamo
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1954-05-22

@@ -2,7 +2,7 @@
 title: Raffaele Giura
 description: 
 portrait: 
-occupation: 
+occupation: Pulmonologist
 employer: 
 city: Como
 province: 

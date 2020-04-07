@@ -2,10 +2,10 @@
 title: Marino Chiodi
 description: 
 portrait: 
-occupation: 
+occupation: Oculist
 employer: 
 city: Bergamo
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1949-05-30

@@ -2,10 +2,10 @@
 title: Luigi Frusciante
 description: 
 portrait: luigi-frusciante.jpg
-occupation: Family Doctor
+occupation: Family Physician
 employer: 
 city: Como
-province: 
+province: Lombardy
 country: Italy 
 source: https://twitter.com/HeartSisters/status/1242101942324588546, https://www.facebook.com/TheItalianAmericanPage1/posts/1124545627883313, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1949-02-13

@@ -2,7 +2,7 @@
 title: Carlo Zavaritt
 description: 
 portrait: 
-occupation: 
+occupation: Pediatrician and Neuropsychologist
 employer: 
 city: Bergamo
 province: 

@@ -2,14 +2,16 @@
 title: Adil El Tayar
 description: 
 portrait: adil-el-tayar.jpg
-occupation: Doctor
-employer: 
+occupation: Transplant Surgeon
+employer: West Middlesex University
 city: Isleworth
-province: 
+province: London
 country: United Kingdom
-source: https://twitter.com/HeroesCovid/status/1244109341377978368, https://www.theguardian.com/world/2020/mar/28/first-working-nhs-surgeon-dies-from-coronavirus
+source: https://twitter.com/HeroesCovid/status/1244109341377978368, https://www.theguardian.com/world/2020/mar/28/first-working-nhs-surgeon-dies-from-coronavirus, https://nursingnotes.co.uk/covid-19-memorial/
 birth_date: 
 death_date: 2020-03-25
 ---
 
-Dr. Adil El Tayar, an organ transplant specialist, was the first working NHS surgeon to die from coronavirus.
+Dr. Adil El Tayar, a renown organ transplant specialist, was the first working NHS surgeon to die from coronavirus. He died at West Middlesex University Hospital in Isleworth, west London.
+
+He was 63 years old.

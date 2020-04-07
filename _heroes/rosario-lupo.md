@@ -14,3 +14,5 @@ death_date: 2020-03-23
 
 Rosario Lupo 02 10 1955 †  23 03 2020
 Medico legale – Bergamo
+
+Rosario	Lupo	64	Coroner		Bergamo	Lombardy	Italy

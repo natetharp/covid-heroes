@@ -13,3 +13,5 @@ death_date: 2020-03-31
 ---
 
 Gita Ramjee, a world-renowned virologist and vaccine scientist who dedicated her life to HIV prevention (particularly with women), has died due to the coronavirus.
+
+Gita	Ramjee		Physician - ID	Aurum Institute	KwaZulu-Natal		Africa

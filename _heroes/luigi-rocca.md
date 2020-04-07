@@ -2,10 +2,10 @@
 title: Luigi Rocca
 description: 
 portrait: 
-occupation: 
+occupation: Pediatrician
 employer: 
 city: Piacenza
-province: 
+province: Emilia Romagna
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1926-12-24

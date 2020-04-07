@@ -2,7 +2,7 @@
 title: Alex Hsu
 description: 
 portrait: alex-hsu.jpg
-occupation: Doctor of Internal Medicine
+occupation: Hematologist, Doctor of Internal Medicine
 employer: Northwest Medical Center
 city: Margate
 province: Florida
@@ -12,3 +12,4 @@ birth_date:
 death_date: 2020-03-25
 ---
 
+67 years old.

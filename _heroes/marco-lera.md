@@ -2,10 +2,10 @@
 title: Marco Lera
 description: 
 portrait: 
-occupation: 
+occupation: Dentist	
 employer: 
 city: Lucca
-province: 
+province: Tuscany
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1951-10-30

@@ -2,10 +2,10 @@
 title: Raul Jara
 description: 
 portrait: 
-occupation: Former President
-employer: Philippine Heart Association
-city: 
-province: 
+occupation: Cardiologist
+employer: Capitol Medical Center
+city: Quezon City
+province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez
 birth_date: 

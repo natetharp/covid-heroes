@@ -2,10 +2,10 @@
 title: Gabriele Lombardi
 description: 
 portrait: 
-occupation: 
+occupation: Dentist
 employer: 
 city: Brescia
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 1951-08-20

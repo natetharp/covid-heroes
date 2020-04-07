@@ -2,13 +2,13 @@
 title: Franco Galli
 description: 
 portrait: 
-occupation: 
+occupation: Physician
 employer: 
 city: Mantova
-province: 
+province: Lombardy
 country: Italy 
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
-birth_date: 28 03 1954-03-28
+birth_date: 1954-03-28
 death_date: 2020-03-17
 ---
 

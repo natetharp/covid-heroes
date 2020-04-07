@@ -2,7 +2,7 @@
 title: Giuseppe Borghi
 description: 
 portrait: 
-occupation: 
+occupation: Physician
 employer: 
 city: Lodi
 province: 
@@ -14,3 +14,5 @@ death_date: 2020-03-13
 
 Giuseppe Borghi 19 01 1956 † 13 03 2020
 Medico di Medicina Generale  – Lodi
+
+64 years old.
