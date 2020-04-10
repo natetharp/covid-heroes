@@ -4,8 +4,8 @@ description:
 portrait: 
 occupation: Nurse and Midwife
 employer: Colindale Medical Centre
-city: 
-province: 
+city: London
+province: London
 country: United Kingdom
 source: https://nursingnotes.co.uk/covid-19-memorial/
 birth_date: 
