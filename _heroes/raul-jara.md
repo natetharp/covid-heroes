@@ -7,7 +7,7 @@ employer: Capitol Medical Center
 city: Quezon City
 province: National Capital Region
 country: Philippines
-source: https://www.esquiremag.ph/author/yvette-fernandez
+source: https://www.esquiremag.ph/author/yvette-fernandez, https://cnnphilippines.com/news/2020/3/24/Cardiologist-Raul-Jara-death-coronavirus-COVID-19.html
 birth_date: 
 death_date: 2020-03-24
 ---
@@ -26,4 +26,4 @@ death_date: 2020-03-24
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
 
-<a href="https://cnnphilippines.com/news/2020/3/24/Cardiologist-Raul-Jara-death-coronavirus-COVID-19.html?fbclid=IwAR1zdkaf6yrNLlUJfJ0kv6EuD7ZMIejXKUoC7dU0nHjxALYci_aPJcy9Vi8">Raul Diaz Jara</a>, 71, Cardiologist, Philippines
+Raul Diaz Jara was 71 years old.

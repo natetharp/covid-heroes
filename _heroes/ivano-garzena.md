@@ -15,4 +15,4 @@ death_date: 2020-03-23
 Ivano Garzena 07 10 1971 † 23 03 2020
 Odontoiatra – Torino
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Ivano Garzena</a>, 48, Dentist, Turin, Italy
+48 years old.

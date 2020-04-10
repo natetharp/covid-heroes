@@ -7,7 +7,7 @@ employer: Piedmont Newnan Hospital
 city: Newnan
 province: Georgia
 country: United States
-source: https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386, https://www.ajc.com/news/virus-claims-two-georgia-healthcare-workers/XTijtgzE6z2gcoZ7QLvPZN/
+source: https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386, https://www.ajc.com/news/virus-claims-two-georgia-healthcare-workers/XTijtgzE6z2gcoZ7QLvPZN/, https://emedicine.medscape.com/article/1948247-overview
 birth_date: 
 death_date: 2020-03-19
 ---
@@ -15,5 +15,3 @@ death_date: 2020-03-19
 Diedre Wilkes, a 42-year-old hospital worker in Georgia who had coronavirus was found dead in her home with her 4-year-old child by her body.
 
 Wilkes' body was discovered Thursday in the living room of her home in Newnan, about 40 miles southwest of Atlanta, after a family member called the Coweta County Sheriff's Office requesting a welfare check, the coroner, Richard Hawk, told NBC News on Wednesday.
-
-<a href="https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386">Diedre Wilkes</a>, 42, <a class="cl_ref_article_1948247" href="https://emedicine.medscape.com/article/1948247-overview">Mammogram</a> Technician, Piedmont Newnan Hospital, Newnan, Georgia

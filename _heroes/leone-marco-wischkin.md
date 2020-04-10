@@ -15,4 +15,4 @@ death_date: 2020-03-27
 Leone Marco Wischkin 23 03 1949 † 27 03 2020 (data segnalazione)
 Medico internista – Pesaro Urbino
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Leone Marco Wischkin</a>, 71, Internist, Pesaro Urbino, Italy
+71 years old.

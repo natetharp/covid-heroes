@@ -2,14 +2,14 @@
 title: Mahen Ramloli
 description: 
 portrait: 
-occupation: 
+occupation: General Practitioner
 employer: 
 city: 
 province: 
 country: France
-source: https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680
+source: https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680, https://francais.medscape.com/voirarticle/3605782
 birth_date: 
 death_date: 
 ---
 
-<a href="https://francais.medscape.com/voirarticle/3605782">Mahen Ramloll</a>, 70, General Practitioner, France
+70 years old

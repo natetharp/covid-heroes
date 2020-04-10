@@ -21,4 +21,4 @@ Medico di medicina generale già in pensione richiamato per l’emergenza Covid-
 > 
 > Fasoli was originally from Sulmona. He will be buried in Sulmona, where his family lives. Gino leaves his brother Gabriele, his sister-in-law Gabriella, and his granddaughter Anna Paola.
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Gino Fasoli</a>, 73, Retired General Practitioner, Brescia, Italy
+73 years old.

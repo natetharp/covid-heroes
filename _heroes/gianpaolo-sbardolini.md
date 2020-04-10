@@ -2,7 +2,7 @@
 title: Gianpaolo Sbardolini
 description: 
 portrait: 
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: 
 province: 
@@ -15,4 +15,4 @@ death_date: 2020-03-26
 Gianpaolo Sbardolini † 26 03 2020
 Medico di medicina generale
 
-<p>Gianpaolo Sbardolini, age unknown, General Practitioner, Italy
+Age unknown.

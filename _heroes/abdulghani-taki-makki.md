@@ -15,4 +15,4 @@ death_date: 2020-03-24
 Abdulghani Taki Makki 20 04 1941 † 24 03 2020
 Odontoiatra – Fermo
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Abdulghani Taki Makki</a>, 78, Dentist, Italy
+78 years old.

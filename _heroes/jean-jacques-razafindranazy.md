@@ -2,12 +2,12 @@
 title: Jean-Jacques Razafindranazy
 description: 
 portrait: jean-jacques-razafindranazy.jpg
-occupation: Doctor
+occupation: Emergency Doctor
 employer: Compiègne-Noyon Hospital
 city: Compiègne
 province: 
 country: France
-source: http://www.rfi.fr/en/france/20200323-hospital-staff-pay-homage-to-first-french-doctor-to-die-of-coronavirus, https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680
+source: http://www.rfi.fr/en/france/20200323-hospital-staff-pay-homage-to-first-french-doctor-to-die-of-coronavirus, https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680, https://francais.medscape.com/voirarticle/3605782
 birth_date: 
 death_date: 2020-03-21
 ---
@@ -18,4 +18,4 @@ According to France Info, Dr Razafindranazy was hospitalised himself on 4 March 
 
 According to a France Info journalist at the scene, one hundred or so staff members at Compiègne hospital turned out to pay their respects, in front of the hospital.
 
-<a href="https://francais.medscape.com/voirarticle/3605782">Jean-Jacques Razafindranazy</a>, 67, Emergency Doctor, Lille, France
+67 years old.

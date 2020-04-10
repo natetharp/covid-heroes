@@ -12,4 +12,3 @@ birth_date:
 death_date: 
 ---
 
-	

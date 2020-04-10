@@ -15,4 +15,4 @@ death_date: 2020-03-17
 Franco Galli 28 03 1954 † 17 03 2020
 Medico di Medicina Generale  – Mantova
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Franco Galli</a>, 65, General Practitioner, Mantua, Italy
+65 years old.

@@ -15,4 +15,4 @@ death_date: 2020-03-19
 Piero Lucarelli 14 01 1946 † 19 03 2020 (data segnalazione)
 Anestesista – Bergamo
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Piero Lucarelli</a>, 74, Anesthesiologist, Bergamo, Italy
+74 years old.

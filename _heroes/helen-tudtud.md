@@ -7,7 +7,7 @@ employer: Vicente Sotto Memorial Medical Center
 city: Cebu City
 province: Cebu
 country: Philippines
-source: https://twitter.com/HeroesCovid/status/1244110118351810562, https://www.msn.com/en-ph/news/national/another-doctor-dies-due-to-covid-19-in-cebu-city/ar-BB11R8JM?li=BBr8zL6, https://www.esquiremag.ph/author/yvette-fernandez
+source: https://twitter.com/HeroesCovid/status/1244110118351810562, https://www.msn.com/en-ph/news/national/another-doctor-dies-due-to-covid-19-in-cebu-city/ar-BB11R8JM?li=BBr8zL6, https://www.esquiremag.ph/author/yvette-fernandez, https://cebudailynews.inquirer.net/297880/family-grieves-over-death-of-cebuana-doctor
 birth_date: 
 death_date: 2020-03-28
 ---
@@ -20,4 +20,4 @@ death_date: 2020-03-28
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
 
-<a href="https://cebudailynews.inquirer.net/297880/family-grieves-over-death-of-cebuana-doctor">Helen Tudtud</a>, 66, Pathologist, Vicente Sotto Memorial Medical Center, Cebu, Philippines
+66 years old.

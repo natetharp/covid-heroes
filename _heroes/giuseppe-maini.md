@@ -2,7 +2,7 @@
 title: Giuseppe Maini
 description: 
 portrait: 
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: Piacenza
 province: Emilia Romagna
@@ -15,4 +15,4 @@ death_date: 2020-03-12
 Giuseppe Maini 24 01 1946 † 12 03 2020
 Medico di medicina generale – Piacenza
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Giuseppe Maini</a>, 74, General Practitioner, Piacenza, Italy
+74 years old.

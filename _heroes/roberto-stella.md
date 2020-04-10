@@ -2,12 +2,12 @@
 title: Roberto Stella
 description: 
 portrait: 
+occupation: General Practitioner, President
 employer: Medical Guild of Varese
-occupation: President
 city: Varese
 province: 
 country: Italy 
-source: https://people.com/health/italian-medical-chief-roberto-stella-dies-coronavirus/, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
+source: https://people.com/health/italian-medical-chief-roberto-stella-dies-coronavirus/, https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/, https://www.medscape.com/viewarticle/926816
 birth_date: 1952-07-22
 death_date: 2020-03-10
 ---
@@ -22,6 +22,4 @@ Italy’s National Federation of Doctors and General Practitioners issued a stat
 > 
 > &mdash; Silvestro Scotti, secretary of Italy's National Federation of Doctors and General Practitioners
 
-67 years old
-
-<a href="https://www.medscape.com/viewarticle/926816">Roberto Stella</a>, 57, General Practitioner, Varese, Italy
+67 years old.

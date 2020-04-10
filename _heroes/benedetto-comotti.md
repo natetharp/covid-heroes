@@ -15,4 +15,4 @@ death_date: 2020-03-26
 Benedetto Comotti, 06 05 1945 † 26 03 2020
 Ematologo – Bergamo
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Benedetto Comotti</a>, 74, Hematologist, Bergamo, Italy
+74 years old.

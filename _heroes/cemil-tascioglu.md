@@ -2,16 +2,14 @@
 title: Cemil Tascioglu
 description: 
 portrait: 
-occupation: Physician
-employer: Istanbul Univercity Medical Faculty Hospital
+occupation: Physician, Professor of Internal
+employer: Istanbul University Medical Faculty Hospital
 city: İstanbul
-province: Turkey
-country: 
-source: 
+province: 
+country: Turkey
+source: https://www.aa.com.tr/en/health/cemil-tascioglu-turkish-doctor-claimed-by-covid-19/1789552
 birth_date: 
 death_date: 
 ---
 
 65 years old.
-
-<a href="https://www.aa.com.tr/en/health/cemil-tascioglu-turkish-doctor-claimed-by-covid-19/1789552">Cemil Tascioglu</a>, 67, Professor of Internal Medicine at Istanbul University, Istanbul, Turkey

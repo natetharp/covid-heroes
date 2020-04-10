@@ -2,7 +2,7 @@
 title: Giuseppe Borghi
 description: 
 portrait: 
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: Lodi
 province: 
@@ -16,5 +16,3 @@ Giuseppe Borghi 19 01 1956 † 13 03 2020
 Medico di Medicina Generale  – Lodi
 
 64 years old.
-
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Giuseppe Borghi</a>, 64, General Practitioner, Lodi, Italy

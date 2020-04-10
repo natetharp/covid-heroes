@@ -2,8 +2,8 @@
 title: Francesco Dall’Antonia
 description: 
 portrait: 
-occupation: Retired Surgeon
-employer: 
+occupation: Retired Head Surgeon
+employer: Vicenza
 city: Vicenza
 province: Veneto
 country: Italy
@@ -15,4 +15,4 @@ death_date: 2020-03-24
 Francesco Dall’Antonia 14 02 1938 † 24 03 2020
 Ex-primario della Chirurgia I di Vicenza – Vicenza
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Francesco Dall'Antonia</a>, 82, Former Primary of Surgery I of Vicenza, Vicenza, Italy
+He was 82 years old.
