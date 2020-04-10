@@ -2,8 +2,8 @@
 title: Marcello Natali
 description: 
 portrait: marcello-natali.jpg
-occupation: Physician
-employer: 
+occupation: General Practitioner, Secretary
+employer: Federation of General Practitioners
 city: Lodi
 province: Lombardy
 country: Italy 
@@ -21,4 +21,4 @@ Before his death, Dr. Marcello Natali repeatedly sounded the alarm about Italy's
 
 Natali warned about the lack of medical supplies available for fighting the coronavirus. While treating patients, he couldn't wear gloves because there weren't enough to go around.
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Marcello Natali</a>, 56, General Practitioner, Secretary of the Federation of General Practitioners of Lodi, Lodi, Italy
+56 years old.

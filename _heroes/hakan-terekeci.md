@@ -6,7 +6,7 @@ occupation: Physician
 employer: 
 city: İstanbul
 province: 
-country: Türkiye
+country: Turkey
 source: 
 birth_date: 
 death_date: 

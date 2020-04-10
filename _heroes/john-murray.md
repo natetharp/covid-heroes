@@ -2,8 +2,8 @@
 title: Dr. John F. Murray
 description: 
 portrait: john-murray.jpg
-employer: San Francisco General Hospital
 occupation: Retired former Chief of Pulmonary and Critical Care
+employer: San Francisco General Hospital
 city: San Francisco
 province: California
 country: United States
@@ -22,4 +22,4 @@ death_date: 2020-03-24
 >
 > &mdash; By [Kerry Crowley](mailto:kcrowley@bayareanewsgroup.com) of [Bay Area News Group](https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-specialist-dr-john-f-murray-dies-of-disease-he-helped-fight-after-bout-with-covid-19/)
 
-<a href="https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-specialist-dr-john-f-murray-dies-of-disease-he-helped-fight-after-bout-with-covid-19/">John F. Murray</a>, 92, Pulmonary and Critical Care Physician, San Francisco General Hospital, San Francisco, California
+92 years old.

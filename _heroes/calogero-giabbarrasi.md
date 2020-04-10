@@ -2,7 +2,7 @@
 title: Calogero Giabbarrasi
 description: 
 portrait: calogero-giabbarrasi.jpg
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: Caltanissetta
 province: Sicily
@@ -15,4 +15,4 @@ death_date: 2020-03-24
 Calogero Giabbarrasi 28 09 1951 † 24 03 2020
 Medico di medicina generale – Caltanissetta
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Calogero Giabbarrasi</a>, 68, General Practitioner, Caltanissetta, Italy
+68 years old.

@@ -2,12 +2,12 @@
 title: Marcelo Jaochico
 description: 
 portrait: 
-occupation: Physician, Family Medicine
-employer: 
+occupation: Physician, Family Medicine, Chief
+employer: Pampanga Provincial Health Office
 city: Calanasan
 province: Apayao
 country: Philippines
-source: https://www.esquiremag.ph/author/yvette-fernandez
+source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.rappler.com/nation/255798-pampanga-health-chief-jaochico-dies-coronavirus
 birth_date: 
 death_date: 2020-03-
 ---
@@ -24,4 +24,4 @@ death_date: 2020-03-
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
 
-<a href="https://www.rappler.com/nation/255798-pampanga-health-chief-jaochico-dies-coronavirus">Marcelo Jaochico</a>, 56, Chief, Pampanga Pampanga Provincial Health Office, Philippines
+56 years old.

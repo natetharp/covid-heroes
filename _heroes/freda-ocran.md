@@ -12,6 +12,4 @@ birth_date:
 death_date: 2020-03-28
 ---
 
-Freda Ocran, a nurse who warned about the lack of coronavirus testing, died on March 28.
-
-<a href="https://nypost.com/2020/03/30/former-head-nurse-of-jacobi-medical-center-psychiatric-unit-dies-of-coronavirus/">Freda Ocran</a>, 50, Psychiatric Nurse, Jacobi Medical Center, New York City
+Freda Ocran, a nurse who warned about the lack of coronavirus testing, died on March 28. She was 50 years old.

@@ -2,7 +2,7 @@
 title: Luigi Ablondi
 description: 
 portrait: luigi-ablondi.jpg
-occupation: Epidemiologist
+occupation: Epidemiologist Former General Manager
 employer: Ospedale di Crema
 city: Cremona
 province: Lombardy
@@ -15,4 +15,4 @@ death_date: 2020-03-16
 Luigi Ablondi 05 02 1954 † 16 03 2020
 Epidemiologo, ex direttore generale dell’Ospedale di Crema – Cremona
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Luigi Ablondi</a>, 66, Epidemiologist, Former General Manager of the Crema Hospital, Cremona, Italy
+66 years old.

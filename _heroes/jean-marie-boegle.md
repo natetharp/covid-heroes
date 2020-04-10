@@ -7,7 +7,7 @@ employer: Diaconant-Fonderie Clinic
 city: Mulhouse
 province: 
 country: France
-source: https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680
+source: https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680, https://francais.medscape.com/voirarticle/3605782
 birth_date: 
 death_date: 2020-03-22
 ---
@@ -18,4 +18,4 @@ Tired, and suffering from other health issues, he decided to get tested for coro
 
 Women who had given birth with Boegle's help also flooded social media with messages and condolences for the family.
 
-<a href="https://francais.medscape.com/voirarticle/3605782">Jean-Marie Boegle</a>, 66, OB-GYN, Mulhouse, France
+66 years old.

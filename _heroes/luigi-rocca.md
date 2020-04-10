@@ -15,4 +15,4 @@ death_date: 2020-03-26
 Luigi Rocca 24 12 1926 † 26 03 2020
 Pediatra – Piacenza
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Luigi Rocca</a>, 93, Pediatrician, Piacenza, Italy
+93 years old.

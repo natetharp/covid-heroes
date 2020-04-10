@@ -2,12 +2,12 @@
 title: Usama Riaz
 description: 
 portrait: usama-riaz.jpg
-occupation: Doctor
+occupation: Physician
 employer: 
-city: 
-province: 
+city: Gilgit
+province: Gilgit Baltistan
 country: Pakistan
-source: https://twitter.com/hamza_inayat/status/1241813056826544130, https://www.upworthy.com/dr-usama-riaz-is-a-true-hero-in-fight-against-covid-19
+source: https://twitter.com/hamza_inayat/status/1241813056826544130, https://www.upworthy.com/dr-usama-riaz-is-a-true-hero-in-fight-against-covid-19, https://www.theweek.in/news/world/2020/03/24/pakistan-26-year-old-hero-doctor-passes-away-in-fight-against-covid-19.htm
 birth_date: 
 death_date: 2020-03-22
 ---
@@ -16,14 +16,4 @@ death_date: 2020-03-22
 > 
 > Riaz was part of a ten-person team screening pilgrims who recently returned to Pakistan from Iraq and Iran. He later treated these patients at isolation centers in Gilit, in Pakistan-administered Kashmir.
 
-
-
-title: Osama Riaz
-occupation: Physician
-city: Gilgit
-province: Gilgit Baltistan
-country: Pakistan
-
-25 years old.
-
-<a href="https://www.theweek.in/news/world/2020/03/24/pakistan-26-year-old-hero-doctor-passes-away-in-fight-against-covid-19.html">Usama Riaz</a>, 26, Physician, Gilgit, Pakistan
+26 years old.

@@ -5,7 +5,7 @@ portrait:
 occupation: Ophthalmologist
 employer: The Central Hospital of Wuhan
 city: Wuhan
-province: Hubei Province
+province: Hubei
 country: People's Republic of China
 source: 
 birth_date: 

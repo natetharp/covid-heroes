@@ -2,8 +2,8 @@
 title: Francesco Foltrani
 description: 
 portrait: 
-occupation: 
-employer: Physician
+occupation: Physician
+employer: 
 city: Macerata
 province: Marche
 country: Italy 
@@ -15,4 +15,4 @@ death_date: 2020-03-19
 Francesco Foltrani 08 02 1953 † 19 03 2020
 Medico di Medicina Generale  – Macerata
 
-<a href="https://portale.fnomceo.it/comunicazione-del-presidente-omceo-macerata-per-la-scomparsa-del-collega-francesco-foltrani/">Francesco Foltrani</a>, 67, General Practitioner, Macerata, Italy
+67 years old.

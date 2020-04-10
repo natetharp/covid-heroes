@@ -2,12 +2,12 @@
 title: Henry Fernandez
 description: 
 portrait: 
-occupation: Doctor
+occupation: Physician
 employer: 
 city: Bayambang
 province: Pangasinan
 country: Philippines
-source: https://www.esquiremag.ph/author/yvette-fernandez
+source: https://www.esquiremag.ph/author/yvette-fernandez, https://news.abs-cbn.com/news/03/25/20/doctor-balikbayan-dead-in-pangasinan-due-to-covid-19-governor
 birth_date: 
 death_date: 2020-03-
 ---
@@ -22,4 +22,4 @@ death_date: 2020-03-
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
 
-<a href="https://news.abs-cbn.com/news/03/25/20/doctor-balikbayan-dead-in-pangasinan-due-to-covid-19-governor">Henry Fernandez</a>, 77, Physician, Pangasinan, Philippines
+77 years old.

@@ -15,4 +15,4 @@ death_date: 2020-03-18
 Gabriele Lombardi 20 08 1951 † 18 03 2020
 Odontoiatra – Brescia
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Gabriele Lombardi</a>, 68, Dentist, Brescia, Italy
+68 years old.

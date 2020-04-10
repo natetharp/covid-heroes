@@ -2,16 +2,17 @@
 title: Andrea Carli
 description: 
 portrait: 
-occupation: 
+occupation: General Practitioner
 employer: 
-location: Lodi, Italy
+city: Lodi
+province: 
+country: Italy
 source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
-birth_date: 
-death_date: 
+birth_date: 1950-05-02
+death_date: 2020-03-19
 ---
-
 
 Andrea Carli 02 05 1950 † 19 03 2020
 Medico di Medicina Generale  – Lodi
 
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Andrea Carli</a>, 69, General Practitioner, Lodi, Italy
+69 years old.

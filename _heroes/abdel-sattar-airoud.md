@@ -2,16 +2,14 @@
 title: Abdel Sattar Airoud
 description: 
 portrait: 
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: Piacenza
 province: Emilia Romagna
 country: Italy
-source: 
+source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
 birth_date: 
 death_date: 
 ---
 
 74 years old.
-
-<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Abdel Sattar Airoud</a>, 74, General Practitioner, Piacenza, Italy
