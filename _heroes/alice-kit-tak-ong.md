@@ -3,7 +3,7 @@ title: Alice Kit Tak Ong
 description: 
 portrait: 
 occupation: Nurse and Midwife
-employer: 
+employer: Colindale Medical Centre
 city: 
 province: 
 country: United Kingdom
@@ -13,4 +13,3 @@ death_date:
 ---
 
 Alice Kit Tak Ong (RN and MIDWIFE), 70, worked for the health service for 44 years as both a Midwife and Nurse. She was described by her daughter Melissa as “completely dedicated”.
-

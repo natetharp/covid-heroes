@@ -1,15 +1,13 @@
 ---
-title: Ricardo Castañeda
+title: Leo De la Cruz
 description: 
 portrait: 
 occupation: Psychiatrist
-employer: 
-city: New York
-province: New York
+employer: Christ Hospital
+city: Jersey City
+province: New Jersey
 country: United States
 source: 
 birth_date: 
 death_date: 
 ---
-
-64 years old.

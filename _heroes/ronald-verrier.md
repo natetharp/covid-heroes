@@ -1,10 +1,10 @@
 ---
-title: Ricardo Castañeda
+title: Ronald Verrier
 description: 
 portrait: 
-occupation: Psychiatrist
-employer: 
-city: New York
+occupation: Trauma Surgeon
+employer: St. Barnabas Hospital
+city: The Bronx
 province: New York
 country: United States
 source: 
@@ -12,4 +12,3 @@ birth_date:
 death_date: 
 ---
 
-64 years old.
