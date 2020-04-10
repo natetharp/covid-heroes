@@ -13,3 +13,5 @@ death_date:
 ---
 
 37 years old.
+
+<a href="https://www.detroitnews.com/story/business/2020/04/05/help-coronavirus-patients-lose-job-beaumont-tells-workers/2948002001/">Chris Firlit</a>, 37, PGY6 Oral-Maxillofacial Surgery Chief Resident, Detroit, Michigan (presumed)

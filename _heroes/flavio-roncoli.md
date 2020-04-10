@@ -14,3 +14,5 @@ death_date: 2020-03-25
 
 Flavio Roncoli 08 05 1930 † 25 03 2020
 Pensionato – Bergamo
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Flavio Roncoli</a>, 89, Retired, Bergamo, Italy

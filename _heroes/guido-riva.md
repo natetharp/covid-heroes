@@ -14,3 +14,5 @@ death_date: 2020-03-30
 
 Guido Riva 09 06 1941 † 30 03 2020 (data segnalazione)*
 Medico di medicina generale – Bergamo
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Guido Riva</a>, 78, General Practitioner, Bergamo, Italy

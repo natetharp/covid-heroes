@@ -14,3 +14,5 @@ death_date: 2020-03-17
 
 Ivano Vezzulli 27 12 1958 † 17 03 2020
 Medico di Medicina Generale e medico dello sport – Lodi
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Ivano Vezzulli</a>, 61, General Practitioner, Sports Physician, Lodi, Italy

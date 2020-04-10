@@ -16,3 +16,5 @@ Rosario Lupo 02 10 1955 †  23 03 2020
 Medico legale – Bergamo
 
 Rosario	Lupo	64	Coroner		Bergamo	Lombardy	Italy
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Rosario Lupo</a>, 65, Medical Examiner, Manager of the INPS Legal Medical Center of Bergamo, Bergamo, Italy

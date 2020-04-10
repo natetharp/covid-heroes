@@ -14,3 +14,5 @@ death_date: 2020-03-13
 
 Raffaele Giura 23 10 1940 † 13 03 2020
 Ex primario del reparto di Pneumologia – Como
+
+Raffaele Giura, 80, Pneumologist, Como, Italy

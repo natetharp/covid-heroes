@@ -23,3 +23,5 @@ death_date: 2020-03-
 > Meanwhile, a post on the Facebook page of the National Council of Churches in the Philippines also honored Bactol, the son of a pastor and a deaconess of their church.
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
+
+<a href="https://www.rappler.com/move-ph/256145-israel-bactol-doki-doctor-to-the-barrios">Israel Bactol</a>, 34, Cardiologist, Philippine Heart Center, Metro Manila, Philippines

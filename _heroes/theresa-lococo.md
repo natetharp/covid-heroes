@@ -13,3 +13,5 @@ death_date:
 ---
 
 Pediatric nurse and Brooklyn “legend,” Theresa Lococo, passed away. She was a 48-year medical veteran.
+
+<a href="https://www.pbs.org/newshour/health/new-york-virus-death-toll-rises-above-1200">Theresa Lococo</a>, 68, Pediatric Nurse, Kings County Hospital, Brooklyn, New York

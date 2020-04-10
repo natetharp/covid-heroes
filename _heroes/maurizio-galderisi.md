@@ -2,8 +2,8 @@
 title: Maurizio Galderisi
 description: 
 portrait: 
-occupation: Cardiologist
-employer: 
+occupation: Cardiologist, Professor of Internal Medicine
+employer: Federico II University of Naples
 city: Napoli
 province: Campania
 country: Italy 
@@ -14,3 +14,5 @@ death_date: 2020-03-27
 
 Maurizio Galderisi 31 08 1954 † 27 03 2020
 Cardiologo e professore di Medicina Interna all’Università Federico II di Napoli – Napoli
+
+65 years old.

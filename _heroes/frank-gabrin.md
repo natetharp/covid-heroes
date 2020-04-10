@@ -15,3 +15,5 @@ death_date: 2020-03-31
 [Frank Gabrin](https://twitter.com/DrFrankGabrin), ER doctor and two-time cancer survivor passed away in his Harlem apartment, just days after he started presenting with coronavirus symptoms.
 
 60 years old.
+
+<a href="https://www.nj.com/coronavirus/2020/04/nj-er-doctor-who-twice-survived-cancer-dies-a-week-after-developing-coronavirus-symptoms.html">Frank Gabrin</a>, 60, Emergency Medicine Physician, New York City

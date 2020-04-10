@@ -13,3 +13,5 @@ death_date: 2020-03-26
 ---
 
 Pooja Sharma, a pharmacist who worked at the East Sussex at Eastbourne District General Hospital, died within 24 hours of her father after being admitted to intensive care unit. She was 33 years old.
+
+<a href="https://www.pharmacy.biz/pharmacist-succumbs-to-covid-19-hours-after-virus-takes-life-of-father/">Pooja Sharma</a>, 33, Clinical Pharmacist, Eastbourne District General Hospital, Eastbourne, England

@@ -20,3 +20,5 @@ Before his death, Dr. Marcello Natali repeatedly sounded the alarm about Italy's
 "We weren't prepared for coronavirus," Natali, regional chief of the Federation of General Practitioners, told Euronews in one of the [last interviews he gave](https://www.youtube.com/watch?v=AH2_3-yZdpw&feature=emb_title) before his death. 
 
 Natali warned about the lack of medical supplies available for fighting the coronavirus. While treating patients, he couldn't wear gloves because there weren't enough to go around.
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Marcello Natali</a>, 56, General Practitioner, Secretary of the Federation of General Practitioners of Lodi, Lodi, Italy

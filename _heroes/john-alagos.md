@@ -1,5 +1,5 @@
 ---
-title: John Algos
+title: John Alagos
 description: 
 portrait: 
 occupation: Nurse
@@ -12,4 +12,4 @@ birth_date:
 death_date: 2020-04-03
 ---
 
-John Alagos (RN) died after working at Watford General Hospital in Hertfordshire. He was 24 years old.
+John Alagos (RN) died after working at Watford General Hospital in Hertfordshire. He was 24 years old. (presumed)

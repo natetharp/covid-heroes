@@ -15,3 +15,5 @@ death_date: 2020-02-18
 Narjes Khanali Zadeh, a 25 year old nurse at the Milad Hospital in Tehran, Iran, lost her battle of life against coronavirus.
 
 Zadeh was originally from Rasht, the capital of Gilan province, in northern Iran. She was the first healthcare professional to die of Coronavirus in Iran.
+
+<a href="https://iran-hrm.com/index.php/2020/03/31/dozens-of-iranian-doctors-died-during-irans-coronavirus-crisis/">Narjes Khanali Zadeh</a>, 25, Nurse, Lahijan, Iran

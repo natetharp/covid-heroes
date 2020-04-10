@@ -13,3 +13,5 @@ death_date: 2020-03-27
 ---
 
 63 years old.
+
+<a href="https://www.cbsnews.com/news/coronavirus-nurse-dies-from-covid-19-miami-hospital/">Araceli Buendia Ilagan</a>, 63, ICU Nurse, Jackson Memorial Hospital, Miami, Florida

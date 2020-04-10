@@ -17,3 +17,5 @@ At the end of February, the  67 year-old retired doctor Razafindranazy, came bac
 According to France Info, Dr Razafindranazy was hospitalised himself on 4 March in Lille, where he tested positive for Covid-19. His health deteriorated quickly 10 days later. He died on Saturday 21 March, without being able to say good bye to his family.
 
 According to a France Info journalist at the scene, one hundred or so staff members at Compiègne hospital turned out to pay their respects, in front of the hospital.
+
+<a href="https://francais.medscape.com/voirarticle/3605782">Jean-Jacques Razafindranazy</a>, 67, Emergency Doctor, Lille, France

@@ -23,3 +23,5 @@ death_date: 2020-03-
 > He was one of the medical frontliners who rushed to help in Tacloban, Leyte, post Typhoon Yolanda. He recently headed the Kapampangan Medical Team which helped in the aftermath of the Taal Volcano eruption.
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
+
+<a href="https://www.rappler.com/nation/255798-pampanga-health-chief-jaochico-dies-coronavirus">Marcelo Jaochico</a>, 56, Chief, Pampanga Pampanga Provincial Health Office, Philippines

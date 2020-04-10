@@ -14,3 +14,5 @@ death_date: 2020-03-22
 
 Mario Calonghi 14 03 1965 † 22 03 2020
 Odontoiatra – Brescia
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Mario Calonghi</a>, 55, Dentist, Brescia, Italy

@@ -25,3 +25,5 @@ death_date: 2020-03-
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
 
 46 years old.
+
+<a href="https://www.rappler.com/move-ph/256304-rose-pulido-calling-help-others">Rosalinda "Rose" Pulido</a>, 46, Oncologist, San Juan de Dios Hospital, Pasay City, Philippines

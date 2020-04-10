@@ -14,3 +14,5 @@ death_date: 2020-03-28
 
 Francesco De Alberti † 28 03 2020 (data segnalazione)*
 Ex presidente OMCeO Lecco – Lecco
+
+<a href="https://portale.fnomceo.it/il-cordoglio-di-pierfranco-ravizza-presidente-omceo-lecco-per-la-scomparsa-di-francesco-de-alberti/">Francesco De Alberti</a>, died on March 28, 2020; Former OMCeO President, Lecco, Italy

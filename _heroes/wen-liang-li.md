@@ -13,3 +13,5 @@ death_date:
 ---
 
 34 years old.
+
+<a href="https://www.bbc.com/news/world-asia-china-51403795">Li Wenliang</a>, 33, Ophthalmologist, Wuhan Central Hospital, Wuhan, China

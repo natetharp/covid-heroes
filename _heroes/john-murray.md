@@ -21,3 +21,5 @@ death_date: 2020-03-24
 > Dr. Murray served as the Chief of Pulmonology from 1966-1989 at San Francisco General Hospital and also worked as the chief of the hospital’s medical staff.
 >
 > &mdash; By [Kerry Crowley](mailto:kcrowley@bayareanewsgroup.com) of [Bay Area News Group](https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-specialist-dr-john-f-murray-dies-of-disease-he-helped-fight-after-bout-with-covid-19/)
+
+<a href="https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-specialist-dr-john-f-murray-dies-of-disease-he-helped-fight-after-bout-with-covid-19/">John F. Murray</a>, 92, Pulmonary and Critical Care Physician, San Francisco General Hospital, San Francisco, California

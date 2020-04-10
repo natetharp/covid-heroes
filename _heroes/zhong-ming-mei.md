@@ -13,3 +13,5 @@ death_date:
 ---
 
 54 years old.
+
+<a href="https://www.scmp.com/news/china/society/article/3064830/wuhan-doctor-who-worked-whistle-blower-li-wenliang-dies-after">Mei Zhongming</a>, 57, Ophthalmologist, Wuhan Central Hospital, Wuhan, China

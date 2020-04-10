@@ -13,3 +13,5 @@ death_date: 2020-03-25
 ---
 
 67 years old.
+
+<a href="https://www.wptv.com/news/coronavirus/dr-alex-hsu-first-medical-professional-to-die-from-coronavirus-in-south-florida">Alex Hsu</a>, 67, Internal Medicine, Northwest Medical Center, Margate, Florida
