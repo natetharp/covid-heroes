@@ -19,3 +19,5 @@ death_date: 2020-03-28
 > “I will miss her laughter. I will miss everything about her and I will never see her again. I LOVE YOU ALWAYS MOMMY. Please watch over us as you always do."
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
+
+<a href="https://cebudailynews.inquirer.net/297880/family-grieves-over-death-of-cebuana-doctor">Helen Tudtud</a>, 66, Pathologist, Vicente Sotto Memorial Medical Center, Cebu, Philippines

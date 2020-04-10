@@ -14,3 +14,5 @@ death_date: 2020-04-01
 
 Marino Signori † 01 04 2020 (data segnalazione)*
 Medico del lavoro
+
+<p>Marino Signori, age unknown, Occupational Physician, Italy

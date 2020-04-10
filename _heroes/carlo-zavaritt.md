@@ -14,3 +14,5 @@ death_date: 2020-03-13
 
 Carlo Zavaritt 23 02 1940 † 13 03 2020
 Pediatra e neuropsichiatra infantile – Bergamo
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Carlo Zavaritt</a>, 80, Pediatrician and Child Neuropsychiatrist, Bergamo, Italy

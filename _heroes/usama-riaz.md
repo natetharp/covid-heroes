@@ -15,3 +15,15 @@ death_date: 2020-03-22
 > Dr. Usman, died after courageously putting his life on the line to treat patients with COVID-19. Even though the 26-year-old doctor didn't have adequate protective gear, he kept fighting for his patients until he eventually lost his life to the disease.
 > 
 > Riaz was part of a ten-person team screening pilgrims who recently returned to Pakistan from Iraq and Iran. He later treated these patients at isolation centers in Gilit, in Pakistan-administered Kashmir.
+
+
+
+title: Osama Riaz
+occupation: Physician
+city: Gilgit
+province: Gilgit Baltistan
+country: Pakistan
+
+25 years old.
+
+<a href="https://www.theweek.in/news/world/2020/03/24/pakistan-26-year-old-hero-doctor-passes-away-in-fight-against-covid-19.html">Usama Riaz</a>, 26, Physician, Gilgit, Pakistan

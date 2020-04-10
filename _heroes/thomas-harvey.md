@@ -13,3 +13,5 @@ death_date: 2020-03-29
 ---
 
 NHS nurse Thomas Harvey (HCA), a father of seven, of Upper Clapton died on March 29 while self-isolating at home after feeling unwell for several days.
+
+<a href="https://www.bbc.com/news/uk-england-london-52131921">Thomas Harvey</a>, 57, Healthcare Assistant, North East London NHS Foundation Trust, London, England

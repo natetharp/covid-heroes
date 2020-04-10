@@ -13,3 +13,5 @@ death_date: 2020-03-22
 ---
 
 Olivier-Jacques Schneller was the town doctor of Coutthenans, France, a small town of 780 inhabitants very close to Héricourt.
+
+<a href="https://francais.medscape.com/voirarticle/3605782">Olivier-Jacques Schneller</a>, 68, General Practitioner, Trévenans, France

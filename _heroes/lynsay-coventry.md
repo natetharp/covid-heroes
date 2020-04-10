@@ -13,3 +13,5 @@ death_date: 2020-04-02
 ---
 
 Lynsay Coventry worked at the Princess Alexandra Hospital in Harlow as a midwife.
+
+<a href="https://www.medscape.com/viewarticle/928154">Lynsay Coventry</a>, 54, Midwife, Harlow, Essex, UK

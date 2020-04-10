@@ -1,5 +1,5 @@
 ---
-title: Laurentius P.
+title: Laurentius Panggabean
 description: 
 portrait: laurentius-p.jpg
 occupation: Doctor
@@ -12,3 +12,4 @@ birth_date:
 death_date: 
 ---
 
+<a href="https://www.suara.com/news/2020/03/19/193722/dirut-rsj-soeharto-heerdjan-wafat-istri-anak-diisolasi-di-rs-persahabatan">Laurentius Panggabean</a>, 57, Managing Director, Psychiatrist, Soeharto Heerdjan Mental Hospital, Jakarta, Indonesia

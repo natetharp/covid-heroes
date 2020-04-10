@@ -15,3 +15,5 @@ death_date: 2020-03-28
 An ear, nose and throat consultant at the University Hospitals of Derby and Burton, Dr. El-Hawrani died at Glenfield Hospital in Leicester.
 
 55 years old.
+
+<a href="https://www.theguardian.com/world/2020/mar/29/first-nhs-consultant-dies-from-covid-19">Amged el-Hawrani</a>, 55, ENT Specialist, Queen's Hospital Burton, Burton on Trent, England

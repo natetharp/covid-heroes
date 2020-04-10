@@ -12,3 +12,4 @@ birth_date:
 death_date: 2020-03-21
 ---
 
+<a href="https://www.cnbcindonesia.com/news/20200321230808-4-146696/kabar-duka-dokter-bedah-ui-meninggal-diduga-covid-19">Djoko Judodjoko</a>, 70, General Surgeon, University of Indonesia, Jakarta, Indonesia

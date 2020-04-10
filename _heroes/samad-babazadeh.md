@@ -12,4 +12,6 @@ birth_date:
 death_date: 2020-03-20
 ---
 
-Dr. Samad Babazadeh was 53 years old and passed away in the northern city of Babol this morning after falling ill with COVID-19. 
+Dr. Samad Babazadeh was 53 years old and passed away in the northern city of Babol this morning after falling ill with COVID-19.
+
+<a href="https://iran-hrm.com/index.php/2020/03/31/dozens-of-iranian-doctors-died-during-irans-coronavirus-crisis/">Samad Babazadeh</a>, age unknown, General Practitioner, Babol, Iran

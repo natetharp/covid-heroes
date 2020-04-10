@@ -16,3 +16,5 @@ Dr. Giuseppe Finzi died of Coronavirus in Parma. He was the Director of the Parm
 
 Giuseppe Finzi 21 04 1957 † 19 03 2020
 Ematologo e docente a contratto di Malattie vascolari all’Università di Parma – Parma
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Giuseppe Finzi</a>, 62, Hematologist and Contract Professor of Vascular Diseases at the University of Parma, Parma, Italy

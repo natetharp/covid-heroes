@@ -16,3 +16,5 @@ Luigi Frusciante 13 02 1949 † 15 03 2020
 Medico di Medicina Generale  – Como
 
 Luigi Frusciante was 71, and who came out of retirement in order to help fight the growing coronavirus crisis in his community. It was also announced that pneumologist at Sant'Anna hospital in Como, Italy. Luigi Frusciante, who was a GP in Sagnino, Italy had died.
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Luigi Frusciante</a>, 71, General Practitioner, Como, Italy

@@ -2,7 +2,7 @@
 title: Carlo Alberto Passera
 description: 
 portrait: 
-occupation: Physician
+occupation: General Practitioner
 employer: 
 city: Bergamo
 province: Lombardy
@@ -14,3 +14,5 @@ death_date: 2020-03-25
 
 Carlo Alberto Passera 20 05 1957 † 25 03 2020
 Medico di medicina generale – Bergamo
+
+62 years old.

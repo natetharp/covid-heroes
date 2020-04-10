@@ -13,3 +13,5 @@ death_date:
 ---
 
 38 years old.
+
+<a href="https://english.alarabiya.net/en/News/middle-east/2020/03/18/Iranian-doctor-dies-from-coronavirus-after-warning-he-felt-unwell">Mehdi Variji</a>, age unknown, General Practitioner, Tehran, Iran

@@ -21,3 +21,5 @@ death_date: 2020-03-
 >  "And now Kuya Greg has made the ultimate sacrifice of life, not because he was forced or obliged to do so, but because of his dedication to his craft and his constant devotion to be of service to others," he added.
  > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
+
+<a href="https://www.rappler.com/move-ph/255871-greg-macasaet-remembered-for-selflessness-beyond-ultimate-sacrifice">Romeo Gregorio "Greg" Macasaet III</a>, 62, Anesthesiologist, Manila Doctors Hospital, Manila, Philippines

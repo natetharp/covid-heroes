@@ -23,3 +23,5 @@ Italy’s National Federation of Doctors and General Practitioners issued a stat
 > &mdash; Silvestro Scotti, secretary of Italy's National Federation of Doctors and General Practitioners
 
 67 years old
+
+<a href="https://www.medscape.com/viewarticle/926816">Roberto Stella</a>, 57, General Practitioner, Varese, Italy

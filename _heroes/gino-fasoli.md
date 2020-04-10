@@ -20,3 +20,5 @@ Medico di medicina generale già in pensione richiamato per l’emergenza Covid-
 > Fasoli was a resident of Passirano (Brescia) and for many years he was a family doctor in Cazzago San Martino. He also held the position of medical director of the Bornato emergency room, also in Brescia. Active supporter of Emergency, he also had experiences abroad with Doctors Without Borders. And in Africa he had even been kidnapped. They had taken him to cure sick people in a village, then released him. He had also been coordinator of the Transport Union for the Sick in Lourdes and President of Unitalsi of Brescia.
 > 
 > Fasoli was originally from Sulmona. He will be buried in Sulmona, where his family lives. Gino leaves his brother Gabriele, his sister-in-law Gabriella, and his granddaughter Anna Paola.
+
+<a href="https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/">Gino Fasoli</a>, 73, Retired General Practitioner, Brescia, Italy
