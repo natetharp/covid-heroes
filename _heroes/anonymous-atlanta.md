@@ -1,8 +1,8 @@
 ---
 title: Anonymous
 description: 
-portrait: Nurse
-occupation: 
+portrait: 
+occupation: Nurse
 employer: 
 city: Atlanta
 province: Georgia
