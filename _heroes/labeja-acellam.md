@@ -12,4 +12,4 @@ birth_date:
 death_date: 
 ---
 
-69 years old.
+Dr. Labeja Acellam was a medical doctor in Lewisham. He was 69 years old.
