@@ -9,7 +9,7 @@ collections:
   heroes: 
     sort_by: last_name
     output: true
-    permalink: /:name/
+    permalink: :name
 
 defaults:
   - scope:
