@@ -1,6 +1,6 @@
 ---
 first_name: Anonymous
-last_name: 
+last_name: _
 description: 
 portrait: 
 occupation: Pharmacist
