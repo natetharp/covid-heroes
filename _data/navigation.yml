@@ -1,0 +1,15 @@
+primary:
+  - title: Home
+    url: /
+  - title: Alphabetical
+    url: /alphabetical
+  - title: By Country
+    url: /country
+
+secondary:
+  - title: About
+    url: /about
+  - title: Support
+    url: /support
+  - title: Submit
+    url: /submit
