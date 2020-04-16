@@ -1,5 +1,6 @@
 ---
-title: Onur Çetin
+first_name: Onur
+last_name: Çetin
 description: 
 portrait: 
 occupation: Physician

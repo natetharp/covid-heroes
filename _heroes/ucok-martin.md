@@ -1,5 +1,6 @@
 ---
-title: Ucok Martin
+first_name: Ucok
+last_name: Martin
 description: 
 portrait: ucok-martin.jpg
 occupation: Doctor

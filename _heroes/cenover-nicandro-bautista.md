@@ -1,5 +1,6 @@
 ---
-title: Cenover Nicandro Bautista
+first_name: Cenover Nicandro
+last_name: Bautista
 description: 
 portrait: 
 occupation: Physician

@@ -1,5 +1,6 @@
 ---
-title: Emily Perugia
+first_name: Emily
+last_name: Perugia
 description: 
 portrait: 
 occupation: Care Co-ordinator

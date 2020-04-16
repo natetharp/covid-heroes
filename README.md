@@ -4,14 +4,15 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 ---
 
 ### Planned Features
-- Add contributing details [reference](https://github.com/COVID19Tracking/website)
-- List of Heroes by Country
+- ~~Add contributing details [reference](https://github.com/COVID19Tracking/website)~~
+- ~~List of Heroes by Country~~
 - List of Heroes Month/Day
-- Order heroes by date
+- ~~Limit sidebar on Hero page to profiles from same country~~
+- Order heroes by date on home page
 - Replace blue circle with generic profile image
 - Add search
-- Fix mobile navigation
-- Put navigation in YAML file
+- ~~Fix mobile navigation~~
+- ~~Put navigation in YAML file~~
 
 ---
 

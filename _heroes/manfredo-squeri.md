@@ -1,5 +1,6 @@
 ---
-title: Manfredo Squeri
+first_name: Manfredo
+last_name: Squeri
 description: 
 portrait: 
 occupation: Former Hospital Physician, Head 

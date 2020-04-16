@@ -1,5 +1,6 @@
 ---
-title: Israel Tolentino
+first_name: Israel
+last_name: Tolentino
 description: 
 portrait: 
 occupation: Emergency Medical Technician

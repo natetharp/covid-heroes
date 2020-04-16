@@ -1,5 +1,6 @@
 ---
-title: Afshar Amiri
+first_name: Afshar
+last_name: Amiri
 description: 
 portrait: 
 occupation: Psychiatrist

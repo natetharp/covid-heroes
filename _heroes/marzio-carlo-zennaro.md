@@ -1,5 +1,6 @@
 ---
-title: Marzio Carlo Zennaro
+first_name: Marzio Carlo
+last_name: Zennaro
 description: 
 portrait: 
 occupation: General Practitioner

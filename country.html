@@ -1,0 +1,15 @@
+---
+layout: page
+title: By Country
+description: 
+---
+
+{% assign groups = site.heroes | group_by: "country" | sort: "name" %}
+{% for group in groups %}
+	<h2>{{ group.name }}</h2>
+	{% for item in group.items %}
+		<h3>{{ item.first_name }} {{ item.last_name }}</h3>
+		<h4>{{ item.occupation }}{% if item.employer %}, {{ item.employer }}{% endif %}</h4>
+		<p><small><a href="{{ item.url | prepend: site.baseurl }}">Read More</a></small></p>
+	{%endfor%}
+{%endfor%}

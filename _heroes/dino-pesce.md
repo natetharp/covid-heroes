@@ -1,5 +1,6 @@
 ---
-title: Dino Pesce
+first_name: Dino
+last_name: Pesce
 description: 
 portrait: 
 occupation: Internist, Former General Physician

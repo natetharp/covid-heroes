@@ -1,5 +1,6 @@
 ---
-title: Cemil Tascioglu
+first_name: Cemil
+last_name: Tascioglu
 description: 
 portrait: 
 occupation: Physician, Professor of Internal

@@ -1,5 +1,6 @@
 ---
-title: Liliana del Carmen Ruiz
+first_name: Liliana
+last_name: del Carmen Ruiz
 description: 
 portrait: 
 occupation: Pediatrician

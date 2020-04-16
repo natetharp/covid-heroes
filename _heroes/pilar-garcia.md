@@ -1,5 +1,6 @@
 ---
-title: Pilar García
+first_name: Pilar
+last_name: García
 description: 
 portrait: 
 occupation: Nurse

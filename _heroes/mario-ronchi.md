@@ -1,5 +1,6 @@
 ---
-title: Mario Ronchi
+first_name: Mario
+last_name: Ronchi
 description: 
 portrait: 
 occupation: 

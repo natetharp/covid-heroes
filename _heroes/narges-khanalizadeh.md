@@ -1,5 +1,6 @@
 ---
-title: Narges Khanalizadeh
+first_name: Narges
+last_name: Khanalizadeh
 description: 
 portrait: 
 occupation: Nurse

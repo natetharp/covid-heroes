@@ -1,5 +1,6 @@
 ---
-title: Isabel Munoz
+first_name: Isabel
+last_name: Munoz
 description: 
 portrait: 
 occupation: General Practitioner

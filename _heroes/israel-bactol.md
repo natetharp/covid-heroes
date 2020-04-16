@@ -1,5 +1,6 @@
 ---
-title: Israel Bactol
+first_name: Israel
+last_name: Bactol
 description: 
 portrait: 
 occupation: Cardiology Fellow In-training

@@ -1,5 +1,6 @@
 ---
-title: Mousa Fathabadi
+first_name: Mousa
+last_name: Fathabadi
 description: 
 portrait: 
 occupation: Emergency Medicine Specialist

@@ -1,5 +1,6 @@
 ---
-title: Domenico Bardelli
+first_name: Domenico
+last_name: Bardelli
 description: 
 portrait: 
 occupation: Dentist	

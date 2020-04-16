@@ -1,5 +1,6 @@
 ---
-title: Dr. John F. Murray
+first_name: John
+last_name: Murray
 description: 
 portrait: john-murray.jpg
 occupation: Retired former Chief of Pulmonary and Critical Care
@@ -11,6 +12,8 @@ source: https://www.mercurynews.com/2020/03/25/longtime-bay-area-pulmonary-speci
 birth_date: 
 death_date: 2020-03-24
 ---
+
+Dr. John F. Murray
 
 > A longtime Bay Area pulmonary physician credited with diagnosing a lung disease known as acute respiratory distress syndrome (ARDS) died of the same illness on Tuesday in Paris.
 > 

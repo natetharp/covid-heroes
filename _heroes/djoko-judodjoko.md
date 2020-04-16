@@ -1,5 +1,6 @@
 ---
-title: Djoko Judodjoko
+first_name: Djoko
+last_name: Judodjoko
 description: 
 portrait: djoko-judodjoko.jpg
 occupation: General Surgeon

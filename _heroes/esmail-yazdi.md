@@ -1,5 +1,6 @@
 ---
-title: Esmail Yazdi
+first_name: Esmail
+last_name: Yazdi
 description: 
 portrait: 
 occupation: Oral and Maxillofacial Surgeon

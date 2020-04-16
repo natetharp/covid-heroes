@@ -1,5 +1,6 @@
 ---
-title: Said El Lawah
+first_name: Said
+last_name: El Lawah
 description: 
 portrait: 
 occupation: Leader of Central Lab, Physician

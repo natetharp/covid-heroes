@@ -1,5 +1,6 @@
 ---
-title: James Goodrich
+first_name: James
+last_name: Goodrich
 description: 
 portrait: james_goodrich.jpg
 occupation: Retired Pediatric Neurosurgeon

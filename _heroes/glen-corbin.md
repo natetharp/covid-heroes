@@ -1,5 +1,6 @@
 ---
-title: Glen Corbin
+first_name: Glen
+last_name: Corbin
 description: 
 portrait: 
 occupation: Retired Healthcare Assistant

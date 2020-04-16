@@ -1,5 +1,6 @@
 ---
-title: Ghvont Mrad
+first_name: Ghvont
+last_name: Mrad
 description: 
 portrait: 
 occupation: 

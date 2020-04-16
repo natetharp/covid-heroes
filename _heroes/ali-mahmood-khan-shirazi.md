@@ -1,8 +1,9 @@
 ---
-title: Ali Mahmood Khan Shirazi
+first_name: Ali Mahmood
+last_name: Khan Shirazi
 description: 
 portrait: 
-occupation:General Practitioner 
+occupation: General Practitioner 
 employer: 
 city: Shiraz
 province: 

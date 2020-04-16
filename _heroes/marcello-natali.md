@@ -1,5 +1,6 @@
 ---
-title: Marcello Natali
+first_name: Marcello
+last_name: Natali
 description: 
 portrait: marcello-natali.jpg
 occupation: General Practitioner, Secretary

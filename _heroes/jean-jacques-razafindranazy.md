@@ -1,5 +1,6 @@
 ---
-title: Jean-Jacques Razafindranazy
+first_name: Jean-Jacques
+last_name: Razafindranazy
 description: 
 portrait: jean-jacques-razafindranazy.jpg
 occupation: Emergency Doctor

@@ -1,5 +1,6 @@
 ---
-title: Marques Bolden
+first_name: Marques
+last_name: Bolden
 description: 
 portrait: 
 occupation: Hospitalist

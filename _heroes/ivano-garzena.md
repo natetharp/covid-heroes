@@ -1,5 +1,6 @@
 ---
-title: Ivano Garzena
+first_name: Ivano
+last_name: Garzena
 description: 
 portrait: 
 occupation: Dentist

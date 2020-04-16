@@ -1,5 +1,6 @@
 ---
-title: Xue Qin Jiang
+first_name: Xue Qin
+last_name: Jiang
 description: 
 portrait: 
 occupation: Oncology Surgeon, Head of Thyroid and Breast Surgery

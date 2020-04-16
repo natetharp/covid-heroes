@@ -1,5 +1,6 @@
 ---
-title: Frank Pinchas Gabrin
+first_name: Frank Pinchas
+last_name: Gabrin
 description: 
 portrait: frank-gabrin.jpg
 occupation: Emergency Room Physician

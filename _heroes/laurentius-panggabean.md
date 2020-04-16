@@ -1,5 +1,6 @@
 ---
-title: Laurentius Panggabean
+first_name: Laurentius
+last_name: Panggabean
 description: 
 portrait: laurentius-p.jpg
 occupation: Psychiatrist, Managing Director

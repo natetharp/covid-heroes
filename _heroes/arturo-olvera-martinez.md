@@ -1,5 +1,6 @@
 ---
-title: Arturo Olvera Martínez
+first_name: Arturo Olvera
+last_name: Martínez
 description: 
 portrait: 
 occupation: Physician

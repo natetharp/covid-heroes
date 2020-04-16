@@ -1,12 +1,13 @@
 ---
-title: Liu Fan
+first_name: Liu
+last_name: Fan
 description: 
 portrait: 
-occupation:Nurse 
+occupation: Nurse 
 employer: Wuchang Hospital
 city: Wuhan
 province: Hubei
-country: China
+country: People's Republic of China
 source: https://www.the-scientist.com/news-opinion/senior-doctor-in-wuhan-outbreak-dies-from-coronavirus-67122
 birth_date: 
 death_date: 

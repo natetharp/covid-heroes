@@ -1,5 +1,6 @@
 ---
-title: Marino Chiodi
+first_name: Marino
+last_name: Chiodi
 description: 
 portrait: 
 occupation: Ophthalmologist

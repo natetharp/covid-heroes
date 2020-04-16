@@ -1,5 +1,6 @@
 ---
-title: Gianpaolo Sbardolini
+first_name: Gianpaolo
+last_name: Sbardolini
 description: 
 portrait: 
 occupation: General Practitioner

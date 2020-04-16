@@ -1,5 +1,6 @@
 ---
-title: Francesc Collado
+first_name: Francesc
+last_name: Collado
 description: 
 portrait: 
 occupation: Family Physician

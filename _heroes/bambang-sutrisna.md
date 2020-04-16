@@ -1,5 +1,6 @@
 ---
-title: Bambang Sutrisna
+first_name: Bambang
+last_name: Sutrisna
 description: 
 portrait: 
 occupation: Professor of Epidemiology

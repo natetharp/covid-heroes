@@ -1,5 +1,6 @@
 ---
-title: Denis Vincent
+first_name: Denis
+last_name: Vincent
 description: 
 portrait: 
 occupation: Dentist

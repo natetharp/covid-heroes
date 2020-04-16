@@ -1,5 +1,6 @@
 ---
-title: Mohammad Mohammadi
+first_name: Mohammad
+last_name: Mohammadi
 description: 
 portrait: 
 occupation: General Practitioner

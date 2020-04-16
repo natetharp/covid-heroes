@@ -1,12 +1,13 @@
 ---
-title: Janice Graham
+first_name: Janice
+last_name: Graham
 description: 
 portrait: 
 occupation: Healthcare Associate
 employer: 
 city: 
 province: 
-country: United KingdomUnited Kingdom
+country: United Kingdom
 source: https://nursingnotes.co.uk/covid-19-memorial/
 birth_date: 
 death_date: 

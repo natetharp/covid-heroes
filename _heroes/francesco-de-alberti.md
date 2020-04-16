@@ -1,5 +1,6 @@
 ---
-title: Francesco De Alberti
+first_name: Francesco
+last_name: De Alberti
 description: 
 portrait: 
 occupation: Former President	

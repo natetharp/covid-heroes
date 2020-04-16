@@ -1,5 +1,6 @@
 ---
-title: Romeo Gregorio Macasaet
+first_name: Romeo Gregorio
+last_name: Macasaet
 description: 
 portrait: 
 occupation: Anesthesiologist

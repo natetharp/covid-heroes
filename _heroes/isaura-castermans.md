@@ -1,5 +1,6 @@
 ---
-title: Isaura Castermans
+first_name: Isaura
+last_name: Castermans
 description: 
 portrait: 
 occupation: Nurse

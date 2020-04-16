@@ -1,5 +1,6 @@
 ---
-title: Freda Ocran
+first_name: Freda
+last_name: Ocran
 description: 
 portrait: freda-ocran.jpg
 occupation: Former Head Nurse

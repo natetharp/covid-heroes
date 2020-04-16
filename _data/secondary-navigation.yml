@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Alphabetical
+  link: /alphabetical
+- name: By Country
+  link: /by-country

@@ -1,5 +1,6 @@
 ---
-title: Cynthia Mendoza
+first_name: Cynthia
+last_name: Mendoza
 description: 
 portrait: 
 occupation: Retired Nurse and Hospital Volunteer
