@@ -12,12 +12,14 @@ collections:
     permalink: :name
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  - scope:
+  -
+    scope:
       path: ""
       type: "heroes"
     values:
