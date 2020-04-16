@@ -1,5 +1,6 @@
 ---
-title: Luigi Ablondi
+first_name: Luigi
+last_name: Ablondi
 description: 
 portrait: luigi-ablondi.jpg
 occupation: Epidemiologist Former General Manager

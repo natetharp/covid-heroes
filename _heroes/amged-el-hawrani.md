@@ -1,5 +1,6 @@
 ---
-title: Amged el-Hawrani
+first_name: Amged
+last_name: el-Hawrani
 description: 
 portrait: amged-el-hawrani.jpg
 occupation: ENT Surgeon

@@ -1,5 +1,6 @@
 ---
-title: Malik Ashtar
+first_name: Malik
+last_name: Ashtar
 description: 
 portrait: 
 occupation: Nursing Staffer

@@ -5,59 +5,29 @@ layout: default
 	<div class="grid-container">
 		<div class="grid-row grid-gap">
 			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
-				<nav aria-label="Secondary navigation">
+				<h6 class="usa-heading-alt">Other Heroes from {{ page.country }}</h6>
+				<nav aria-label="Secondary navigation: heroes from same country">
 					<ul class="usa-sidenav">
-					  {% for hero in site.heroes %}
-					    <li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
-					      <a href="{{ hero.url }}">{{ hero.title }}</a>
-					    </li>
-					  {% endfor %}
+						{% for hero in site.heroes %}
+						{% if hero.country == page.country %}
+						<li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
+							<a href="{{ hero.url }}">{{ hero.first_name }} {{ hero.last_name }}</a>
+						</li>
+						{% endif %}
+						{%endfor%}
 					</ul>
-					
-					
-<!--
-					<ul class="usa-sidenav">
-						<li class="usa-sidenav__item">
-						<a href="">Parent link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="" class="usa-current">Current page</a><ul class="usa-sidenav__sublist">
-							<li class="usa-sidenav__item">
-						<a href="">Child link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="" class="usa-current">Child link</a><ul class="usa-sidenav__sublist">
-							<li class="usa-sidenav__item">
-						<a href="">Grandchild link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="">Grandchild link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="" class="usa-current">Grandchild link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="">Grandchild link</a>
-					</li>
-						</ul>
-					</li><li class="usa-sidenav__item">
-						<a href="">Child link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="">Child link</a>
-					</li><li class="usa-sidenav__item">
-						<a href="">Child link</a>
-					</li>
-						</ul>
-					</li><li class="usa-sidenav__item">
-						<a href="">Parent link</a>
-					</li>
-					</ul>
--->
-					
-					
 				</nav>
 			</div>
 
 			<main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
-				<h1>{{ page.title }}</h1>
-
-				<p class="usa-intro">{{ page.occupation }}{% if page.employer %}, {{ page.employer }}{% endif %}</p>
-				<p class="usa-intro">{{ page.location }}</p>
+				
+				<div class="grid-row">
+				    {% if page.portrait %}<div class="grid-col-auto margin-right-2"><img class="usa-media-block__img" src="/assets/img/{{ page.portrait | prepend: site.baseurl }}" alt="{{ page.first_name }} {{ page.last_name }} portrait" /></div>{% endif %}
+				    <div class="grid-col-fill usa-prose">
+					    <h1>{{ page.first_name }} {{ page.last_name }}</h1>	
+						<p class="usa-intro">{{ page.occupation }}{% if page.employer %}, {{ page.employer }}{% endif %}</p>
+						<p class="usa-intro">{{ page.country }}</p></div>
+				</div>
 
 				{{ content }}
 				

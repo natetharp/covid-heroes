@@ -1,5 +1,6 @@
 ---
-title: Taghi Ahari Farshchi
+first_name: Taghi Ahari
+last_name: Farshchi
 description: 
 portrait: 
 occupation: Pediatrician

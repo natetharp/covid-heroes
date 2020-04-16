@@ -1,5 +1,6 @@
 ---
-title: Leone Marco Wischkin
+first_name: Leone Marco
+last_name: Wischkin
 description: 
 portrait: 
 occupation: Internist

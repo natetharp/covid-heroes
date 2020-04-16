@@ -1,5 +1,6 @@
 ---
-title: Jesus Villaluz
+first_name: Jesus
+last_name: Villaluz
 description: 
 portrait: 
 occupation: Patient Transport Services

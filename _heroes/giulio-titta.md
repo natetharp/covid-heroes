@@ -1,5 +1,6 @@
 ---
-title: Giulio Titta
+first_name: Giulio
+last_name: Titta
 description: 
 portrait: 
 occupation: General Practitioner, Former Secretary

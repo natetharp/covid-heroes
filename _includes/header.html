@@ -5,7 +5,7 @@
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 	<meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
 	<meta name="keywords" content="coronavirus, covid, covid-19, healthcare, doctor, nurse, memorial" />
-	<link rel="author" href="{{ "/humans.txt" | prepend: site.baseurl }}" />
+	<link rel="author" href="{{ "/humans.txt" | absolute_url }}" />
 	<link rel="canonical" href="{{ page.url | absolute_url }}" />
 	<meta name="robots" content="index" />
 	<link rel="alternate" hrefLang="en-us" href="{{ page.url | absolute_url }}" />
@@ -24,22 +24,22 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:site_name" content="{{ site.title }}" />
 	<meta property="og:title" content="{{ site.title }}" />
-	<meta property="og:description" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
 	<meta property="og:url" content="{{ page.url | absolute_url }}" />
-	<meta property="og:image" content="{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | prepend: site.baseurl }}" />
+	<meta property="og:image" content="{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}" />
 	<meta property="og:image:alt" content="Covid Heroes symbol" />
 	
 	<!-- / Twitter Card -->
-	<meta name="twitter:card" content="summary" />
-<!-- 	<meta name="twitter:site" content="@example" /> -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@HeroesCovid" />
 	<meta name="twitter:title" content="{{ site.title }}" />
-	<meta name="twitter:description" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-	<meta name="twitter:image" content="{{ "/assets/img/favicons/twitter-card-logo-1024x512.png" | prepend: site.baseurl }}" />
+	<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
+	<meta name="twitter:image" content="{{ "/assets/img/favicons/twitter-card-logo-1024x512.png" | absolute_url }}" />
 	<meta name="twitter:image:alt" content="Covid Heroes symbol" />
 	
 	<!-- / Favorite Icons -->
 	<meta name="msapplication-TileColor" content="#009ec1" />
-	<meta name="msapplication-TileImage" content="{{ "/assets/img/favicons/ms-icon-144x144.png" | prepend: site.baseurl }}" />
+	<meta name="msapplication-TileImage" content="{{ "/assets/img/favicons/ms-icon-144x144.png" | absolute_url }}" />
 	<meta name="theme-color" content="#ffffff" />
 	<link rel="mask-icon" href="{{ "/assets/img/favicons/safari-pinned-tab.svg" | prepend: site.baseurl }}" color="#e21836" />
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/favicons/apple-icon-180x180.png" | prepend: site.baseurl }}" />
@@ -55,19 +55,15 @@
 	<link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/img/favicons/favicon-96x96.png" | prepend: site.baseurl }}" />
 	<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/favicons/favicon-32x32.png" | prepend: site.baseurl }}" />
 	<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/favicons/favicon-16x16.png" | prepend: site.baseurl }}" />
-	<link rel="shortcut icon" href="{{ "/assets/img/favicons/favicon.ico" | prepend: site.baseurl }}" />	
+	<link rel="shortcut icon" href="{{ "/assets/img/favicons/favicon.ico" | absolute_url }}" />	
 	
 	<!-- / CSS -->
-	<link rel="stylesheet" href="{{ "/assets/uswds/css/uswds.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/uswds/css/uswds.css" | absolute_url }}">
 	
 	<style>	
 		.usa-media-block__img {max-width: 124px; border-radius: 1000px;}
 		blockquote {border-left: 1px solid #dfe1e2; padding-left:1.4rem;}
 		blockquote > * {opacity: 0.75;}
 	</style>
-	
-	
-	<!-- / JS -->
-<!-- 	<link rel="preload" href="{{ "/assets/uswds/js/uswds.min.js" | relative_url }}" as="script"> -->
 	
 </head>

@@ -1,5 +1,6 @@
 ---
-title: Jose Ramon Izquierdo Sanz
+first_name: Jose Ramon Izquierdo
+last_name: Sanz
 description: 
 portrait: 
 occupation: General Practitioner

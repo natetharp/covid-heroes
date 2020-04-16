@@ -1,5 +1,6 @@
 ---
-title: Mario Rossi
+first_name: Mario
+last_name: Rossi
 description: 
 portrait: 
 occupation: General Practitioner

@@ -1,5 +1,6 @@
 ---
-title: Christopher Firlit
+first_name: Christopher
+last_name: Firlit
 description: 
 portrait: 
 occupation: Physician - PGY6 Oral-Maxillofacial Surgery Chief Resident

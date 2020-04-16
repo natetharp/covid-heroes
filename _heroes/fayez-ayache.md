@@ -1,13 +1,14 @@
 ---
-title: Fayez Ayache
+first_name: Fayez
+last_name: Ayache
 description: 
 portrait: 
-occupation: 
+occupation: General Practitioner
 employer: NHS
 city: Suffolk
 province: 
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.bbc.com/news/uk-england-suffolk-52235296
 birth_date: 
 death_date: 2020-04-08
 ---

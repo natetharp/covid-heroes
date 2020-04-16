@@ -1,5 +1,6 @@
 ---
-title: Mario Giovita
+first_name: Mario
+last_name: Giovita
 description: 
 portrait: 
 occupation: General Practitioner

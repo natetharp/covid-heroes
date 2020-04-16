@@ -1,5 +1,6 @@
 ---
-title: Ivano Vezzulli
+first_name: Ivano
+last_name: Vezzulli
 description: 
 portrait: 
 occupation: General Practitioner, Sports Physician

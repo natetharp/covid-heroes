@@ -1,5 +1,6 @@
 ---
-title: Julián Santos-Gonzalez Martinez
+first_name: Julián Santos-Gonzalez
+last_name: Martinez
 description: 
 portrait: 
 occupation: Secretary of Medicine

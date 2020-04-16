@@ -1,5 +1,6 @@
 ---
-title: Catherine Sweeney
+first_name: Catherine
+last_name: Sweeney
 description: 
 portrait: 
 occupation: 

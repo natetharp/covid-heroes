@@ -1,5 +1,6 @@
 ---
-title: Emilio Brignole
+first_name: Emilio
+last_name: Brignole
 description: 
 portrait: 
 occupation: 

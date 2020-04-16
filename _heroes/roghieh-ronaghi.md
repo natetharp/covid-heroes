@@ -1,5 +1,6 @@
 ---
-title: Roghieh Ronaghi
+first_name: Roghieh
+last_name: Ronaghi
 description: 
 portrait: 
 occupation: Healthcare Worker

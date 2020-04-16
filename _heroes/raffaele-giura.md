@@ -1,5 +1,6 @@
 ---
-title: Raffaele Giura
+first_name: Raffaele
+last_name: Giura
 description: 
 portrait: 
 occupation: Pulmonologist

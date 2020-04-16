@@ -1,5 +1,6 @@
 ---
-title: Alex Hsu
+first_name: Alex
+last_name: Hsu
 description: 
 portrait: alex-hsu.jpg
 occupation: Hematologist, Doctor of Internal Medicine

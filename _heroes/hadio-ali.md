@@ -1,5 +1,6 @@
 ---
-title: Hadio Ali
+first_name: Hadio
+last_name: Ali
 description: 
 portrait: hadio-ali.jpg
 occupation: Doctor

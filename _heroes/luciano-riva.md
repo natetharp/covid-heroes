@@ -1,5 +1,6 @@
 ---
-title: Luciano Riva
+first_name: Luciano
+last_name: Riva
 description: 
 portrait: 
 occupation: 

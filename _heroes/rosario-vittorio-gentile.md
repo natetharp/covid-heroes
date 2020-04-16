@@ -1,5 +1,6 @@
 ---
-title: Rosario Vittorio Gentile
+first_name: Rosario Vittorio
+last_name: Gentile
 description: 
 portrait: 
 occupation: General Practitioner, Specialist in Allergology and Hematology

@@ -1,5 +1,6 @@
 ---
-title: Goran Ivankovic
+first_name: Goran
+last_name: Ivankovic
 description: 
 portrait: 
 occupation: Urology specialist, Head of the Urology Ward 

@@ -1,5 +1,6 @@
 ---
-title: Marco Lera
+first_name: Marco
+last_name: Lera
 description: 
 portrait: 
 occupation: Dentist	

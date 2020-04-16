@@ -1,34 +1,39 @@
 title: Covid Heroes
+url: "https://covid-heroes.com"
 baseurl: ""
-url: ""
 timezone: America/Los_Angeles
 
 permalink: pretty
 
 collections:
   heroes: 
-    sort_by: death_date DESC
+    sort_by: last_name
     output: true
-    permalink: :name
-
-sass:
-    style: compressed
-    sass_dir: _sass
+    permalink: /:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "heroes"
     values:
       layout: "hero"
 
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Exclude from processing.
 exclude:
   - assets/js/src
   - Gemfile*
@@ -38,3 +43,4 @@ exclude:
   - webpack.config.js
   - README.md
   - LICENSE.md
+  - CONTRIBUTE.md

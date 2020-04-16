@@ -1,5 +1,6 @@
 ---
-title: Raul Eslao
+first_name: Raul
+last_name: Eslao
 description: 
 portrait: 
 occupation: Registered Nurse

@@ -1,5 +1,6 @@
 ---
-title: Reza Rusta
+first_name: Reza
+last_name: Rusta
 description: 
 portrait: 
 occupation: Hospital Staff

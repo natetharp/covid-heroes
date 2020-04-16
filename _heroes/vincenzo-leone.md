@@ -1,5 +1,6 @@
 ---
-title: Vincenzo Leone
+first_name: Vincenzo
+last_name: Leone
 description: 
 portrait: 
 occupation: General Practitioner, Vice President

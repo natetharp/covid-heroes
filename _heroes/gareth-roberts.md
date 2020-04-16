@@ -1,5 +1,6 @@
 ---
-title: Gareth Roberts
+first_name: Gareth
+last_name: Roberts
 description: 
 portrait: 
 occupation: Nurse

@@ -1,19 +1,32 @@
 ---
 layout: default
 ---
+
+<section class="usa-section usa-section--dark">
+	<div class="grid-container">
+		<div class=" grid-row grid-gap">
+			<div class="tablet:grid-col-4">
+			<h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Highlighting the heroes among us</h2>
+			</div>
+			<div class="tablet:grid-col-8 usa-prose">
+			<p>Throughout this crisis, around the world, there are nurses, doctors and healthcare providers of all stripes that put their life on the lives at risk to help save members of the public. Everyone should know their names.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
 <div class="usa-section">
 	<div class="grid-container">
 		<div class="grid-row grid-gap">
 			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
 				<nav aria-label="Secondary navigation">
-					<ul class="usa-sidenav">
-					  {% for page in site.pages %}
-					    <li class="usa-sidenav__item{% if page.title == page.url %} usa-current{% endif %}">
-					      <a href="{{ page.url }}">{{ page.title }}</a>
-					    </li>
-					  {% endfor %}
+					<ul class="usa-sidenav">						
+						{% for item in site.data.navigation.secondary %}
+						<li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
+							<a href="{{ item.url | absolute_url  }}">{{ item.title }}</a>
+						</li>
+						{% endfor %}
 					</ul>
-					
 				</nav>
 			</div>
 

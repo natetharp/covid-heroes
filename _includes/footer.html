@@ -1,35 +1,48 @@
 <footer class="usa-footer">
-	<div class="grid-container usa-footer__return-to-top">
-		<a href="#">Return to top</a>
-	</div>
-	<div class="usa-footer__secondary-section">
-		<div class="grid-container">
-			<div class="grid-row grid-gap">
-				<div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
-					<div class="mobile-lg:grid-col-auto">
-<!-- 						<img class="usa-footer__logo-img" src="../../dist/img/logo-img.png" alt=""> -->
-					</div>
-					<div class="mobile-lg:grid-col-auto">
-						<h3 class="usa-footer__logo-heading">Covid Heroes</h3>
-<!-- 						<p>&copy;2020. Covid Heroes. All rights reserved.</p> -->
-					</div>
-				</div>
-				<div class="usa-footer__contact-links mobile-lg:grid-col-6">
-<!--
-					<h3 class="usa-footer__contact-heading">Agency Contact Center</h3>
-					<address class="usa-footer__address">
-						<div class="usa-footer__contact-info grid-row grid-gap">
-							<div class="grid-col-auto">
-								<a href="tel:1-800-555-5555">(800) CALL-GOVT</a>
-							</div>
-							<div class="grid-col-auto">
-								<a href="mailto:info@agency.gov">info@agency.gov</a>
-							</div>
-						</div>
-					</address>
--->
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="grid-container usa-footer__return-to-top">
+    <a href="#">Return to top</a>
+  </div>
+  <div class="usa-footer__primary-section">
+    <nav class="usa-footer__nav" aria-label="Footer navigation">
+      <ul class="grid-row grid-gap">
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+			<a class="usa-footer__primary-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
+		</li>
+		<li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">							<a class="usa-footer__primary-link" href="{{ "/support" | prepend: site.baseurl }}">Support</a>
+		</li>
+		<li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+			<a class="usa-footer__primary-link" href="{{ "/submit" | prepend: site.baseurl }}">Submit</a>
+		</li>
+      </ul>
+    </nav>
+  </div>
+  <div class="usa-footer__secondary-section">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+          <div class="mobile-lg:grid-col-auto">
+<!--             <img class="usa-footer__logo-img" src="/assets/img/logo-img.png" alt=""> -->
+          </div>
+          <div class="mobile-lg:grid-col-auto">
+            <h3 class="usa-footer__logo-heading">COVID Heroes</h3>
+          </div>
+        </div>
+        <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+          
+          <p>&copy;2020 COVID Heroes.</p>
+          
+          <address class="usa-footer__address">
+            <div class="usa-footer__contact-info grid-row grid-gap">
+	            <div class="grid-col-auto"><small><a href="https://github.com/natetharp/covid-heroes" target="_blank">GitHub</a></small></div>
+	            
+	            <div class="grid-col-auto"><small><a href="https://twitter.com/HeroesCovid/" target="_blank">Twitter</a></small></div>
+
+             <div class="grid-col-auto"><small>Last Updated: {{ site.time | date: '%B %-d, %Y' }}</small></div>
+				
+            </div>
+          </address>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>

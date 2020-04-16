@@ -1,5 +1,6 @@
 ---
-title: Hugo Díez Pérez
+first_name: Hugo Díez
+last_name: Pérez
 description: 
 portrait: 
 occupation: Neurologist

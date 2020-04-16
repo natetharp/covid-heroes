@@ -1,5 +1,6 @@
 ---
-title: Jitendra Rathod
+first_name: Jitendra
+last_name: Rathod
 description: 
 portrait: 
 occupation: Cardiothoracic Surgeon

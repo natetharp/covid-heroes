@@ -1,5 +1,6 @@
 ---
-title: Juan Miguel Ochoa Tejeda
+first_name: Juan Miguel Ochoa
+last_name: Tejeda
 description: 
 portrait: 
 occupation: Plastic Surgeon

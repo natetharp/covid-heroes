@@ -1,5 +1,6 @@
 ---
-title: Kerra Doyle
+first_name: Kerra
+last_name: Doyle
 description: 
 portrait: 
 occupation: Obstetrician

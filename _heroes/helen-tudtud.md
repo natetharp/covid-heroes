@@ -1,5 +1,6 @@
 ---
-title: Helen Tudtud
+first_name: Helen
+last_name: Tudtud
 description: 
 portrait: helen-tudtud.jpg
 occupation: Pathologist

@@ -1,5 +1,6 @@
 ---
-title: Toni Siltonga
+first_name: Toni
+last_name: Siltonga
 description: 
 portrait: toni-siltonga.jpg
 occupation: Doctor

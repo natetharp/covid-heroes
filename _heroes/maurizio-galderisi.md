@@ -1,5 +1,6 @@
 ---
-title: Maurizio Galderisi
+first_name: Maurizio
+last_name: Galderisi
 description: 
 portrait: 
 occupation: Cardiologist, Professor of Internal Medicine

@@ -1,5 +1,6 @@
 ---
-title: Abdullah Abbasi
+first_name: Abdullah
+last_name: Abbasi
 description: 
 portrait: 
 occupation: Infectious Disease Specialist

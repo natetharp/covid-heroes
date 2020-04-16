@@ -1,5 +1,6 @@
 ---
-title: Sylvain Welling	
+first_name: Sylvain	
+last_name: Welling
 description: 
 portrait: 
 occupation: General Practitioner

@@ -1,5 +1,6 @@
 ---
-title: Kevin Smith
+first_name: Kevin
+last_name: Smith
 description: 
 portrait: 
 occupation: Plaster Technician

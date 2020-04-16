@@ -1,5 +1,6 @@
 ---
-title: Hermes Roberto Radtke
+first_name: Hermes Roberto
+last_name: Radtke
 description: 
 portrait: 
 occupation: Physician, Radiology

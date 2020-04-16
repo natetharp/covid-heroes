@@ -1,5 +1,6 @@
 ---
-title: Adil El Tayar
+first_name: Adil
+last_name: El Tayar
 description: 
 portrait: adil-el-tayar.jpg
 occupation: Transplant Surgeon

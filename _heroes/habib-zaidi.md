@@ -1,5 +1,6 @@
 ---
-title: Habib Zaidi
+first_name: Habib
+last_name: Zaidi
 description: 
 portrait: 
 occupation: General Practitioner

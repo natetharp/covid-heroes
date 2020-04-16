@@ -1,5 +1,6 @@
 ---
-title: Donald Suelto
+first_name: Donald
+last_name: Suelto
 description: 
 portrait: 
 occupation: Nurse

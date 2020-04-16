@@ -1,5 +1,6 @@
 ---
-title: Lisa Rush
+first_name: Lisa
+last_name: Rush
 description: 
 portrait: 
 occupation: Medical Representative

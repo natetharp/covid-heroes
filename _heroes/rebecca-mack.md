@@ -1,5 +1,6 @@
 ---
-title: Rebecca Mack
+first_name: Rebecca
+last_name: Mack
 description: 
 portrait: 
 occupation: Oncology Nurse

@@ -1,5 +1,6 @@
 ---
-title: Gholamreza Vosughi Kia
+first_name: Gholamreza Vosughi
+last_name: Kia
 description: 
 portrait: 
 occupation: Nurse

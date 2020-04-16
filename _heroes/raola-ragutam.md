@@ -1,5 +1,6 @@
 ---
-title: Raola Ragutam
+first_name: Raola
+last_name: Ragutam
 description: 
 portrait: 
 occupation: Internal Medicine

@@ -1,5 +1,6 @@
 ---
-title: Zhong Ming Mei
+first_name: Zhong Ming
+last_name: Mei
 description: 
 portrait: 
 occupation: Ophthalmologist

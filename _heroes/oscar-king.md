@@ -1,5 +1,6 @@
 ---
-title: Oscar King
+first_name: Oscar
+last_name: King
 description: 
 portrait: 
 occupation: Porter
