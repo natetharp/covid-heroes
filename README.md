@@ -6,8 +6,9 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 ### Planned Features
 - ~~Add contributing details [reference](https://github.com/COVID19Tracking/website)~~
 - ~~List of Heroes by Country~~
-- List of Heroes Month/Day
+- [List of Heroes Month/Day](https://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year)
 - ~~Limit sidebar on Hero page to profiles from same country~~
+- [Create a page for each country](https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins)
 - Order heroes by date on home page
 - Replace blue circle with generic profile image
 - Add search
