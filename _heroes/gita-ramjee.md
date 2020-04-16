@@ -1,5 +1,6 @@
 ---
-title: Gita Ramjee
+first_name: Gita
+last_name: Ramjee
 description: 
 portrait: gita-ramjee.jpg
 occupation: Chief Specialist Scientist and Director

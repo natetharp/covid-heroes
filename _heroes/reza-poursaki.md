@@ -1,5 +1,6 @@
 ---
-title: Reza Poursaki
+first_name: Reza
+last_name: Poursaki
 description: 
 portrait: 
 occupation: Nurse

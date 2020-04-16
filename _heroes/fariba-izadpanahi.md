@@ -1,5 +1,6 @@
 ---
-title: Fariba Izadpanahi
+first_name: Fariba
+last_name: Izadpanahi
 description: 
 portrait: 
 occupation: Nurse

@@ -1,5 +1,6 @@
 ---
-title: Thomas Harvey
+first_name: Thomas
+last_name: Harvey
 description: 
 portrait: thomas-harvey.jpg
 occupation: Nurse

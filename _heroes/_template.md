@@ -1,5 +1,6 @@
 ---
-title: 
+first_name: 
+last_name: 
 description: 
 portrait: 
 occupation: 

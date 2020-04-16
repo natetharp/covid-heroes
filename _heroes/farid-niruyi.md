@@ -1,5 +1,6 @@
 ---
-title: Farid Niruyi
+first_name: Farid
+last_name: Niruyi
 description: 
 portrait: 
 occupation: Surgeon

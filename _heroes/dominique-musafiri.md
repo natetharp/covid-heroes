@@ -1,5 +1,6 @@
 ---
-title: Dominique Musafiri
+first_name: Dominique
+last_name: Musafiri
 description: 
 portrait: 
 occupation: Physician

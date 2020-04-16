@@ -1,5 +1,6 @@
 ---
-title: Nilufar Esmail Beigi
+first_name: Nilufar Esmail
+last_name: Beigi
 description: 
 portrait: 
 occupation: General Practitioner

@@ -24,24 +24,7 @@ layout: default
 	<div class="grid-container">
 		<div class="grid-row">
 		
-		{% for heroes in site.heroes %}
-			<div class="usa-media-block tablet:grid-col-6 margin-bottom-3">
-				
-				{% if heroes.portrait %}
-				<img class="usa-media-block__img" src="/assets/img/{{ heroes.portrait | prepend: site.baseurl }}" alt="{{ heroes.title }} portrait" />
-				{% else %}
-				<img class="usa-media-block__img" src="{{ "/assets/img/circle-124.png" | relative_url }}" alt="" />
-				{% endif %}
-				
-				<div class="usa-media-block__body">
-					<h2 class="usa-graphic-list__heading">{{ heroes.title }}</h2>
-					<p class="margin-y-05 line-height-sans-3"><em><small>{{ heroes.occupation }}{% if heroes.employer %}, {{ heroes.employer }}{% endif %}</small></em></p>
-					<p class="margin-y-05"><small><a href="{{ heroes.url | prepend: site.baseurl }}">Read More</a></small></p>
-					
-					<p class="post-excerpt">{{ heroes.description | truncate: 160 }}</p>
-				</div>
-			</div>
-		{% endfor %}		
+		{% include hero-portrait.html %}		
 		
 		</div>
 	</div>

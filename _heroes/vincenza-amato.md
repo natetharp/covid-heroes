@@ -1,5 +1,6 @@
 ---
-title: Vincenza Amato
+first_name: Vincenza
+last_name: Amato
 description: 
 portrait: 
 occupation: Chief Medical Officer

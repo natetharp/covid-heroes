@@ -1,5 +1,6 @@
 ---
-title: Antonio Pouchè
+first_name: Antonio
+last_name: Pouchè
 description: 
 portrait: 
 occupation: Former Professor

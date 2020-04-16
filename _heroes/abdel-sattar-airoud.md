@@ -1,5 +1,6 @@
 ---
-title: Abdel Sattar Airoud
+first_name: Abdel Sattar
+last_name: Airoud
 description: 
 portrait: 
 occupation: General Practitioner

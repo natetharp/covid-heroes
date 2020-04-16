@@ -1,5 +1,6 @@
 ---
-title: Nabil Chrabie
+first_name: Nabil
+last_name: Chrabie
 description: 
 portrait: 
 occupation: General Practitioner

@@ -1,5 +1,6 @@
 ---
-title: Noel Sinkiat
+first_name: Noel
+last_name: Sinkiat
 description: 
 portrait: 
 occupation: Registered Nurse, Surgical Intensive Care Unit

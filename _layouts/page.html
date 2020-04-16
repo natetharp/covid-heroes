@@ -20,19 +20,15 @@ layout: default
 		<div class="grid-row grid-gap">
 			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
 				<nav aria-label="Secondary navigation">
-					<ul class="usa-sidenav">
-					  {% for page in site.pages %}
-					    <li class="usa-sidenav__item{% if page.title == page.url %} usa-current{% endif %}">
-					      <a href="{{ page.url }}">{{ page.title }}</a>
-					    </li>
-					  {% endfor %}
+					<ul class="usa-sidenav">						
+						{% for item in site.data.navigation.secondary %}
+						<li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
+							<a href="{{ item.url | absolute_url  }}">{{ item.title }}</a>
+						</li>
+						{% endfor %}
 					</ul>
-					
 				</nav>
 			</div>
-			
-			
-
 
 			<main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
 				<h1>{{ page.title }}</h1>

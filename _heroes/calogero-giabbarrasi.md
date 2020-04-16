@@ -1,5 +1,6 @@
 ---
-title: Calogero Giabbarrasi
+first_name: Calogero
+last_name: Giabbarrasi
 description: 
 portrait: calogero-giabbarrasi.jpg
 occupation: General Practitioner

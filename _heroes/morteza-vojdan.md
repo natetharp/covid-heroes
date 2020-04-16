@@ -1,5 +1,6 @@
 ---
-title: Morteza Vojdan
+first_name: Morteza
+last_name: Vojdan
 description: 
 portrait: 
 occupation: General Practitioner

@@ -1,5 +1,6 @@
 ---
-title: Leonardo Marchi
+first_name: Leonardo
+last_name: Marchi
 description: 
 portrait: 
 occupation:  Infectious Disease Doctor, Medical Director

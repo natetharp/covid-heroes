@@ -1,5 +1,6 @@
 ---
-title: Jeffrey Baumbach
+first_name: Jeffrey
+last_name: Baumbach
 description: 
 portrait: 
 occupation: Resident Nurse

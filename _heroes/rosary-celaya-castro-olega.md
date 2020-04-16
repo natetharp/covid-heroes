@@ -1,5 +1,6 @@
 ---
-title: Rosary Celaya Castro-Olega
+first_name: Rosary Celaya
+last_name: Castro-Olega
 description: 
 portrait: 
 occupation: Registered Nurse

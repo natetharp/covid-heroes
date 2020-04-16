@@ -1,5 +1,6 @@
 ---
-title: Usman Sani
+first_name: Usman
+last_name: Sani
 description: 
 portrait: 
 occupation: Pathologist

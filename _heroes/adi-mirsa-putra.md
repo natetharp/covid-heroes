@@ -1,5 +1,6 @@
 ---
-title: Adi Mirsa Putra
+first_name: Adi Mirsa
+last_name: Putra
 description: 
 portrait: adi-mirsa-putra.jpg
 occupation: Doctor

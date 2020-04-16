@@ -1,5 +1,6 @@
 ---
-title: Aimee O’Rourke
+first_name: Aimee
+last_name: O’Rourke
 description: 
 portrait: 
 occupation: Nurse

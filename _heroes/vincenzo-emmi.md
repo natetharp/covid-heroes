@@ -1,5 +1,6 @@
 ---
-title: Vincenzo Emmi
+first_name: Vincenzo
+last_name: Emmi
 description: 
 portrait: 
 occupation: 

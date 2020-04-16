@@ -1,5 +1,6 @@
 ---
-title: Shahrouz Karimian
+first_name: Shahrouz
+last_name: Karimian
 description: 
 portrait: 
 occupation: Nurse

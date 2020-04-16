@@ -1,5 +1,6 @@
 ---
-title: Iraj Ebrahimi Nezhad
+first_name: Iraj Ebrahimi
+last_name: Nezhad
 description: 
 portrait: 
 occupation: General Practitioner

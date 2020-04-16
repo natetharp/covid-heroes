@@ -1,5 +1,6 @@
 ---
-title: Rosario Lupo
+first_name: Rosario
+last_name: Lupo
 description: 
 portrait: 
 occupation: Medical Examiner, Manager

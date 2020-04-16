@@ -1,5 +1,6 @@
 ---
-title: William Murdock
+first_name: William
+last_name: Murdock
 description: 
 portrait: 
 occupation: MRI Technologist

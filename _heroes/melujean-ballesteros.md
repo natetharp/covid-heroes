@@ -1,5 +1,6 @@
 ---
-title: Melujean Ballesteros
+first_name: Melujean
+last_name: Ballesteros
 description: 
 portrait: 
 occupation: Nurse

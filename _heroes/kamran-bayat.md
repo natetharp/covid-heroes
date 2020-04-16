@@ -1,5 +1,6 @@
 ---
-title: Kamran Bayat
+first_name: Kamran
+last_name: Bayat
 description: 
 portrait: 
 occupation: Surgical Technician

@@ -1,5 +1,6 @@
 ---
-title: Chad Capule
+first_name: Chad
+last_name: Capule
 description: 
 portrait: 
 occupation: Health IT

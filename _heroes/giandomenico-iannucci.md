@@ -1,5 +1,6 @@
 ---
-title: Giandomenico Iannucci
+first_name: Giandomenico
+last_name: Iannucci
 description: 
 portrait: 
 occupation: Physician

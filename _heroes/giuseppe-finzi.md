@@ -1,5 +1,6 @@
 ---
-title: Giuseppe Finzi
+first_name: Giuseppe
+last_name: Finzi
 description: 
 portrait: giuseppe-finzi.jpg
 occupation: Hematologist and Director

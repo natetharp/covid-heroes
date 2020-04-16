@@ -1,5 +1,6 @@
 ---
-title: Norman Jones
+first_name: Norman
+last_name: Jones
 description: 
 portrait: 
 occupation: Cardiologist, Former Cardiology Chief

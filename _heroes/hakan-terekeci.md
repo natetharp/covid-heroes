@@ -1,5 +1,6 @@
 ---
-title: Hakan Terekeci
+first_name: Hakan
+last_name: Terekeci
 description: 
 portrait: 
 occupation: Physician

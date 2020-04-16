@@ -1,5 +1,6 @@
 ---
-title: Marcelo Jaochico
+first_name: Marcelo
+last_name: Jaochico
 description: 
 portrait: 
 occupation: Physician, Family Medicine, Chief

@@ -1,5 +1,6 @@
 ---
-title: Domenico De Gilio
+first_name: Domenico
+last_name: De Gilio
 description: 
 portrait: 
 occupation: General Practitioner

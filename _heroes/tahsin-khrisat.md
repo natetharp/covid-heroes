@@ -1,5 +1,6 @@
 ---
-title: Tahsin Khrisat
+first_name: Tahsin
+last_name: Khrisat
 description: 
 portrait: 
 occupation: General Practitioner

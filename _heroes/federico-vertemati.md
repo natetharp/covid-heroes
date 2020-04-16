@@ -1,5 +1,6 @@
 ---
-title: Federico Vertemati
+first_name: Federico
+last_name: Vertemati
 description: 
 portrait: 
 occupation: Physician

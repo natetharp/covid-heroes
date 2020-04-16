@@ -1,5 +1,6 @@
 ---
-title: John Alagos
+first_name: John
+last_name: Alagos
 description: 
 portrait: 
 occupation: Nurse

@@ -1,5 +1,6 @@
 ---
-title: Niloufar Ismailbeigi
+first_name: Niloufar
+last_name: Ismailbeigi
 description: 
 portrait: niloufar-ismailbeigi.jpg
 occupation: General Practitioner

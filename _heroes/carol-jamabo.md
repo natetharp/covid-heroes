@@ -1,5 +1,6 @@
 ---
-title: Carol Jamabo
+first_name: Carol
+last_name: Jamabo
 description: 
 portrait: 
 occupation: Care Worker

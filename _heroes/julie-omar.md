@@ -1,5 +1,6 @@
 ---
-title: Julie Omar
+first_name: Julie
+last_name: Omar
 description: 
 portrait: 
 occupation: Nurse

@@ -1,5 +1,6 @@
 ---
-title: Olivier-Jacques Schneller
+first_name: Olivier-Jacques
+last_name: Schneller
 description: 
 portrait: 
 occupation: General Practitioner

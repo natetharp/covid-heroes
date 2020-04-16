@@ -1,5 +1,6 @@
 ---
-title: Sami Shousha
+first_name: Sami
+last_name: Shousha
 description: 
 portrait: 
 occupation: Honorary Professor of Histopathology

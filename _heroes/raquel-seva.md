@@ -1,5 +1,6 @@
 ---
-title: Raquel Seva
+first_name: Raquel
+last_name: Seva
 description: 
 portrait: 
 occupation: OB-GYN

@@ -1,5 +1,6 @@
 ---
-title: Antonio Maghernino
+first_name: Antonio
+last_name: Maghernino
 description: 
 portrait: 
 occupation: Continuing Care Doctor

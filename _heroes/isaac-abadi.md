@@ -1,5 +1,6 @@
 ---
-title: Isaac Abadi
+first_name: Isaac
+last_name: Abadi
 description: 
 portrait: 
 occupation: Founder, Professor of Internal Medicine and Rheumatology

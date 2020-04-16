@@ -1,5 +1,6 @@
 ---
-title: Gabriele Lombardi
+first_name: Gabriele
+last_name: Lombardi
 description: 
 portrait: 
 occupation: Dentist

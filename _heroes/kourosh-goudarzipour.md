@@ -1,5 +1,6 @@
 ---
-title: Kourosh Goudarzipour
+first_name: Kourosh
+last_name: Goudarzipour
 description: 
 portrait: 
 occupation: Hematologist Specialist

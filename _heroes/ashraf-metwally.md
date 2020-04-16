@@ -1,5 +1,6 @@
 ---
-title: Ashraf Metwally
+first_name: Ashraf
+last_name: Metwally
 description: 
 portrait: ashraf-metwally.jpg
 occupation: Family Physician

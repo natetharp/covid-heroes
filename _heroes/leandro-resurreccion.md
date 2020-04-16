@@ -1,5 +1,6 @@
 ---
-title: Leandro Resurreccion
+first_name: Leandro
+last_name: Resurreccion
 description: 
 portrait: leandro-resurreccion.jpg
 occupation: Pediatric Transplant Surgeon

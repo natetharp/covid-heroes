@@ -1,5 +1,6 @@
 ---
-title: Dr. Syed Habib Haider Zaidi
+first_name: Syed Habib Haider
+last_name: Zaidi
 description: 
 portrait: syed-habib-haider-zaidi.jpg
 occupation: General Practitioner and Managing Partner

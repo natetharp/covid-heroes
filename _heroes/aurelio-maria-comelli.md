@@ -1,5 +1,6 @@
 ---
-title: Aurelio Maria Comelli
+first_name: Aurelio Maria
+last_name: Comelli
 description: 
 portrait: 
 occupation: Cardiologist

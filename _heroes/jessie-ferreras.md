@@ -1,5 +1,6 @@
 ---
-title: Jessie A. Ferreras
+first_name: Jessie
+last_name: Ferreras
 description: 
 portrait: 
 occupation: Primary Care Physician
@@ -11,5 +12,7 @@ source:
 birth_date: 
 death_date: 
 ---
+
+Jessie A. Ferreras
 
 55 years old.

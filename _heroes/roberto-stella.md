@@ -1,5 +1,6 @@
 ---
-title: Roberto Stella
+first_name: Roberto
+last_name: Stella
 description: 
 portrait: 
 occupation: General Practitioner, President
