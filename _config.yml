@@ -26,16 +26,16 @@ defaults:
       layout: "hero"
 
 # Build Settings
-markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
 sass:
     style: compressed
     sass_dir: _sass
 
-# Exclude from processing.
+# Exclude from processing
 exclude:
   - assets/js/src
   - Gemfile*
