@@ -4,7 +4,7 @@ first_name: Italo
 last_name: Nosari
 description: 
 portrait: 
-occupation: Unknown
+occupation: 
 employer: 
 city: 
 province: 

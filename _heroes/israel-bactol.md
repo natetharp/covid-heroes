@@ -11,7 +11,7 @@ province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.rappler.com/move-ph/256145-israel-bactol-doki-doctor-to-the-barrios
 birth_date: 
-death_date: 2020-03-
+death_date: 
 ---
 
 > Dr. Israel Bactol, the son of farmers, was the first Filipino doctor to die from COVID-19. The 34-year-old was a cardiology fellow-in-training at the Philippine Heart Center in Quezon City.

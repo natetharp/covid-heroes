@@ -4,7 +4,7 @@ first_name: I.
 last_name: S.
 description: 
 portrait: 
-occupation: Unknown
+occupation: 
 employer: 
 city: 
 province: 
