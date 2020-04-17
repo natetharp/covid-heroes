@@ -1,5 +1,5 @@
 ---
-title: Abdel Sattar Airoud
+title: 
 first_name: Abdel Sattar
 last_name: Airoud
 description: 

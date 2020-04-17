@@ -1,5 +1,5 @@
 ---
-title: Abdollah Zandi
+title: 
 first_name: Abdollah
 last_name: Zandi
 description: 
