@@ -1,4 +1,5 @@
 ---
+title: Edoardo Valli
 first_name: Edoardo
 last_name: Valli
 description: 

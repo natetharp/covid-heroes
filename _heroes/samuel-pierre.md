@@ -1,4 +1,5 @@
 ---
+title: Samuel Pierre
 first_name: Samuel
 last_name: Pierre
 description: 

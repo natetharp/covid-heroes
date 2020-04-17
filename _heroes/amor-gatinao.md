@@ -1,4 +1,5 @@
 ---
+title: Amor Gatinao
 first_name: Amor
 last_name: Gatinao
 description: 

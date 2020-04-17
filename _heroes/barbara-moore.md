@@ -1,4 +1,5 @@
 ---
+title: Barbara Moore
 first_name: Barbara
 last_name: Moore
 description: 

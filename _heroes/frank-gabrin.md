@@ -1,4 +1,5 @@
 ---
+title: Frank Pinchas Gabrin
 first_name: Frank Pinchas
 last_name: Gabrin
 description: 

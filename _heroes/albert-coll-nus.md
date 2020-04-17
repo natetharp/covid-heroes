@@ -1,4 +1,5 @@
 ---
+title: Albert Coll Nus
 first_name: Albert Coll
 last_name: Nus
 description: 

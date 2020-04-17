@@ -1,4 +1,5 @@
 ---
+title: Douglas Linn Hickok
 first_name: Douglas Linn
 last_name: Hickok
 description: 

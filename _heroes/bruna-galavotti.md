@@ -1,4 +1,5 @@
 ---
+title: Bruna Galavotti
 first_name: Bruna
 last_name: Galavotti
 description: 

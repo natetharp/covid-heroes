@@ -1,4 +1,5 @@
 ---
+title: Michele Lauriola
 first_name: Michele
 last_name: Lauriola
 description: 

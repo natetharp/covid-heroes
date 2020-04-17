@@ -1,4 +1,5 @@
 ---
+title: Seyyed Mozaffar Rabi'e
 first_name: Seyyed Mozaffar
 last_name: Rabi'e
 description: 

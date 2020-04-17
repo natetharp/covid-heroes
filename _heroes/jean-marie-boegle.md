@@ -1,4 +1,5 @@
 ---
+title: Jean-Marie Boegle
 first_name: Jean-Marie
 last_name: Boegle
 description: 

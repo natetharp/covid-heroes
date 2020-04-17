@@ -1,4 +1,5 @@
 ---
+title: Giuseppe Lanati
 first_name: Giuseppe
 last_name: Lanati
 description: 

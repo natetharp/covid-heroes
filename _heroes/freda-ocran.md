@@ -1,4 +1,5 @@
 ---
+title: Freda Ocran
 first_name: Freda
 last_name: Ocran
 description: 

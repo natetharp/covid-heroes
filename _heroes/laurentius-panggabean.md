@@ -1,4 +1,5 @@
 ---
+title: Laurentius Panggabean
 first_name: Laurentius
 last_name: Panggabean
 description: 

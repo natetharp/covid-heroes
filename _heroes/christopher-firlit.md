@@ -1,4 +1,5 @@
 ---
+title: Christopher Firlit
 first_name: Christopher
 last_name: Firlit
 description: 

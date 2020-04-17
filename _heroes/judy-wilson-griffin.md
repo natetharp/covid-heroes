@@ -1,4 +1,5 @@
 ---
+title: Judy Wilson-Griffin
 first_name: Judy
 last_name: Wilson-Griffin
 description: 

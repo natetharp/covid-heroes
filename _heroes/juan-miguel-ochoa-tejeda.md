@@ -1,4 +1,5 @@
 ---
+title: Juan Miguel Ochoa Tejeda
 first_name: Juan Miguel Ochoa
 last_name: Tejeda
 description: 

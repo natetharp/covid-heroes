@@ -1,4 +1,5 @@
 ---
+title: Edmond Adedeji
 first_name: Edmond
 last_name: Adedeji
 description: 

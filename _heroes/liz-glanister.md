@@ -1,4 +1,5 @@
 ---
+title: Liz Glanister
 first_name: Liz
 last_name: Glanister
 description: 

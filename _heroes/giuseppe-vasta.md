@@ -1,4 +1,5 @@
 ---
+title: Giuseppe Vasta
 first_name: Giuseppe
 last_name: Vasta
 description: 

@@ -1,4 +1,5 @@
 ---
+title: Gerard Fabian Goco
 first_name: Gerard Fabian
 last_name: Goco
 description: 

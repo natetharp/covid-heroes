@@ -1,4 +1,5 @@
 ---
+title: Luigi Frusciante
 first_name: Luigi
 last_name: Frusciante
 description: 

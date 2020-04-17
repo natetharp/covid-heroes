@@ -1,4 +1,5 @@
 ---
+title: Jeannie Danker
 first_name: Jeannie
 last_name: Danker
 description: 

@@ -1,4 +1,5 @@
 ---
+title: Giuseppe Aldo Spinazzola
 first_name: Giuseppe Aldo
 last_name: Spinazzola
 description: 

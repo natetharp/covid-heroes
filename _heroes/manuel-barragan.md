@@ -1,4 +1,5 @@
 ---
+title: Manuel Barragan
 first_name: Manuel
 last_name: Barragan
 description: 

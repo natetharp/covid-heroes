@@ -1,4 +1,5 @@
 ---
+title: Giuseppe Borghi
 first_name: Giuseppe
 last_name: Borghi
 description: 

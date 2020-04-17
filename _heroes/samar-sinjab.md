@@ -1,4 +1,5 @@
 ---
+title: Samar Sinjab
 first_name: Samar
 last_name: Sinjab
 description: 

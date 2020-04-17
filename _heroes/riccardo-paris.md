@@ -1,4 +1,5 @@
 ---
+title: Riccardo Paris
 first_name: Riccardo
 last_name: Paris
 description: 
