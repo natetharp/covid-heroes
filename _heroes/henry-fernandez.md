@@ -11,7 +11,7 @@ province: Pangasinan
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez, https://news.abs-cbn.com/news/03/25/20/doctor-balikbayan-dead-in-pangasinan-due-to-covid-19-governor
 birth_date: 
-death_date: 2020-03-
+death_date: 
 ---
 
 > Dr. Henry Fernandez was known as the “doctor ng bayan” of Bayambang, Pangasinan.  
