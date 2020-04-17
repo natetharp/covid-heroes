@@ -11,7 +11,7 @@ province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.rappler.com/move-ph/255871-greg-macasaet-remembered-for-selflessness-beyond-ultimate-sacrifice
 birth_date: 
-death_date: 2020-03-
+death_date: 
 ---
 
 > Dr. Greg Macasaet was an anesthesiologist at Manila Doctors Hospital. His wife and colleague, Dr. Evalyn Talens is currently hospitalized with COVID-19.

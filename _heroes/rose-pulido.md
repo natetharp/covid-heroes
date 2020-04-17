@@ -11,7 +11,7 @@ province: National Capital Region
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.rappler.com/move-ph/256304-rose-pulido-calling-help-others
 birth_date: 
-death_date: 2020-03-
+death_date: 
 ---
 
 > Dr. Rose Pulido was a medical oncologist from San Juan de Dios Hospital.
