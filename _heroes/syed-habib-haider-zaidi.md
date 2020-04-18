@@ -11,7 +11,7 @@ province: East
 country: United Kingdom
 source: https://twitter.com/dara_naqvi/status/1243428027406659585, https://www.bbc.com/news/uk-england-essex-52040991
 birth_date: 
-death_date: 2020-03025
+death_date: 2020-03-25
 ---
 
 Dr. Syed Habib Haider Zaidi died in intensive care at Southend Hospital, Essex, 24 hours after being taken ill.
