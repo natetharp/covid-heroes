@@ -11,7 +11,7 @@ province: Apayao
 country: Philippines
 source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.rappler.com/nation/255798-pampanga-health-chief-jaochico-dies-coronavirus
 birth_date: 
-death_date: 2020-03-
+death_date: 
 ---
 
 > Dr. Marcelo Jaochico was a community doctor and Pampanga’s provincial health officer.
