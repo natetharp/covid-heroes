@@ -9,23 +9,23 @@ collections:
   heroes: 
     sort_by: last_name
     output: true
-    permalink: :name
+    permalink: /:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "heroes"
     values:
       layout: "hero"
 
 # Build Settings
+markdown: kramdown
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
