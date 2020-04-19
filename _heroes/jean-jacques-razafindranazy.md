@@ -1,5 +1,4 @@
 ---
-title: Jean-Jacques Razafindranazy
 first_name: Jean-Jacques
 last_name: Razafindranazy
 description: 
