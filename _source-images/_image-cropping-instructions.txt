@@ -1,0 +1,16 @@
+
+COVID Heroes Image Cropping Instructions
+2020-04-21
+
+
+1. Crop image to square, maintaining the individuals head & shoulders when possible
+2. Try to utilize the rule of thirds, and maintain "more chin room than head room"
+3. Export for web as a JPG at 70%, retain the current pixel dimensions (don't downsize)
+4. Rename file to all lowercase and include only the first and last name of the individual (eg. firstname-lastname.jpg)
+
+
+For an example of following these instructions, refer to the included `_image-sample-start.png` and `_image-sample-cropped.jpg` files.
+
+
+
+Note: Sometimes images are just too small that it doesn't make sense to crop tightly to the head and shoulders. Sometimes and image is so off-kilter that you can't reasonably center the individual. In these situations, you have to just use your best judgement on what will make for the best image given the situation.
