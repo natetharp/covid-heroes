@@ -22,7 +22,7 @@ layout: default
 			<main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
 				
 				<div class="grid-row">
-				    {% if page.portrait %}<div class="grid-col-auto margin-right-2"><img class="usa-media-block__img" src="/assets/img/{{ page.portrait | prepend: site.baseurl }}" alt="{{ page.first_name }} {{ page.last_name }} portrait" /></div>{% endif %}
+				    {% if page.portrait %}<div class="grid-col-auto margin-right-2"><img loading="lazy" class="usa-media-block__img" src="/assets/img/{{ page.portrait | prepend: site.baseurl }}" alt="{{ page.first_name }} {{ page.last_name }} portrait" /></div>{% endif %}
 				    <div class="grid-col-fill usa-prose">
 					    <h1>{{ page.first_name }} {{ page.last_name }}</h1>	
 						<p class="usa-intro">{{ page.occupation }}{% if page.employer %}, {{ page.employer }}{% endif %}</p>

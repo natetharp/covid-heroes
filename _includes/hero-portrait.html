@@ -3,9 +3,9 @@
 	<div class="usa-media-block tablet:grid-col-6 margin-bottom-3">
 		
 		{% if heroes.portrait %}
-		<img class="usa-media-block__img" src="/assets/img/{{ heroes.portrait | prepend: site.baseurl }}" alt="{{ heroes.first_name }} {{ heroes.last_name }} portrait" />
+		<img loading="lazy" class="usa-media-block__img" src="/assets/img/{{ heroes.portrait | prepend: site.baseurl }}" alt="{{ heroes.first_name }} {{ heroes.last_name }} portrait" />
 		{% else %}
-		<img class="usa-media-block__img" src="{{ "/assets/img/circle-124.png" | relative_url }}" alt="" />
+		<img loading="lazy" class="usa-media-block__img" src="{{ "/assets/img/circle-124.png" | relative_url }}" alt="" />
 		{% endif %}
 		
 		<div class="usa-media-block__body">
