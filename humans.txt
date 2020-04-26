@@ -1,24 +1,27 @@
 /* SITE */
 
 Standards: HTML5, CSS3, USWDS
-Components: Jekyll, GitHub Pages
-Software: Coda, Terminal
+Tools: Jekyll, GitHub Pages
+Software: Coda, Terminal, NameChanger, ImageOptim
 
 
 /* TEAM */
 
-Name: Nate Tharp (Research, Design, and Development)
+Name: Nate Tharp (Research and Development)
 Twitter: @natetharp
-Location: Los Angeles, CA
+Location: Los Angeles, CA, USA
 
 Name: Christy Joy (Copywriting)
 Twitter: @coffeedrn
-Location: Spartanburg, SC
+Location: Spartanburg, SC, USA
+
+Name: Jolene Esposito (Photo Resizing and Retouching)
+Location: Washington D.C., USA
+
+Name: Charles Reid (Development)
+Location: Los Angeles, CA, USA
 
 
 /* THANKS */
 
 Thanks to Maciej Ceglowski for the original idea: https://twitter.com/Pinboard/status/1243027902767067136
-Thanks to Maciej Ceglowski for creating and maintaining the Covid Heroes Twitter feed: https://twitter.com/HeroesCovid
-Thanks to Jacques Fortier for creating the initial dataset: https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167
-Thanks to the Italain medical association for maintaining a list of those lost in Italy: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/
