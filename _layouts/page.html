@@ -21,11 +21,33 @@ layout: default
 			<div class="usa-layout-docs__sidenav desktop:grid-col-3">
 				<nav aria-label="Secondary navigation">
 					<ul class="usa-sidenav">						
+						
+						{% if page.title == "By Country" %}
+						
+						{% assign groups = site.heroes | group_by: "country" | sort: "country" %}
+						{% for group in groups %}
+						<li class="usa-sidenav__item">
+							<a href="{{ page.url | absolute_url }}#{{ group.name | slugify }}">{{ group.name }}</a>
+							</li>
+						{%endfor%}
+						
+						
+						<li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
+							<a href="{{ item.url | absolute_url  }}">{{ item.title }}</a>
+						</li>
+						
+
+						{% else %}
+						
+						
+						
+						
 						{% for item in site.data.navigation.secondary %}
 						<li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
 							<a href="{{ item.url | absolute_url  }}">{{ item.title }}</a>
 						</li>
 						{% endfor %}
+						{% endif %}
 					</ul>
 				</nav>
 			</div>
