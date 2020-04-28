@@ -2,7 +2,7 @@
 first_name: Yusuf
 last_name: Patel
 description: 
-portrait: 
+portrait: yusuf-patel.jpg
 occupation: General Practitioner
 employer: Woodgrange NHS Medical Practice
 city: 

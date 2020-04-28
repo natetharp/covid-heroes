@@ -2,7 +2,7 @@
 first_name: Sonja
 last_name: Kaygan
 description: 
-portrait: 
+portrait: sonja-kaygan.jpg
 occupation: Carer
 employer: Elizabeth Lodge Care Home
 city: London

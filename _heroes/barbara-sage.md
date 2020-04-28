@@ -2,7 +2,7 @@
 first_name: Barbara
 last_name: Sage
 description: 
-portrait: 
+portrait: barbara-sage.jpg
 occupation: Senior Healthcare Assistant
 employer: Marie Curie
 city: 

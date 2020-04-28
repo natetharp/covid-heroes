@@ -1,9 +1,8 @@
 ---
-title: Fayez Ayache
 first_name: Fayez
 last_name: Ayache
 description: 
-portrait: 
+portrait: fayez-ayache.jpg
 occupation: General Practitioner
 employer: NHS
 city: Suffolk

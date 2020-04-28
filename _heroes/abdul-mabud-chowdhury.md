@@ -1,9 +1,8 @@
 ---
-title: Abdul Mabud Chowdhury
 first_name: Abdul Mabud
 last_name: Chowdhury
 description: 
-portrait: 
+portrait: abdul-mabud-chowdhury.jpg
 occupation: Urologist
 employer: Homerton Hospital 
 city: East London

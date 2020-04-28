@@ -2,7 +2,7 @@
 first_name: Amrik
 last_name: Bamotra
 description: 
-portrait: 
+portrait: amrik-bamotra.jpg
 occupation: Radiology Support Worker
 employer: King George Hospital
 city: Ilford

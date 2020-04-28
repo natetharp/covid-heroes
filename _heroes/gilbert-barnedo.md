@@ -2,7 +2,7 @@
 first_name: Gilbert
 last_name: Barnedo
 description: 
-portrait: 
+portrait: gilbert-barnedo.jpg
 occupation: Nurse
 employer: South East London Care Home
 city: 

@@ -1,9 +1,8 @@
 ---
-title: Edmond Adedeji
 first_name: Edmond
 last_name: Adedeji
 description: 
-portrait: 
+portrait: edmond-adedeji.jpg
 occupation: Emergency Medicine Registrar
 employer: Great Western Hospital
 city: Swindon

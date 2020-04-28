@@ -1,5 +1,4 @@
 ---
-title: Song Yingjie
 first_name: Song
 last_name: Yingjie
 description: 

@@ -2,7 +2,7 @@
 first_name: Brian
 last_name: Darlington
 description: 
-portrait: 
+portrait: brian-darlington.jpg
 occupation: Porter
 employer: Leighton Hospital
 city: Crewe

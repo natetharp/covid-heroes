@@ -1,9 +1,8 @@
 ---
-title: Elberto Rico
 first_name: Elberto
 last_name: Rico
 description: 
-portrait: 
+portrait: elberto-rico.jpg
 occupation: Porter
 employer: John Radcliffe Hospital
 city: Oxford

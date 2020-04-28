@@ -1,9 +1,8 @@
 ---
-title: Labeja Acellam
 first_name: Labeja
 last_name: Acellam
 description: 
-portrait: 
+portrait: labeja-acellam.jpg
 occupation: Physician
 employer: University Hospital Lewisham
 city: London

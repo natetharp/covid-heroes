@@ -2,7 +2,7 @@
 first_name: Amarante
 last_name: Dias
 description: 
-portrait: 
+portrait: amarante-dias.jpg
 occupation: Healthcare Support Worker
 employer: Weston General Hospital
 city: 

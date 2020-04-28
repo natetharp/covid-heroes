@@ -2,7 +2,7 @@
 first_name: Julie
 last_name: Penfold
 description: 
-portrait: 
+portrait: julie-penfold.jpg
 occupation: Staff Nurse
 employer: Arrowe Park Hospital
 city: 

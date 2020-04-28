@@ -2,7 +2,7 @@
 first_name: Cheryl
 last_name: Williams
 description: 
-portrait: 
+portrait: cheryl-williams.jpg
 occupation: Ward Housekeeper
 employer: North Middlesex University Hospital
 city: 

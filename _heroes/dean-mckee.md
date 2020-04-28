@@ -2,7 +2,7 @@
 first_name: Dean
 last_name: McKee
 description: 
-portrait: 
+portrait: dean-mckee.jpg
 occupation: Care Home Worker
 employer: 
 city: 

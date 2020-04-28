@@ -2,7 +2,7 @@
 first_name: Patricia
 last_name: Crowhurst
 description: 
-portrait: 
+portrait: patricia-crowhurst.jpg
 occupation: Healthcare Assistant
 employer: 
 city: 

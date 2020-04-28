@@ -1,19 +1,16 @@
 ---
-title: Madhvi Aya
 first_name: Madhvi
 last_name: Aya
 description: 
-portrait: 
+portrait: madhvi-aya.jpg
 occupation: Physician Assistant, Emergency Medicine
 employer: Woodhull Medical Center
 city: Brooklyn
 province: New York
 country: United States
-source: 
+source: https://www.nytimes.com/2020/04/15/nyregion/coronavirus-woodhull-madhvi-aya-dead.html
 birth_date: 
-death_date: 
+death_date: 2020-03-29 
 ---
 
-61 years old.
-
-[GoFundMe campaign](https://www.gofundme.com/f/in-memory-of-madhvi-aya)
+Madhvi Aya was 61 years old. A [GoFundMe](https://www.gofundme.com/f/in-memory-of-madhvi-aya) has been set up in her memory.

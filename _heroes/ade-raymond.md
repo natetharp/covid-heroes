@@ -2,7 +2,7 @@
 first_name: Ade
 last_name: Raymond
 description: 
-portrait: 
+portrait: ade-raymond.jpg
 occupation: Mental Health Student Nurse and Healthcare Assistant
 employer: Middlesex University
 city: 

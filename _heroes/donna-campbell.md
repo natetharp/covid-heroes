@@ -1,15 +1,14 @@
 ---
-title: Donna Campbell
 first_name: Donna
 last_name: Campbell
 description: 
-portrait: 
+portrait: donna-campbell.jpg
 occupation: Cancer Centre Healthcare Support Worker
 employer: 
 city: Cardiff
 province: 
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.bbc.com/news/health-52242856
 birth_date: 
 death_date: 
 ---

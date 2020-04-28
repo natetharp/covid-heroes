@@ -2,7 +2,7 @@
 first_name: Andrew 
 last_name: Treble
 description: 
-portrait: 
+portrait: andrew-treble.jpg
 occupation: 
 employer: 
 city: 

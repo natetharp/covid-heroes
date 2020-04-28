@@ -2,7 +2,7 @@
 first_name: Andy
 last_name: Stamp
 description: 
-portrait: 
+portrait: andy-stamp.jpg
 occupation: ICT Administrator
 employer: Alder Hay Children's Hospital
 city: 

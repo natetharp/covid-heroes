@@ -2,7 +2,7 @@
 first_name: Abdul
 last_name: Gellaledin
 description: 
-portrait: 
+portrait: abdul-gellaledin.jpg
 occupation: Patient Transport Service Driver
 employer: 
 city: Kingston upon Thames

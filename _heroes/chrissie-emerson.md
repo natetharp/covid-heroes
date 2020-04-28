@@ -2,7 +2,7 @@
 first_name: Chrissie
 last_name: Emerson
 description: 
-portrait: 
+portrait: chrissie-emerson.jpg
 occupation: Healthcare Assistant
 employer: Queen Elizabeth Hospital (QEH)
 city: King's Lynn

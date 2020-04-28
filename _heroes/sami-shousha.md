@@ -1,9 +1,8 @@
 ---
-title: Sami Shousha
 first_name: Sami
 last_name: Shousha
 description: 
-portrait: 
+portrait: sami-shousha.jpg
 occupation: Honorary Professor of Histopathology
 employer: Imperial College London
 city: London

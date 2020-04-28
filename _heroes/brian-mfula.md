@@ -2,7 +2,7 @@
 first_name: Brian
 last_name: Mfula
 description: 
-portrait: 
+portrait: brian-mfula.jpg
 occupation: Mental Health Nursing Lecturer
 employer: Swansea University
 city: 

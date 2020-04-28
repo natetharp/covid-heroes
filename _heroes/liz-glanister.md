@@ -1,9 +1,8 @@
 ---
-title: Liz Glanister
 first_name: Liz
 last_name: Glanister
 description: 
-portrait: 
+portrait: liz-glanister.jpg
 occupation: Staff Nurse
 employer: Aintree University Hospital
 city: Liverpool

@@ -2,7 +2,7 @@
 first_name: Charlie
 last_name: Goodwin
 description: 
-portrait: 
+portrait: charlie-goodwin.jpg
 occupation: Patient Transport Driver
 employer: First 4 Care
 city: 

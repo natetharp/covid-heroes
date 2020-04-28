@@ -2,7 +2,7 @@
 first_name: Peter
 last_name: Tun
 description: 
-portrait: 
+portrait: peter-tun.jpg
 occupation: Neuro-rehabilitation Specialist
 employer: Royal Berkshire NHS Foundation Trust
 city: 

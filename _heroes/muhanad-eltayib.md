@@ -2,7 +2,7 @@
 first_name: Muhanad Nowar
 last_name: Eltayib
 description: 
-portrait: 
+portrait: muhanad-eltayib.jpg
 occupation: Cardiologist
 employer: Royal Victoria Hospital
 city: Belfast

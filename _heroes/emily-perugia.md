@@ -1,9 +1,8 @@
 ---
-title: Emily Perugia
 first_name: Emily
 last_name: Perugia
 description: 
-portrait: 
+portrait: emily-perugia.jpg
 occupation: Care Co-ordinator
 employer: Care Connection Team
 city: Northwood

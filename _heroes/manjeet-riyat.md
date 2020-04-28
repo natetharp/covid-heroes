@@ -2,7 +2,7 @@
 first_name: Manjeet Singh
 last_name: Riyat
 description: 
-portrait: 
+portrait: manjeet-riyat.jpg
 occupation: Emergency Medicine Consultant
 employer: University Hospitals of Derby and Burton
 city: 

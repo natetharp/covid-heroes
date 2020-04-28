@@ -1,9 +1,8 @@
 ---
-title: Mandy Siddorn
 first_name: Mandy
 last_name: Siddorn
 description: 
-portrait: 
+portrait: mandy-siddorn.jpg
 occupation: Registered Pharmacy Technician
 employer: 
 city: 

@@ -1,9 +1,8 @@
 ---
-title: Leilani Medel
 first_name: Leilani
 last_name: Medel
 description: 
-portrait: 
+portrait: leilani-medel.jpg
 occupation: Nurse
 employer: 
 city: Bridgend

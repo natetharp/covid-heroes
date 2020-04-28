@@ -1,9 +1,8 @@
 ---
-title: Janice Graham
 first_name: Janice
 last_name: Graham
 description: 
-portrait: 
+portrait: janice-graham.jpg
 occupation: Healthcare Associate
 employer: 
 city: 

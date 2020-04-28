@@ -3,7 +3,7 @@ title: Catherine Sweeney
 first_name: Catherine
 last_name: Sweeney
 description: 
-portrait: 
+portrait: catherine-sweeney.jpg
 occupation: 
 employer: 
 city: 

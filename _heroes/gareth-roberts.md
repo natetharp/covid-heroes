@@ -1,9 +1,8 @@
 ---
-title: Gareth Roberts
 first_name: Gareth
 last_name: Roberts
 description: 
-portrait: 
+portrait: gareth-roberts.jpg
 occupation: Nurse
 employer: Prince Charles Hospital
 city: 
