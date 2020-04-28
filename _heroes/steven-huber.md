@@ -2,7 +2,7 @@
 first_name: Steven J. 
 last_name: Huber
 description: 
-portrait: 
+portrait: steven-huber.jpg
 occupation: Orthodonist
 employer: 
 city: Jefferson City

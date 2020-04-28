@@ -3,7 +3,7 @@ title: Alice Kit Tak Ong
 first_name: Alice Kit
 last_name: Tak Ong
 description: 
-portrait: 
+portrait: alice-kit-tak-ong.jpg
 occupation: Nurse and Midwife
 employer: Colindale Medical Centre
 city: London

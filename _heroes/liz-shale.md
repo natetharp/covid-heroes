@@ -2,7 +2,7 @@
 first_name: Liz 
 last_name: Shale
 description: 
-portrait: 
+portrait: liz-shale.jpg
 occupation: Palliative Care Worker
 employer: 
 city: Bradford

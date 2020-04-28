@@ -2,7 +2,7 @@
 first_name: Ratih
 last_name: Purwarini
 description: 
-portrait: 
+portrait: ratih-purwarini.jpg
 occupation: General Practitioner
 employer: 
 city: Jakarta

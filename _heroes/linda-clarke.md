@@ -2,7 +2,7 @@
 first_name: Linda
 last_name: Clarke
 description: 
-portrait: 
+portrait: linda-clarke.jpg
 occupation: Community Midwife
 employer: Royal Albert Edward Infirmary
 city: 

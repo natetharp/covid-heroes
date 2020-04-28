@@ -2,7 +2,7 @@
 first_name: Ronaldo
 last_name: Mateo
 description: 
-portrait: 
+portrait: ronaldo-mateo.jpg
 occupation: Surgeon
 employer: 
 city: Silang

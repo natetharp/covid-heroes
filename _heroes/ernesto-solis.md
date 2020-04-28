@@ -2,7 +2,7 @@
 first_name: Ernesto Jaime
 last_name: Solis
 description: 
-portrait: 
+portrait: ernesto-solis.jpg
 occupation: Pediatric Surgeon
 employer: Hospital Juárez de México
 city: Mexico City

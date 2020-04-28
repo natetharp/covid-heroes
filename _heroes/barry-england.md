@@ -2,7 +2,7 @@
 first_name: Barry
 last_name: England
 description: 
-portrait: 
+portrait: barry-england.jpg
 occupation: Senior Paramedic
 employer: East of England Ambulance Service NHS Trust
 city: 

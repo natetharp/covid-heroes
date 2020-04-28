@@ -2,7 +2,7 @@
 first_name: Kevin
 last_name: Graiani
 description: 
-portrait: 
+portrait: kevin-graiani.jpg
 occupation: Nurse Practitioner
 employer: 
 city: Garnerville

@@ -2,7 +2,7 @@
 first_name: Ricardo A. Alcivar
 last_name: Zambrano
 description: 
-portrait: 
+portrait: ricardo-zambrano.jpg
 occupation: Pediatrician and Neonatologist
 employer: 
 city: Guayaquil

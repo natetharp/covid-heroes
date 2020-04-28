@@ -2,7 +2,7 @@
 first_name: Kimberly
 last_name: Napper
 description: 
-portrait: 
+portrait: kimberly-napper.jpg
 occupation: Registered Nurse (Retired)
 employer: 
 city: Madison

@@ -2,7 +2,7 @@
 first_name: Carlos Torres
 last_name: Noé
 description: 
-portrait: 
+portrait: carlos-noe.jpg
 occupation: Hospital Director, University Professor
 employer: Hospital Básico De Durán
 city: Durán

@@ -2,7 +2,7 @@
 first_name: Maurice
 last_name: Dotson
 description: 
-portrait: 
+portrait: maurice-dotson.jpg
 occupation: Certified Nursing Assistant
 employer: 
 city: Austin

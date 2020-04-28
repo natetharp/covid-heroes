@@ -1,9 +1,8 @@
 ---
-title: Leilani Dayrit
 first_name: Leilani
 last_name: Dayrit
 description: 
-portrait: 
+portrait: leilani-dayrit.jpg
 occupation: Nurse
 employer: Hospital of St Cross
 city: Rugby

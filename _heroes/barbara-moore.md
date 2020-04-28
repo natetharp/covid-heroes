@@ -1,9 +1,8 @@
 ---
-title: Barbara Moore
 first_name: Barbara
 last_name: Moore
 description: 
-portrait: 
+portrait: barbara-moore.jpg
 occupation: Patient Discharge Planner
 employer: Aintree University Hospital
 city: Liverpool

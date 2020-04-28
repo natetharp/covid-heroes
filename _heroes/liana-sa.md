@@ -2,7 +2,7 @@
 first_name: Liana
 last_name: Sá
 description: 
-portrait: 
+portrait: liana-sa.jpg
 occupation: Emergency Medical Technician
 employer: 
 city: Newark

@@ -2,7 +2,7 @@
 first_name: Lourdes
 last_name: Campbell
 description: 
-portrait: 
+portrait: lourdes-campbell.jpg
 occupation: Healthcare Assistant
 employer: Royal Bolton Hospital
 city: 

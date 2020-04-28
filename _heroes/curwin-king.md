@@ -2,7 +2,7 @@
 first_name: Curwin
 last_name: King
 description: 
-portrait: 
+portrait: curwin-king.jpg
 occupation: Recovery Room Hospital Attendant
 employer: SUNY Downstate Medical Center
 city: Brooklyn

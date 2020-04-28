@@ -2,7 +2,7 @@
 first_name: Susan
 last_name: Sisgundo
 description: 
-portrait: 
+portrait: susan-sisgundo.jpg
 occupation: Registered Nurse, Neonatal ICU
 employer: Bellevue Hospital
 city: New York

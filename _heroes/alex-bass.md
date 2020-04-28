@@ -2,7 +2,7 @@
 first_name: Alex
 last_name: Bass
 description: 
-portrait: 
+portrait: alex-bass.jpg
 occupation: Physician Assistant
 employer: Coney Island Hospital
 city: Brooklyn

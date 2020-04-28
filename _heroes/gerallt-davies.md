@@ -2,7 +2,7 @@
 first_name: Gerallt
 last_name: Davies
 description: 
-portrait: 
+portrait: gerallt-davies.jpg
 occupation: National Operations Officer
 employer: St John's Ambulance
 city: 

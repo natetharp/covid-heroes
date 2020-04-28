@@ -2,7 +2,7 @@
 first_name: Chloe
 last_name: Middleton
 description: 
-portrait: 
+portrait: chloe-middleton.jpg
 occupation: Home Care Worker
 employer: 
 city: 

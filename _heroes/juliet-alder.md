@@ -2,7 +2,7 @@
 first_name: Juliet
 last_name: Alder
 description: 
-portrait: 
+portrait: juliet-alder.jpg
 occupation: Healthcare Assistant
 employer: Mental Health Ward in Hammersmith & Fulham
 city: London

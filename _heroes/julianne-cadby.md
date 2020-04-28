@@ -2,7 +2,7 @@
 first_name: Julianne
 last_name: Cadby
 description: 
-portrait: 
+portrait: julianne-cadby.jpg
 occupation: Business Manager
 employer: Cardiff and Vale University Health Board
 city: 

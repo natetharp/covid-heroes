@@ -2,7 +2,7 @@
 first_name: Ricky
 last_name: Perico
 description: 
-portrait: 
+portrait: ricky-perico.jpg
 occupation: Theatre Nurse
 employer: 
 city: London

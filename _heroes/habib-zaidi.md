@@ -1,9 +1,8 @@
 ---
-title: Habib Zaidi
 first_name: Habib
 last_name: Zaidi
 description: 
-portrait: 
+portrait: habib-zaidi.jpg
 occupation: General Practitioner
 employer: Eastwood Group Practice
 city: Leigh-on-Sea

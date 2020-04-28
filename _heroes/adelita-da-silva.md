@@ -2,7 +2,7 @@
 first_name: Adelita Ribeiro
 last_name: da Silva
 description: 
-portrait: 
+portrait: adelita-da-silva.jpg
 occupation: Lab Technician
 employer: 
 city: Goiânia

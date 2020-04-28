@@ -2,7 +2,7 @@
 first_name: Ate
 last_name: Wilma
 description: 
-portrait: 
+portrait: ate-wilma.jpg
 occupation: Nurse
 employer: Croxley Ward at Watford General Hospital
 city: 

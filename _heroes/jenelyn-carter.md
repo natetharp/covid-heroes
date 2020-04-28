@@ -2,7 +2,7 @@
 first_name: Jenelyn
 last_name: Carter
 description: 
-portrait: 
+portrait: jenelyn-carter.jpg
 occupation: Admissions Ward Healthcare Assistant
 employer: Morriston Hospital
 city: 

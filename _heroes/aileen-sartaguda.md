@@ -2,7 +2,7 @@
 first_name: Aileen
 last_name: Sartaguda
 description: 
-portrait: 
+portrait: aileen-sartaguda.jpg
 occupation: Dental Surgeon
 employer: Toothill
 city: Swindon

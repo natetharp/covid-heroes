@@ -2,7 +2,7 @@
 first_name: Amanda
 last_name: Scott
 description: 
-portrait: 
+portrait: amanda-scott.jpg
 occupation: 
 employer: 
 city: Birmingham

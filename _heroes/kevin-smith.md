@@ -1,9 +1,8 @@
 ---
-title: Kevin Smith
 first_name: Kevin
 last_name: Smith
 description: 
-portrait: 
+portrait: kevin-smith.jpg
 occupation: Plaster Technician
 employer: Doncaster Royal Infirmary
 city: Doncaster

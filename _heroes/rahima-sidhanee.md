@@ -1,9 +1,8 @@
 ---
-title: Rahima Bibi Sidhanee
 first_name: Rahima Bibi
 last_name: Sidhanee
 description: 
-portrait: 
+portrait: rahima-sidhanee.jpg
 occupation: Nurse
 employer: Grennell Lodge Nursing Care Home
 city: Sutton

@@ -2,7 +2,7 @@
 first_name: Mary Agyeiwaa 
 last_name: Agyapong
 description: 
-portrait: 
+portrait: mary-agyapong.jpg
 occupation: Nurse
 employer: Luton and Dunstable University Hospital
 city: 

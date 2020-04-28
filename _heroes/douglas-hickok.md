@@ -1,9 +1,8 @@
 ---
-title: Douglas Linn Hickok
 first_name: Douglas Linn
 last_name: Hickok
 description: 
-portrait: 
+portrait: douglas-hickok.jpg
 occupation: Physician Assistant
 employer: 
 city: East Stroudsburg

@@ -2,7 +2,7 @@
 first_name: Syed Zeeshan
 last_name: Haider
 description: 
-portrait: 
+portrait: syed-haider.jpg
 occupation: General Practitioner
 employer: Dagenham's Valence Medical Centre
 city: 

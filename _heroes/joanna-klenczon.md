@@ -2,7 +2,7 @@
 first_name: Joanna
 last_name: Klenczon
 description: 
-portrait: 
+portrait: joanna-klenczon.jpg
 occupation: Cleaning Team Manager
 employer: Northampton General Hospital
 city: Northampton

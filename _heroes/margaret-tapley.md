@@ -2,7 +2,7 @@
 first_name: Margaret
 last_name: Tapley
 description: 
-portrait: 
+portrait: margaret-tapley.jpg
 occupation: Auxiliary Nurse
 employer: Witney Community Hospital
 city: 

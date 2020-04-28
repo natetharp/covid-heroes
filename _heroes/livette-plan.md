@@ -2,7 +2,7 @@
 first_name: Livette
 last_name: Plan
 description: 
-portrait: 
+portrait: livette-plan.jpg
 occupation: Registered Nurse
 employer: 
 city: New York

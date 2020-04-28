@@ -2,7 +2,7 @@
 first_name: Miguel
 last_name: Ángel Martínez
 description: 
-portrait: 
+portrait: miguel-martinez.jpg
 occupation: Nurse
 employer: ISSSTE Regional Hospital
 city: Mexico City

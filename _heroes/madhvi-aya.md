@@ -2,7 +2,7 @@
 first_name: Madhvi
 last_name: Aya
 description: 
-portrait: 
+portrait: madhvi-aya.jpg
 occupation: Physician Assistant, Emergency Medicine
 employer: Woodhull Medical Center
 city: Brooklyn

@@ -2,7 +2,7 @@
 first_name: Hossein Ahmad
 last_name: Miri
 description: 
-portrait: 
+portrait: hossein-miri.jpg
 occupation: General Practitioner
 employer: 
 city: Kashan

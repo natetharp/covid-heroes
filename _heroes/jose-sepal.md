@@ -2,7 +2,7 @@
 first_name: Jose Islani Allapitan
 last_name: Sepal Jr.
 description: 
-portrait: 
+portrait: jose-sepal.jpg
 occupation: Supervisor
 employer: Sterile Processing Department
 city: Livingston

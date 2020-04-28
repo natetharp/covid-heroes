@@ -2,7 +2,7 @@
 first_name: Efrizal
 last_name: Syamsuddin
 description: 
-portrait: 
+portrait: efrizal-syamsuddin.jpg
 occupation: Medical Doctor, Director
 employer: RSUD Prabumulih
 city: Prabumulih

@@ -2,7 +2,7 @@
 first_name: Kenneth James
 last_name: Bradshaw
 description: 
-portrait: 
+portrait: kenneth-bradshaw.jpg
 occupation: Director of Facilities (Retired)
 employer: University of Tennessee Health Science Center
 city: Memphis

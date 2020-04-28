@@ -2,7 +2,7 @@
 first_name: Bruce Edward
 last_name: Davis
 description: 
-portrait: 
+portrait: bruce-davis.jpg
 occupation: Shift Leader
 employer: Central State Hospital Forensics
 city: Milledgeville

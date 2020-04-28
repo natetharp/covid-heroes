@@ -2,7 +2,7 @@
 first_name: Grace
 last_name: Kungwengwe
 description: 
-portrait: 
+portrait: grace-kungwengwe.jpg
 occupation: Healthcare Assistant
 employer: Lewisham Hospital
 city: 

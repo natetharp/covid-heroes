@@ -2,7 +2,7 @@
 first_name: Simon
 last_name: Guest
 description: 
-portrait: 
+portrait: simon-guest.jpg
 occupation: Radiographer
 employer: Furness General Hospital
 city: 

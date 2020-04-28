@@ -2,7 +2,7 @@
 first_name: Medhat
 last_name: Atalla
 description: 
-portrait: 
+portrait: medhat-atalla.jpg
 occupation: Consultant Geriatrician
 employer: Gresley Unit at the Doncaster Royal Infirmary
 city: 

@@ -1,9 +1,8 @@
 ---
-title: Carol Jamabo
 first_name: Carol
 last_name: Jamabo
 description: 
-portrait: 
+portrait: carol-jamabo.jpg
 occupation: Care Worker
 employer: Cherish Elderly Care
 city: Bury

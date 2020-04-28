@@ -2,7 +2,7 @@
 first_name: Natasha
 last_name: Ott
 description: 
-portrait: 
+portrait: natasha-ott.jpg
 occupation: Social Worker
 employer: CrescentCare
 city: New Orleans

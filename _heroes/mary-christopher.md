@@ -2,7 +2,7 @@
 first_name: Mary Virginia Howell
 last_name: Christopher
 description: 
-portrait: 
+portrait: mary-christopher.jpg
 occupation: Registered Nurse
 employer: Army Nurse during World War II
 city: New Orleans

@@ -2,7 +2,7 @@
 first_name: Gladys 
 last_name: Nyemba
 description: 
-portrait: 
+portrait: gladys-nyemba.jpg
 occupation: 
 employer: Nottinghamshire Healthcare
 city: 

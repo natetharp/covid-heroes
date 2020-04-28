@@ -2,7 +2,7 @@
 first_name: Michael
 last_name: Allieu
 description: 
-portrait: 
+portrait: michael-allieu.jpg
 occupation: Staff Nurse
 employer: Homerton Hospital
 city: London

@@ -2,7 +2,7 @@
 first_name: Jane
 last_name: Murphy
 description: 
-portrait: 
+portrait: jane-murphy.jpg
 occupation: Clinical Support Worker
 employer: Edinburgh Royal Infirmary
 city: 

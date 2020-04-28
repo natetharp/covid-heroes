@@ -2,7 +2,7 @@
 first_name: Khulisani
 last_name: Nkala
 description: 
-portrait: 
+portrait: khulisani-nkala.jpg
 occupation: Nurse
 employer: Leeds and York NHS Partnership Foundation Trust
 city: 

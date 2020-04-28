@@ -2,7 +2,7 @@
 first_name: Priya
 last_name: Khanna
 description: 
-portrait: 
+portrait: priya-khanna.jpg
 occupation: Nephrologist
 employer: Khanna Nephrology
 city: Glen Ridge

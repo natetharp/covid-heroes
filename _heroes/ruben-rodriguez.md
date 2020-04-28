@@ -2,7 +2,7 @@
 first_name: Ruben
 last_name: Rodriguez
 description: 
-portrait: 
+portrait: ruben-rodriguez.jpg
 occupation: Emergency Medical Technician
 employer: Ridgewood Volunteer Ambulance Corps
 city: Ridgewood

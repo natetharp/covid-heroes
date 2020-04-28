@@ -2,7 +2,7 @@
 first_name: Adharul
 last_name: Anam
 description: 
-portrait: 
+portrait: adharul-anam.jpg
 occupation: Nurse
 employer: 
 city: Jakarta

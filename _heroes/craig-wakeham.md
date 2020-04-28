@@ -2,7 +2,7 @@
 first_name: Craig
 last_name: Wakeham
 description: 
-portrait: 
+portrait: craig-wakeham.jpg
 occupation: General Practitioner
 employer: Cerne Abbas Surgery
 city: Dorset

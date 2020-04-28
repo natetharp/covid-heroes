@@ -2,7 +2,7 @@
 first_name: Rueven
 last_name: Morath
 description: 
-portrait: 
+portrait: rueven-morath.jpg
 occupation: Emergency Medical Technician
 employer: Hackensack Volunteer Ambulance Corps
 city: Hackensack

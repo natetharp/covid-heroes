@@ -2,7 +2,7 @@
 first_name: Krishan
 last_name: Arora
 description: 
-portrait: 
+portrait: krishan-arora.jpg
 occupation: General Practitioner
 employer: Violet Lane Medical Practice in Waddon
 city: 

@@ -2,7 +2,7 @@
 first_name: Evelyn
 last_name: Caro
 description: 
-portrait: 
+portrait: evelyn-caro.jpg
 occupation: Nurse
 employer: Holy Cross Hospital
 city: Silver Spring

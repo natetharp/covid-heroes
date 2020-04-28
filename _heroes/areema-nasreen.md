@@ -1,9 +1,8 @@
 ---
-title: Areema Nasreen
 first_name: Areema
 last_name: Nasreen
 description: 
-portrait: 
+portrait: areema-nasreen.jpg
 occupation: Nurse
 employer: Walsall Manor Hospital
 city: Walsall

@@ -2,7 +2,7 @@
 first_name: Gladys
 last_name: Mujajati 
 description: 
-portrait: 
+portrait: gladys-mujajati.jpg
 occupation: Mental Health Nurse
 employer: Derbyshire Healthcare NHS Foundation Trust
 city: 

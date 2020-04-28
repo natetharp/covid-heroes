@@ -2,7 +2,7 @@
 first_name: Blanca Elizabeth Salvatierra
 last_name: Sornoza
 description: 
-portrait: 
+portrait: blanca-sornoza.jpg
 occupation: General Practitioner
 employer: 
 city: Guayaquil

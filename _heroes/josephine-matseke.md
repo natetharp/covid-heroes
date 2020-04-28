@@ -2,7 +2,7 @@
 first_name: Josephine
 last_name: Matseke
 description: 
-portrait: 
+portrait: josephine-matseke.jpg
 occupation: Nurse
 employer: Southport and Formby District General Hospital
 city: Southport
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Josephine Peter (RN) was an agency nurse at Southport and Formby District General Hospital.
+Josephine Matseke (RN) was an agency nurse at Southport and Formby District General Hospital. A [GoFundMe](https://www.gofundme.com/f/covid19-fallen-shero-nhs-nurse) has been set up in her memory.

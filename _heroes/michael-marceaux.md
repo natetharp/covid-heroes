@@ -2,7 +2,7 @@
 first_name: Michael
 last_name: Marceaux
 description: 
-portrait: 
+portrait: michael-marceaux.jpg
 occupation: Emergency Room Nurse
 employer: Christus Highland
 city: Shreveport

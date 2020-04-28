@@ -2,7 +2,7 @@
 first_name: Idalgo
 last_name: Moura
 description: 
-portrait: 
+portrait: idalgo-moura.jpg
 occupation: Nurse
 employer: Hospital Municipal do Tatuapé
 city: São Paulo

@@ -2,7 +2,7 @@
 first_name: Steven
 last_name: Pearson
 description: 
-portrait: 
+portrait: steven-pearson.jpg
 occupation: Mental Health Nurse
 employer: Street Triage Team at Cumbria Northumberland Tyne and Wear
 city: 

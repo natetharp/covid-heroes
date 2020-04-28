@@ -2,7 +2,7 @@
 first_name: Patrick
 last_name: McManus
 description: 
-portrait: 
+portrait: patrick-mcmanus.jpg
 occupation: Nurse
 employer: North Staffordshire Royal Infirmary
 city: Stoke-on-Trent

@@ -2,7 +2,7 @@
 first_name: Robert
 last_name: Lancaster
 description: 
-portrait: 
+portrait: robert-lancaster.jpg
 occupation: Psychiatrist
 employer: Retired
 city: New Orleans

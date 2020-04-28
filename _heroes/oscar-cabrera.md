@@ -2,7 +2,7 @@
 first_name: Óscar Miguel
 last_name: Cabrera
 description: 
-portrait: 
+portrait: oscar-cabrera.jpg
 occupation: Third-Year Oncology Resident
 employer: Hospital Eugenio Espejo
 city: Quito

@@ -2,7 +2,7 @@
 first_name: Amadeo Gualberto Andriuoli
 last_name: Jaramillo
 description: 
-portrait: 
+portrait: amadeo-jaramillo.jpg
 occupation: General Practitioner
 employer: Clínica Andriuoli
 city: Babahoyo

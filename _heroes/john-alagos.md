@@ -1,9 +1,8 @@
 ---
-title: John Alagos
 first_name: John
 last_name: Alagos
 description: 
-portrait: 
+portrait: john-alagos.jpg
 occupation: Nurse
 employer: Watford General Hospital
 city: Hertfordshire

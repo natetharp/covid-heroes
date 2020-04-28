@@ -2,7 +2,7 @@
 first_name: İsmail
 last_name: Durmuş
 description: 
-portrait: 
+portrait: ismail-durmus.jpg
 occupation: Pharmacist
 employer: 
 city: Istanbul

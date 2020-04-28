@@ -1,9 +1,8 @@
 ---
-title: Pooja Sharma
 first_name: Pooja
 last_name: Sharma
 description: 
-portrait: 
+portrait: pooja-sharma.jpg
 occupation: Pharmacist
 employer: Eastbourne District General Hospital
 city: Eastbourne

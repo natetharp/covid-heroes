@@ -2,7 +2,7 @@
 first_name: Lori Lee
 last_name: Alioa
 description: 
-portrait: 
+portrait: lori-alioa.jpg
 occupation: Healthcare Social Worker
 employer: VA Hospital
 city: Canton

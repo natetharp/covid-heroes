@@ -2,7 +2,7 @@
 first_name: Linnette
 last_name: Cruz
 description: 
-portrait: 
+portrait: linette-cruz.jpg
 occupation: Nurse
 employer: 
 city: Swansea

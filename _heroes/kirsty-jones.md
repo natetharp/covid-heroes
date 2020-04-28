@@ -2,7 +2,7 @@
 first_name: Kirsty
 last_name: Jones
 description: 
-portrait: 
+portrait: kirsty-jones.jpg
 occupation: Healthcare Support Worker
 employer: Airdrie Health Centre
 city: Airdrie

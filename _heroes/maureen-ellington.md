@@ -2,7 +2,7 @@
 first_name: Maureen
 last_name: Ellington
 description: 
-portrait: 
+portrait: maureen-ellington.jpg
 occupation: Healthcare Assistant
 employer: Southmead Hospital
 city: 
