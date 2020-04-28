@@ -14,4 +14,4 @@ birth_date:
 death_date: 
 ---
 
-Capt. Douglas Linn Hickok (US Army), was 57 years old.
+Capt. Douglas Linn Hickok (US Army), was 57 years old. The Pentagon identified Hickok, an Army captain and physician assistant in the New Jersey National Guard, as the first U.S. service member to die of the novel coronavirus.

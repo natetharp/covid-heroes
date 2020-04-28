@@ -1,5 +1,4 @@
 ---
-title: Anonymous
 first_name: Anonymous
 last_name: _
 description: 
@@ -9,7 +8,7 @@ employer: Donalsonville Hospital
 city: Tallahassee
 province: Florida
 country: United States
-source: https://www.ajc.com/news/virus-claims-two-georgia-healthcare-workers/XTijtgzE6z2gcoZ7QLvPZN/, https://www.walb.com/2020/03/20/donalsonville-hospital-saddened-over-loss-healthcare-worker-covid-/
+source: https://www.ajc.com/news/virus-claims-two-georgia-healthcare-workers/XTijtgzE6z2gcoZ7QLvPZN/, https://www.walb.com/2020/03/20/donalsonville-hospital-saddened-over-loss-healthcare-worker-covid-/, https://thegrio.com/2020/03/25/georgia-health-care-workers-dead/
 birth_date: 
 death_date: 2020-03-19
 ---
