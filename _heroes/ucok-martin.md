@@ -14,3 +14,5 @@ birth_date:
 death_date: 
 ---
 
+Ucok Martin Tambunan, 49, Pulmonologist, Medan, Sumatera, Indonesia
+https://waspadaaceh.com/2020/03/22/6-dokter-dilaporkan-meninggal-diduga-korban-virus-corona/

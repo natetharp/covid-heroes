@@ -1,6 +1,6 @@
 ---
-title: Mousa Fathabadi
-first_name: Mousa
+title: Mehdi Fathabadi
+first_name: Mehdi
 last_name: Fathabadi
 description: 
 portrait: 

@@ -1,6 +1,6 @@
 ---
 first_name: Ruben Junior
-last_name: Munoz
+last_name: Muñoz
 description: 
 portrait: 
 occupation: Healthcare Assistant

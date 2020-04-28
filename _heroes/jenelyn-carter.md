@@ -8,7 +8,7 @@ employer: Morriston Hospital
 city: 
 province: 
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.mirror.co.uk/news/uk-news/least-55-nhs-staff-died-21889213
 birth_date: 
 death_date: 
 ---

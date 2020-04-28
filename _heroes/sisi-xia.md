@@ -6,8 +6,8 @@ portrait:
 occupation: Gastroenterologist
 employer: Union Jiangbei Hospital
 city: Wuhan
-province: 
-country: China
+province: Hubei
+country: People's Republic of China
 source: https://www.straitstimes.com/asia/east-asia/another-wuhan-doctor-dies-from-coronavirus
 birth_date: 
 death_date: 

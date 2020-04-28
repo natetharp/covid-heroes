@@ -7,7 +7,7 @@ occupation: Doctor
 employer: Henan's Xinwangzhuang village
 city: 
 province: 
-country: China
+country: People's Republic of China
 source: https://www.latimes.com/world-nation/story/2020-02-25/doctors-fighting-coronavirus-in-china-die-of-both-infection-and-fatigue
 birth_date: 
 death_date: 
