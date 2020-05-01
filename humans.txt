@@ -16,10 +16,28 @@ Twitter: @coffeedrn
 Location: Spartanburg, SC, USA
 
 Name: Jolene Esposito (Photo Resizing and Retouching)
-Location: Washington D.C., USA
+Location: Washington, DC, USA
 
 Name: Charles Reid (Development)
+GitHub: github.com/cwreid
 Location: Los Angeles, CA, USA
+
+Name: Chris Gray (Brand Design)
+Website: chrisgray.co
+Location: Albany, CA, USA
+
+Name: Jason Liu (Brand Design)
+Website: jasonjl.com
+Location: Los Angeles, CA, USA
+
+Name: Mati Rui (Brand Design)
+
+Name: Kaylee Liu (Translation)
+Location: Melbourne, VIC, AUS
+
+Name: Melinda Chen (Translation)
+Website:  chenmelinda.co
+Location: New York, NY, USA
 
 
 /* THANKS */
