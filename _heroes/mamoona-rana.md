@@ -2,8 +2,8 @@
 first_name: Mamoona
 last_name: Rana
 description: 
-portrait: Trainee Registrar in Psychiatry
-occupation: 
+portrait: 
+occupation: Trainee Registrar in Psychiatry
 employer: 
 city: 
 province: 
