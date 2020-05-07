@@ -2,7 +2,7 @@
 first_name: Rebecca
 last_name: Yee
 description: 
-portrait: 
+portrait: rebecca-yee.jpg
 occupation: Pediatric Nurse
 employer: Mount Sinai
 city: New York City
