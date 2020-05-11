@@ -7,7 +7,7 @@ occupation: Pediatric Surgical Specialist
 employer: Shinozada Hospital
 city: Kabul
 province: Kabul
-country: Afganistan 
+country: Afghanistan
 source: 
 birth_date: 
 death_date: 

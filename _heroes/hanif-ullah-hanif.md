@@ -7,7 +7,7 @@ occupation: Family Medicine Specialist
 employer: Amiri Medical Complex
 city: Kabul
 province: Kabul
-country: Afganistan
+country: Afghanistan
 source: 
 birth_date: 
 death_date: 
