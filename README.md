@@ -3,32 +3,24 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 
 ---
 
-### Planned Features
-- ~~Add contributing details [reference](https://github.com/COVID19Tracking/website)~~
-- ~~List of Heroes by Country~~
-- [List of Heroes Month/Day](https://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year)
-- ~~Limit sidebar on Hero page to profiles from same country~~
-- [Create a page for each country](https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins)
-- Order heroes by date on home page
-- Replace blue circle with generic profile image
-- Add search
-- ~~Fix mobile navigation~~
-- ~~Put navigation in YAML file~~
-
----
-
 ### Data Resources
 - [Covid Heroes Twitter feed](https://twitter.com/HeroesCovid)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1pFdoZqjnDRaSzJi0JJJ3f5zdb87Q5tL3zc4nGx1nejI/edit#gid=1744604459) by [C. Michael Gibson MD](https://twitter.com/CMichaelGibson)
 - [Medscape Memorial](https://www.medscape.com/viewarticle/927976)
 - [Memorial Page](https://nursingnotes.co.uk/covid-19-memorial/) from [Nursing Notes](https://twitter.com/NursingNotesUK/)
 - [List of Italain medical professional casualties](https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/)
+- [NYSNA Nurses Memorial](https://www.nysna.org/memoriam-fallen-nysna-nurses)
+- https://twitter.com/Covid19Docs
+- https://www.facebook.com/groups/317464005892297/
+
+### Alternate Data Types
+- [Transit Workers Union Memorial](http://www.twulocal100.org/memoriam)
 
 ### Former Data Resources
 - ~~[Spreadsheet](https://docs.google.com/spreadsheets/d/1jlqsf3MVYyLBFewxO3MHkgGsXZOzrteo18t9ZljUIMg/edit#gid=1746956167) by [Jacques Fortier](https://twitter.com/jacquesgt)~~
+- ~~[Spreadsheet](https://docs.google.com/spreadsheets/d/1pFdoZqjnDRaSzJi0JJJ3f5zdb87Q5tL3zc4nGx1nejI/edit#gid=1744604459) by [C. Michael Gibson MD](https://twitter.com/CMichaelGibson)~~
+- ~~[Expanded bios from Design To Combat COVID-19](https://docs.google.com/document/d/13OGjxdv1MKCvRGWg8sHRvaU0LNoMNl2RNlmC6YoXRUw/edit)~~
 
 ---
-
 
 ## Running code locally
 After cloning the repo, navigate to the correct folder and install Jekyll, and any necessary dependencies.
@@ -65,4 +57,4 @@ Jekyll is a static site generator so we need Jekyll to build the site before we 
 
 When you’re developing a site you’ll use jekyll serve as it updates with any changes you make.
 
-Run `jekyll serve` and go to [http://localhost:4000](http://localhost:4000) in your browser. You should see “Hello World!”.
+Run `jekyll serve` and go to [http://localhost:4000](http://localhost:4000) in your browser.
