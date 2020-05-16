@@ -64,6 +64,27 @@
 		.usa-media-block__img {max-width: 124px; border-radius: 1000px;}
 		blockquote {border-left: 1px solid #dfe1e2; padding-left:1.4rem;}
 		blockquote > * {opacity: 0.75;}
+		.usa-footer__logo-img {width: 80px; height: 80px;}
+		
+		.usa-logo .usa-logo__text::before {
+			height: 1.5rem;
+			width: 1.5rem;
+			content: "";
+			background-image: url('{{ "/assets/img/logo-covid-heroes.svg" | prepend: site.baseurl }}');
+			background-repeat: no-repeat;
+			background-size: 100% auto;
+			display: inline-block;
+			margin-right: 0.5rem;
+			position: relative;
+			vertical-align: middle;}
+		
+		@media (min-width: 64em) {
+			.usa-logo .usa-logo__text::before {
+				height: 3.75rem;
+				width: 3.75rem;
+				margin-right: 1.15rem;
+			}
+		}
 	</style>
 	
 </head>
