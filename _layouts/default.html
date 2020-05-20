@@ -15,7 +15,7 @@
 			<button class="usa-menu-btn">Menu</button>
 		</div>
 		<nav aria-label="Primary navigation" class="usa-nav">
-			<div class="usa-nav__inner"> <div class="usa-nav__inner"><button class="usa-nav__close"><img src="{{ "/assets/uswds/img/close.svg" | prepend: site.baseurl }}" alt="close"></button>
+			<div class="usa-nav__inner"><button class="usa-nav__close"><img src="{{ "/assets/uswds/img/close.svg" | prepend: site.baseurl }}" alt="close"></button>
 				<ul class="usa-nav__primary usa-accordion">
 					{% for item in site.data.navigation.primary %}
 					<li class="usa-nav__primary-item{% if item.url == page.url %} usa-current{% endif %}">
