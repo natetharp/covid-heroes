@@ -1,9 +1,8 @@
 ---
-title: Isabel Munoz
 first_name: Isabel
-last_name: Munoz
+last_name: Muñoz
 description: 
-portrait: 
+portrait: isabel-munoz.jpg
 occupation: General Practitioner
 employer: 
 city: Salamanca

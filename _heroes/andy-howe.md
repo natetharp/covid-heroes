@@ -3,7 +3,7 @@ title: Andy Howe
 first_name: Andy
 last_name: Howe
 description: 
-portrait: 
+portrait: andy-howe.jpg
 occupation: Driver
 employer: Nottingham University Hospitals
 city: Nottingham

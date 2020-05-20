@@ -1,9 +1,8 @@
 ---
-title: Melujean Ballesteros
 first_name: Melujean
 last_name: Ballesteros
 description: 
-portrait: 
+portrait: melujean-ballesteros.jpg
 occupation: Nurse
 employer: St Mary's Hospital
 city: London

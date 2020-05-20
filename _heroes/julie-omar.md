@@ -1,9 +1,8 @@
 ---
-title: Julie Omar
 first_name: Julie
 last_name: Omar
 description: 
-portrait: 
+portrait: julie-omar.jpg
 occupation: Nurse
 employer: Alexandra Hospital, Ward 14
 city: Redditch

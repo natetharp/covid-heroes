@@ -1,9 +1,8 @@
 ---
-title: Elsie Sazuze
 first_name: Elsie
 last_name: Sazuze
 description: 
-portrait: 
+portrait: elsie-sazuze.jpg
 occupation: Nurse
 employer: 
 city: 

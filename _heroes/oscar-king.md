@@ -2,7 +2,7 @@
 first_name: Oscar
 last_name: King
 description: 
-portrait: 
+portrait: oscar-king.jpg
 occupation: Porter
 employer: John Radcliffe Hospital
 city: Oxford

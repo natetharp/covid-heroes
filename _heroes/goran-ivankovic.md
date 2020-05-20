@@ -1,9 +1,8 @@
 ---
-title: Goran Ivankovic
 first_name: Goran
 last_name: Ivankovic
 description: 
-portrait: 
+portrait: goran-ivankovic.jpg
 occupation: Urology specialist, Head of the Urology Ward 
 employer: Cuprija Hospital
 city: Cuprija

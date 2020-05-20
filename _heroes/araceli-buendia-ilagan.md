@@ -1,9 +1,8 @@
 ---
-title: Araceli Buendia Ilagan
 first_name: Araceli Buendia
 last_name: Ilagan
 description: 
-portrait: 
+portrait: araceli-buendia-ilagan.jpg
 occupation: ICU Nurse
 employer: Jackson Memorial Hospital
 city: Miami

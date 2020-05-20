@@ -1,9 +1,8 @@
 ---
-title: Jitendra Rathod
 first_name: Jitendra
 last_name: Rathod
 description: 
-portrait: 
+portrait: jitendra-rathod.jpg
 occupation: Cardiothoracic Surgeon
 employer: University Hospital of Wales
 city: Cardiff

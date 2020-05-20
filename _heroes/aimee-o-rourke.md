@@ -1,9 +1,8 @@
 ---
-title: Aimee O’Rourke
 first_name: Aimee
 last_name: O’Rourke
 description: 
-portrait: 
+portrait: aimee-o-rourke.jpg
 occupation: Nurse
 employer: Queen Elizabeth The Queen Mother Hospital
 city: Margate

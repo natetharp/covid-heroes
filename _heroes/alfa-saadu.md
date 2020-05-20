@@ -3,7 +3,7 @@ title: Alfa Saadu
 first_name: Alfa
 last_name: Saadu
 description: 
-portrait: 
+portrait: alfa-saadu.jpg
 occupation: Physician, Former Medical Director
 employer: Queen Victoria Memorial Hospital
 city: Hertfordshire

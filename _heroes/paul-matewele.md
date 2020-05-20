@@ -1,9 +1,8 @@
 ---
-title: Paul Matewele
 first_name: Paul
 last_name: Matewele
 description: 
-portrait: 
+portrait: paul-matewele.jpg
 occupation: Microbiologist and Senior Lecturer in Microbiology Immunology
 employer: London Metropolitan University
 city: London

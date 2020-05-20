@@ -3,7 +3,7 @@ title: Amor Gatinao
 first_name: Amor
 last_name: Gatinao
 description: 
-portrait: 
+portrait: amor-gatinao.jpg
 occupation: Nurse
 employer: 
 city: 

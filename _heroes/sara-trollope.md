@@ -1,9 +1,8 @@
 ---
-title: Sara Trollope
 first_name: Sara
 last_name: Trollope
 description: 
-portrait: 
+portrait: sara-trollope.jpg
 occupation: Matron
 employer: Older Adult Mental Health Services
 city: 

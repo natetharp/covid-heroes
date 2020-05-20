@@ -1,9 +1,8 @@
 ---
-title: Elvira Bucu
 first_name: Elvira
 last_name: Bucu
 description: 
-portrait: 
+portrait: elvira-bucu.jpg
 occupation: Healthcare Assistant
 employer: 
 city: 
