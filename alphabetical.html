@@ -5,15 +5,15 @@ description:
 ---
 
 {% assign heroes = site.heroes | sort: "last_name" %}
-{% for heroes in site.heroes %}
+{% for hero in heroes %}
 	<div class="usa-media-block tablet:grid-col-6 margin-bottom-3">
 		
 		<div class="usa-media-block__body">
-			<h2 class="usa-graphic-list__heading">{{ heroes.first_name }} {{ heroes.last_name }}</h2>
-			<p class="margin-y-05 line-height-sans-3"><em><small>{{ heroes.occupation }}{% if heroes.employer %}, {{ heroes.employer }}{% endif %}</small></em></p>
-			<p class="margin-y-05"><small><a href="{{ heroes.url | prepend: site.baseurl }}">Read More</a></small></p>
+			<h2 class="usa-graphic-list__heading">{{ hero.first_name }} {{ hero.last_name }}</h2>
+			<p class="margin-y-05 line-height-sans-3"><em><small>{{ hero.occupation }}{% if hero.employer %}, {{ hero.employer }}{% endif %}</small></em></p>
+			<p class="margin-y-05"><small><a href="{{ hero.url | prepend: site.baseurl }}">Read More</a></small></p>
 			
-			<p class="post-excerpt">{{ heroes.description | truncate: 160 }}</p>
+			<p class="post-excerpt">{{ hero.description | truncate: 160 }}</p>
 		</div>
 	</div>
 {% endfor %}
