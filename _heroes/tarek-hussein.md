@@ -1,6 +1,6 @@
 ---
-first_name: Tarek Hussein
-last_name: 
+first_name: Tarek
+last_name: Hussein
 description: 
 portrait: 
 occupation: Otolaryngology, Consultant

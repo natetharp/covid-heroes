@@ -1,6 +1,6 @@
 ---
-first_name: Francisco Javier Ramos Cortes
-last_name: 
+first_name: Francisco Javier Ramos
+last_name: Cortes
 description: 
 portrait: 
 occupation: Nurse

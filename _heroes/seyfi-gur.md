@@ -1,6 +1,6 @@
 ---
-first_name: Seyfi Gur
-last_name: 
+first_name: Seyfi
+last_name: Gur
 description: 
 portrait: 
 occupation: Dentist

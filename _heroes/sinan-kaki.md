@@ -1,6 +1,6 @@
 ---
-first_name: Sinan Kaki
-last_name: 
+first_name: Sinan
+last_name: Kaki
 description: 
 portrait: 
 occupation: Radiology

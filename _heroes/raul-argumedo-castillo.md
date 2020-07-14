@@ -1,6 +1,6 @@
 ---
-first_name: Raul Argumedo-Castillo
-last_name: 
+first_name: Raul
+last_name: Argumedo-Castillo
 description: 
 portrait: 
 occupation: Psychiatry

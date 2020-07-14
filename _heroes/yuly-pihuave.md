@@ -1,6 +1,6 @@
 ---
-first_name: Yuly Lisseth Tomalá Pihuave
-last_name: 
+first_name: Yuly Lisseth Tomalá
+last_name: Pihuave
 description: 
 portrait: 
 occupation: Pharmacist

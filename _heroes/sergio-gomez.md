@@ -1,6 +1,6 @@
 ---
-first_name: Sergio Félix Gomez
-last_name: 
+first_name: Sergio Félix
+last_name: Gomez
 description: 
 portrait: 
 occupation: General Practitioner

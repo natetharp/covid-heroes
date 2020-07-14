@@ -1,6 +1,6 @@
 ---
-first_name: Solon Pereira Lopes Ferreira
-last_name: 
+first_name: Solon Pereira Lopes
+last_name: Ferreira
 description: 
 portrait: 
 occupation: Physician

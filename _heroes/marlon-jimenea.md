@@ -1,6 +1,6 @@
 ---
-first_name: Marlon Jimenea
-last_name: 
+first_name: Marlon
+last_name: Jimenea
 description: 
 portrait: 
 occupation: ICU Nurse

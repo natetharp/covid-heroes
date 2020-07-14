@@ -1,6 +1,6 @@
 ---
-first_name: Sheena Renee Comfort Miles
-last_name: 
+first_name: Sheena Renee Comfort
+last_name: Miles
 description: 
 portrait: 
 occupation: Nurse

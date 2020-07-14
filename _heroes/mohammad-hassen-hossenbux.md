@@ -1,6 +1,6 @@
 ---
-first_name: Mohammad Hassen Hossenbux
-last_name: 
+first_name: Mohammad Hassen
+last_name: Hossenbux
 description: 
 portrait: 
 occupation: Family Physician (General Practitioner)

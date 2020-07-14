@@ -1,6 +1,6 @@
 ---
-first_name: Petronella "Aunty Nellie" Benjamin
-last_name: 
+first_name: Petronella
+last_name: Benjamin
 description: 
 portrait: 
 occupation: Nurse
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-62 years old.
+Petronella "Aunty Nellie" Benjamin was 62 years old.

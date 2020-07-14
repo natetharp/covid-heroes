@@ -1,6 +1,6 @@
 ---
-first_name: Víctor Manuel N. (anonymous)
-last_name: 
+first_name: Víctor
+last_name: Manuel N. (anonymous)
 description: 
 portrait: 
 occupation: General Practitioner

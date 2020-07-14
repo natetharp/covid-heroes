@@ -1,6 +1,6 @@
 ---
-first_name: Sydney Mehl
-last_name: 
+first_name: Sydney
+last_name: Mehl
 description: 
 portrait: 
 occupation: Cardiology

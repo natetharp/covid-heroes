@@ -1,6 +1,6 @@
 ---
-first_name: Roberto Gerardo Frias
-last_name: 
+first_name: Roberto Gerardo
+last_name: Frias
 description: 
 portrait: 
 occupation: Physician

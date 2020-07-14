@@ -1,6 +1,6 @@
 ---
-first_name: Marsha Bantle
-last_name: 
+first_name: Marsha
+last_name: Bantle
 description: 
 portrait: 
 occupation: Nurse

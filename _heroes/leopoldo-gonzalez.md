@@ -1,6 +1,6 @@
 ---
-first_name: Leopoldo Pérez González
-last_name: 
+first_name: Leopoldo Pérez
+last_name: González
 description: 
 portrait: 
 occupation: Clinical Physicist, Radiation Oncology

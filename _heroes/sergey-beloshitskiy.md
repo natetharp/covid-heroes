@@ -1,6 +1,6 @@
 ---
-first_name: Sergey Beloshitskiy
-last_name: 
+first_name: Sergey
+last_name: Beloshitskiy
 description: 
 portrait: 
 occupation: ICU Physician

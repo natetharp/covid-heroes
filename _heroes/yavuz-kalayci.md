@@ -1,6 +1,6 @@
 ---
-first_name: Yavuz Kalaycı
-last_name: 
+first_name: Yavuz
+last_name: Kalaycı
 description: 
 portrait: 
 occupation: Family Physician

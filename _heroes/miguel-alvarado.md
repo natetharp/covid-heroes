@@ -3,7 +3,7 @@ first_name: Miguel Ángel Pérez
 last_name: Alvarado
 description: 
 portrait: 
-occupation:General Practitioner 
+occupation: General Practitioner 
 employer: Centro Regulador De Urgencias Medicas CDMX
 city: Mexico City
 province: Ciudad de México

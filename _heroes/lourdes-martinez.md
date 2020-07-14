@@ -1,6 +1,6 @@
 ---
-first_name: Lourdes Esther Cruz Martínez
-last_name: 
+first_name: Lourdes Esther Cruz
+last_name: Martínez
 description: 
 portrait: 
 occupation: Cardiology

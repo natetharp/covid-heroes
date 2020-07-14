@@ -1,6 +1,6 @@
 ---
-first_name: Betty Lafuente Clemente
-last_name: 
+first_name: Betty Lafuente
+last_name: Clemente
 description: 
 portrait: 
 occupation: Registered Nurse

@@ -1,6 +1,6 @@
 ---
-first_name: Stéphanie Tessier
-last_name: 
+first_name: Stéphanie
+last_name: Tessier
 description: 
 portrait: 
 occupation: Orderly

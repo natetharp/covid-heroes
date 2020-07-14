@@ -1,6 +1,6 @@
 ---
-first_name: Reinaldo Albernás
-last_name: 
+first_name: Reinaldo
+last_name: Albernás
 description: 
 portrait: 
 occupation: Ob/Gyn

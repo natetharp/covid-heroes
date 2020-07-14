@@ -1,6 +1,6 @@
 ---
-first_name: Samir Assi Mouselli
-last_name: 
+first_name: Samir Assi
+last_name: Mouselli
 description: 
 portrait: 
 occupation: Family Medicine/General Practitioner (retired)

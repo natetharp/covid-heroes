@@ -1,6 +1,6 @@
 ---
-first_name: Carlos Garay
-last_name: 
+first_name: Carlos
+last_name: Garay
 description: 
 portrait: 
 occupation: General Practitioner

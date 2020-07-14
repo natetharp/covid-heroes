@@ -1,6 +1,6 @@
 ---
-first_name: Olga Blandina Hernández Muñoz
-last_name: 
+first_name: Olga Blandina Hernández
+last_name: Muñoz
 description: 
 portrait: 
 occupation: Nurse

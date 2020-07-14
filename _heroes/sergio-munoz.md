@@ -1,6 +1,6 @@
 ---
-first_name: Sergio Olivares Muñoz
-last_name: 
+first_name: Sergio Olivares
+last_name: Muñoz
 description: 
 portrait: 
 occupation: Gastroenterology

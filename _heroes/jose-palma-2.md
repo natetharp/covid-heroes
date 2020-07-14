@@ -1,6 +1,6 @@
 ---
-first_name: José Manuel López Palma
-last_name: 
+first_name: José Manuel López
+last_name: Palma
 description: 
 portrait: 
 occupation: Family Medicine/General Practitioner

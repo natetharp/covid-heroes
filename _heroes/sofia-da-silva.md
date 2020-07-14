@@ -1,6 +1,6 @@
 ---
-first_name: Sofia Pinheiro da Silva
-last_name: 
+first_name: Sofia Pinheiro
+last_name: da Silva
 description: 
 portrait: 
 occupation: Nursing Technician

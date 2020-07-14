@@ -1,6 +1,6 @@
 ---
 first_name: Kylie
-last_name: 
+last_name: _
 description: 
 portrait: 
 occupation: Registered Nurse

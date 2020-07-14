@@ -1,6 +1,6 @@
 ---
-first_name: Steven Perez
-last_name: 
+first_name: Steven
+last_name: Perez
 description: 
 portrait: 
 occupation: Internal Medicine

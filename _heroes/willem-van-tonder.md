@@ -1,6 +1,6 @@
 ---
-first_name: Willem Martinus van Tonder
-last_name: 
+first_name: Willem Martinus
+last_name: van Tonder
 description: 
 portrait: 
 occupation: Anesthesiology (retired)

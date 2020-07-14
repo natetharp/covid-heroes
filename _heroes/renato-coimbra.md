@@ -1,6 +1,6 @@
 ---
-first_name: Renato Coimbra
-last_name: 
+first_name: Renato
+last_name: Coimbra
 description: 
 portrait: 
 occupation: Surgeon

@@ -1,6 +1,6 @@
 ---
-first_name: Washington Germán Tutasi Jaramillo
-last_name: 
+first_name: Washington Germán Tutasi
+last_name: Jaramillo
 description: 
 portrait: 
 occupation: OB-GYN

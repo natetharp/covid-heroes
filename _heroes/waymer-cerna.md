@@ -1,6 +1,6 @@
 ---
-first_name: Waymer Arnulfo Benites Cerna
-last_name: 
+first_name: Waymer Arnulfo Benites
+last_name: Cerna
 description: 
 portrait: 
 occupation: Primary Care Physician

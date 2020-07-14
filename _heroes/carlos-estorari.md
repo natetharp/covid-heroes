@@ -1,6 +1,6 @@
 ---
-first_name: Carlos Augusto Estorari
-last_name: 
+first_name: Carlos Augusto
+last_name: Estorari
 description: 
 portrait: 
 occupation: Physician

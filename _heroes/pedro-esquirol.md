@@ -1,6 +1,6 @@
 ---
-first_name: Pedro Marin Esquirol
-last_name: 
+first_name: Pedro Marin
+last_name: Esquirol
 description: 
 portrait: 
 occupation: Emergency Medicine Doctor, Neurosurgeon

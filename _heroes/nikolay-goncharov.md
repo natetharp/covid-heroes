@@ -1,6 +1,6 @@
 ---
-first_name: Nikolay Goncharov
-last_name: 
+first_name: Nikolay
+last_name: Goncharov
 description: 
 portrait: 
 occupation: Cardiologist

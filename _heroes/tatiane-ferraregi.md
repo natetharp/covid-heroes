@@ -1,6 +1,6 @@
 ---
-first_name: Tatiane "Tati" Ferraregi
-last_name: 
+first_name: Tatiane
+last_name: Ferraregi
 description: 
 portrait: 
 occupation: Nurse
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-36 years old.
+Tatiane "Tati" Ferraregi was 36 years old.

@@ -1,6 +1,6 @@
 ---
-first_name: Resy Manalo
-last_name: 
+first_name: Resy
+last_name: Manalo
 description: 
 portrait: 
 occupation: Nurse

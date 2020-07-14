@@ -1,6 +1,6 @@
 ---
-first_name: Robert Tarrant
-last_name: 
+first_name: Robert
+last_name: Tarrant
 description: 
 portrait: 
 occupation: Registered Nurse and EMS Educator

@@ -1,6 +1,6 @@
 ---
-first_name: Mohinder Singh Dhatt
-last_name: 
+first_name: Mohinder Singh
+last_name: Dhatt
 description: 
 portrait: 
 occupation: Family Medicine/General Practitioner

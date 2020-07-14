@@ -1,6 +1,6 @@
 ---
-first_name: Younes Norouzi
-last_name: 
+first_name: Younes
+last_name: Norouzi
 description: 
 portrait: 
 occupation: Physician

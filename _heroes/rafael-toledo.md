@@ -1,6 +1,6 @@
 ---
-first_name: Rafael Orozco Toledo
-last_name: 
+first_name: Rafael Orozco
+last_name: Toledo
 description: 
 portrait: 
 occupation: Pediatrics, Chief of Service

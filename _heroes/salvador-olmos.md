@@ -1,6 +1,6 @@
 ---
-first_name: Salvador Ramos Olmos
-last_name: 
+first_name: Salvador Ramos
+last_name: Olmos
 description: 
 portrait: 
 occupation: Internal Medicine

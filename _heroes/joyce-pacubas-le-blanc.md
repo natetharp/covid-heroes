@@ -1,6 +1,6 @@
 ---
-first_name: Joyce Pacubas-Le Blanc
-last_name: 
+first_name: Joyce
+last_name: Pacubas-Le Blanc
 description: 
 portrait: 
 occupation: Nurse, Neuroscience ICU

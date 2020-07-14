@@ -1,6 +1,6 @@
 ---
-first_name: Solomon Donald
-last_name: 
+first_name: Solomon
+last_name: Donald
 description: 
 portrait: 
 occupation: Emergency Medical Technician

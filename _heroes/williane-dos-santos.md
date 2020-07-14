@@ -1,6 +1,6 @@
 ---
-first_name: Williane Maily Lins dos Santos
-last_name: 
+first_name: Williane Maily Lins
+last_name: dos Santos
 description: 
 portrait: 
 occupation: Nursing Technician

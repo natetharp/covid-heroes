@@ -1,6 +1,6 @@
 ---
-first_name: Peggy Gioconda Freire Torres
-last_name: 
+first_name: Peggy Gioconda Freire
+last_name: Torres
 description: 
 portrait: 
 occupation: Cardiologist
