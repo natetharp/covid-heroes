@@ -8,10 +8,13 @@ employer: Philippine Pediatric Society
 city: Manila
 province: National Capital Region
 country: Philippines
-source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.aappublications.org/news/2020/03/27/gatchalianobit032720
+source: https://www.esquiremag.ph/author/yvette-fernandez, https://www.aappublications.org/news/2020/03/27/gatchalianobit032720, https://www.philstar.com/headlines/2020/03/26/2003559/champion-child-health-pillar-infectious-disease-medicine-philippines-dies-covid-19
 birth_date: 
 death_date: 2020-03-26
 ---
+
+Salvacion Rodriguez-Gatchalian, 67 years old, was a Pediatrician and Infectious Diseases Specialist at Research Institute for Tropical Medicine in Quezon City, Philippines
+
 
 > Dr. Salvacion "Sally" R. Gatchalian was the well-loved head of the Philippine Pediatric Society. She was also a fellow of the Pediatric Infection Disease for many years. She championed children’s health and fought infectious diseases. She also helped create the Philippines Coalition against TB.
 > 
@@ -22,14 +25,3 @@ death_date: 2020-03-26
 > "We will only remember you with happy memories, laughing and sleeping," she said, mentioning their sister bonding times and other fond memories. "I love you so much, my big sister," she said. 
 > 
 > &mdash; by [Yvette Fernandez](https://www.esquiremag.ph/author/yvette-fernandez) for [Esquire Philippines](https://www.esquiremag.ph/long-reads/doctors-lost-to-covid-19-a2325-20200329-lfrm)
-
-
-
-occupation: Physician - Pediatrician ID
-employer: Research Institute for Tropical Medicine
-city: Quezon
-country: Philippines
-
-67 years old.
-
-<a href="https://www.philstar.com/headlines/2020/03/26/2003559/champion-child-health-pillar-infectious-disease-medicine-philippines-dies-covid-19">Salvacion Rodriguez-Gatchalian</a>, 67, Pediatrician, Infectious Diseases Specialist, Manila, Philippines

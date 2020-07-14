@@ -6,13 +6,11 @@ portrait:
 occupation: Secretary of Medicine
 employer: College Albacete
 city: Albacete
-province: 
+province: Albacete
 country: Spain
-source: 
+source: https://www.lacerca.com/noticias/albacete/general-colegio-medicos-albacete-santos-julian-gonzalez-coronavirus-503373-1.html
 birth_date: 
 death_date: 
 ---
 
 64 years old.
-
-<!-- <a href="file:///Users/dyanovitz/Documents/Medscape/Style%20Guides%20and%20Other%20Stuff/Julián%20Santos-Gonzalez%20Martinez"></a> -->
