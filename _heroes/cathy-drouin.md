@@ -4,7 +4,7 @@ last_name: Drouin
 description: 
 portrait: 
 occupation: Social Worker
-employer: Palm Center
+employer: Palm Manor Nursing Home
 city: Chelmsford
 province: Massachusetts
 country: United States
