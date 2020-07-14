@@ -6,8 +6,8 @@ portrait:
 occupation: Laundry Services
 employer: Samaritas Senior Living
 city: Saginaw
-province: 
-country: Michigan
+province: Michigan
+country: United States
 source: https://www.cederbergbrietzke.com/obituary/Lydia-Lopez
 birth_date: 
 death_date: 
