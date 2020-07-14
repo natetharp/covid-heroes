@@ -1,5 +1,4 @@
 ---
-title: Benedetto Comotti
 first_name: Benedetto
 last_name: Comotti
 description: 

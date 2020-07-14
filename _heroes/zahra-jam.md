@@ -1,5 +1,4 @@
 ---
-title: Zahra Jam
 first_name: Zahra
 last_name: Jam
 description: 

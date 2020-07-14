@@ -1,5 +1,4 @@
 ---
-title: Hamidreza Davoudi
 first_name: Hamidreza
 last_name: Davoudi
 description: 

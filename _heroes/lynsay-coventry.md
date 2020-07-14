@@ -1,5 +1,4 @@
 ---
-title: Lynsay Coventry
 first_name: Lynsay
 last_name: Coventry
 description: 

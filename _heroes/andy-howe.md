@@ -1,5 +1,4 @@
 ---
-title: Andy Howe
 first_name: Andy
 last_name: Howe
 description: 

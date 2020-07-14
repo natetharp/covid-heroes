@@ -1,5 +1,4 @@
 ---
-title: Ali Mahmood Khan Shirazi
 first_name: Ali Mahmood
 last_name: Khan Shirazi
 description: 

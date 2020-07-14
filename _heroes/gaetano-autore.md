@@ -1,5 +1,4 @@
 ---
-title: Gaetano Autore
 first_name: Gaetano
 last_name: Autore
 description: 

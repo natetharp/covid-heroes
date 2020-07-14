@@ -1,5 +1,4 @@
 ---
-title: Raola Ragutam
 first_name: Raola
 last_name: Ragutam
 description: 

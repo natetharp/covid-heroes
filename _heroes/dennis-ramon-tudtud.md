@@ -1,5 +1,4 @@
 ---
-title: Dennis Ramon Tudtud
 first_name: Dennis Ramon
 last_name: Tudtud
 description: 

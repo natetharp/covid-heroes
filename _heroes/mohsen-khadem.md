@@ -1,5 +1,4 @@
 ---
-title: Mohsen Khadem
 first_name: Mohsen
 last_name: Khadem
 description: 

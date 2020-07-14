@@ -1,5 +1,4 @@
 ---
-title: Leandro Resurreccion
 first_name: Leandro
 last_name: Resurreccion
 description: 

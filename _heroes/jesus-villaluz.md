@@ -1,5 +1,4 @@
 ---
-title: Jesus Villaluz
 first_name: Jesus
 last_name: Villaluz
 description: 

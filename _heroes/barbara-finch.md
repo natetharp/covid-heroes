@@ -1,5 +1,4 @@
 ---
-title: Barbara Finch
 first_name: Barbara
 last_name: Finch
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Italo Nosari
 first_name: Italo
 last_name: Nosari
 description: 

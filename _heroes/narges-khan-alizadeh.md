@@ -1,5 +1,4 @@
 ---
-title: Narges Khanalizadeh
 first_name: Narges
 last_name: Khanalizadeh
 description: 

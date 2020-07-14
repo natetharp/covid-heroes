@@ -1,5 +1,4 @@
 ---
-title: Stephen Schwartz
 first_name: Stephen
 last_name: Schwartz
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Kylie
 first_name: Kylie
 last_name: 
 description: 

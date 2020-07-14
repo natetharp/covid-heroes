@@ -1,5 +1,4 @@
 ---
-title: Luis Felipe Bernett
 first_name: Luis Felipe
 last_name: Bernett
 description: 

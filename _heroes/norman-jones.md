@@ -1,5 +1,4 @@
 ---
-title: Norman Jones
 first_name: Norman
 last_name: Jones
 description: 

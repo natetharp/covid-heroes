@@ -1,5 +1,4 @@
 ---
-title: Salvacion Gatchalian
 first_name: Salvacion
 last_name: Gatchalian
 description: 

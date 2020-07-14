@@ -1,5 +1,4 @@
 ---
-title: Franco Galli
 first_name: Franco
 last_name: Galli
 description: 

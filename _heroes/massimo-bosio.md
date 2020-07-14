@@ -1,5 +1,4 @@
 ---
-title: Massimo Bosio
 first_name: Massimo
 last_name: Bosio
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Naser Javadi Parvaneh
 first_name: Naser Javadi
 last_name: Parvaneh
 description: 

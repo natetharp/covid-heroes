@@ -1,5 +1,4 @@
 ---
-title: Ahmed el-Lawah
 first_name: Ahmed
 last_name: el-Lawah
 description: 

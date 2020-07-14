@@ -1,5 +1,4 @@
 ---
-title: Jeffry Rader
 first_name: Jeffry
 last_name: Rader
 description: 

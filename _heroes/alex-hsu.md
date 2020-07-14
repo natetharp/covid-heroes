@@ -1,5 +1,4 @@
 ---
-title: Alex Hsu
 first_name: Alex
 last_name: Hsu
 description: 

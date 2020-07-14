@@ -1,5 +1,4 @@
 ---
-title: John Abruzzo
 first_name: John
 last_name: Abruzzo
 description: 

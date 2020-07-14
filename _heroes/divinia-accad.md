@@ -1,5 +1,4 @@
 ---
-title: Divinia Accad
 first_name: Divinia
 last_name: Accad
 description: 

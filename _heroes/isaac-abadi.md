@@ -1,5 +1,4 @@
 ---
-title: Isaac Abadi
 first_name: Isaac
 last_name: Abadi
 description: 

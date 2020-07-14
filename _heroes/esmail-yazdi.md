@@ -1,5 +1,4 @@
 ---
-title: Esmail Yazdi
 first_name: Esmail
 last_name: Yazdi
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Liu Zhiming
 first_name: Liu
 last_name: Zhiming
 description: 

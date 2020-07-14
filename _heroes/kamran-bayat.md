@@ -1,5 +1,4 @@
 ---
-title: Kamran Bayat
 first_name: Kamran
 last_name: Bayat
 description: 

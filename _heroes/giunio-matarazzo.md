@@ -1,5 +1,4 @@
 ---
-title: Giunio Matarazzo
 first_name: Giunio
 last_name: Matarazzo
 description: 

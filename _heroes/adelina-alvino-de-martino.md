@@ -1,5 +1,4 @@
 ---
-title: Adelina Alvino De Martino
 first_name: Adelina Alvino
 last_name: De Martino
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Rosario Vittorio Gentile
 first_name: Rosario Vittorio
 last_name: Gentile
 description: 

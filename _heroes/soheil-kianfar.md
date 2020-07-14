@@ -1,5 +1,4 @@
 ---
-title: Soheil Kianfar
 first_name: Soheil
 last_name: Kianfar
 description: 

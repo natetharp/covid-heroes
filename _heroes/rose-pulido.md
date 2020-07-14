@@ -1,5 +1,4 @@
 ---
-title: Rose Pulido
 first_name: Rose
 last_name: Pulido
 description: 

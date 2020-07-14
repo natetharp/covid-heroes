@@ -1,5 +1,4 @@
 ---
-title: Marino Signori
 first_name: Marino
 last_name: Signori
 description: 

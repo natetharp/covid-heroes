@@ -1,5 +1,4 @@
 ---
-title: Francesco Foltrani
 first_name: Francesco
 last_name: Foltrani
 description: 

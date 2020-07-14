@@ -1,5 +1,4 @@
 ---
-title: Massimo Borghese
 first_name: Massimo
 last_name: Borghese
 description: 

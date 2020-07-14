@@ -1,5 +1,4 @@
 ---
-title: Vahid Monsef Kasmaei
 first_name: Vahid Monsef
 last_name: Kasmaei
 description: 

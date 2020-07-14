@@ -1,5 +1,4 @@
 ---
-title: Hossein Johar
 first_name: Hossein
 last_name: Johar
 description: 

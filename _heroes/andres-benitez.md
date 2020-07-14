@@ -1,5 +1,4 @@
 ---
-title: Andres Benitez
 first_name: Andres
 last_name: Benitez
 description: 

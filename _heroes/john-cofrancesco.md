@@ -1,5 +1,4 @@
 ---
-title: John Cofrancesco
 first_name: John
 last_name: Cofrancesco
 description: 

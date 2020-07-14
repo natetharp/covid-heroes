@@ -1,5 +1,4 @@
 ---
-title: Flavio Roncoli
 first_name: Flavio
 last_name: Roncoli
 description: 

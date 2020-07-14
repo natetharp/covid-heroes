@@ -1,5 +1,4 @@
 ---
-title: Mohammad Ali Rabi'e
 first_name: Mohammad Ali
 last_name: Rabi'e
 description: 

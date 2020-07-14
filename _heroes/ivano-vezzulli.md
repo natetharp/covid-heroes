@@ -1,5 +1,4 @@
 ---
-title: Ivano Vezzulli
 first_name: Ivano
 last_name: Vezzulli
 description: 

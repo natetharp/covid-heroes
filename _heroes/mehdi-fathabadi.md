@@ -1,5 +1,4 @@
 ---
-title: Mehdi Fathabadi
 first_name: Mehdi
 last_name: Fathabadi
 description: 

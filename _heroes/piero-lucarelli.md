@@ -1,5 +1,4 @@
 ---
-title: Piero Lucarelli
 first_name: Piero
 last_name: Lucarelli
 description: 

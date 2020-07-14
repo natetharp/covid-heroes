@@ -1,5 +1,4 @@
 ---
-title: James Goodrich
 first_name: James
 last_name: Goodrich
 description: 

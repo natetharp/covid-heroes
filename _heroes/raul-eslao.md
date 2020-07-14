@@ -1,5 +1,4 @@
 ---
-title: Raul Eslao
 first_name: Raul
 last_name: Eslao
 description: 

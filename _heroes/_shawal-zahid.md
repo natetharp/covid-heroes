@@ -1,5 +1,4 @@
 ---
-title: Shawal Zahid
 first_name: Shawal
 last_name: Zahid
 description: 

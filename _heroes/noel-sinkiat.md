@@ -1,5 +1,4 @@
 ---
-title: Noel Sinkiat
 first_name: Noel
 last_name: Sinkiat
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Thomas Harvey
 first_name: Thomas
 last_name: Harvey
 description: 

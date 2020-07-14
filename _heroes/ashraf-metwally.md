@@ -1,5 +1,4 @@
 ---
-title: Ashraf Metwally
 first_name: Ashraf
 last_name: Metwally
 description: 

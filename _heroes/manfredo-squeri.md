@@ -1,5 +1,4 @@
 ---
-title: Manfredo Squeri
 first_name: Manfredo
 last_name: Squeri
 description: 

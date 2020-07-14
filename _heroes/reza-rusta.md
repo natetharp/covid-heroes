@@ -1,5 +1,4 @@
 ---
-title: Reza Rusta
 first_name: Reza
 last_name: Rusta
 description: 

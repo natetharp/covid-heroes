@@ -1,5 +1,4 @@
 ---
-title: Abdulghani Taki Makki
 first_name: Abdulghani Taki
 last_name: Makki
 description: 
