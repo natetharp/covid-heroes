@@ -11,6 +11,6 @@ country: Ecuador
 source: https://twitter.com/hipolitoec1/status/1243298398452822016
 birth_date: 
 death_date: 
---
+---
 
 Age unknown.

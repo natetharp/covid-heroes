@@ -1,5 +1,5 @@
 ---
-first_name: Maria "Cidinha" Aparecida
+first_name: Maria Aparecida
 last_name: Duarte
 description: 
 portrait: 
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-63 years old.
+Maria "Cidinha" Aparecida Duarte. 63 years old.

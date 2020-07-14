@@ -11,6 +11,6 @@ country: Serbia
 source: https://www.alo.rs/vesti/drustvo/posle-cika-laze-nislijka-snezana-veljkovic-preminula-od-covid-19/308524/vest
 birth_date: 
 death_date: 
---
+---
 
 74 years old.

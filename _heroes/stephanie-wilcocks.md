@@ -11,6 +11,6 @@ country: United Kingdom
 source: https://www.watfordobserver.co.uk/news/18414041.coronavirus-watford-general-hospital-pays-tribute-nhs-workers/
 birth_date: 
 death_date: 
---
+---
 
 Age unknown.

@@ -1,5 +1,5 @@
 ---
-first_name: Andrés "Lobo" Galván
+first_name: Andrés Galván
 last_name: Reyes
 description: 
 portrait: 
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Age unknown.
+Andrés "Lobo" Galván Reyes. Age unknown.

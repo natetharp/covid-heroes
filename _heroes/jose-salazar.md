@@ -11,6 +11,6 @@ country: Ecuador
 source: https://twitter.com/cardiologiaec/status/1247943653429051393
 birth_date: 
 death_date: 
---
+---
 
 Age unknown.

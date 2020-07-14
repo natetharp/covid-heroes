@@ -6,8 +6,8 @@ portrait:
 occupation: Técnica de Enfermagem
 employer: Hospital Marcelino Champagnat
 city: Curitiba
-province: Brazil
-country: 
+province: Paraná
+country: Brazil
 source: https://www.google.com/amp/s/paranaportal.uol.com.br/cidades/curitiba-coronavirus-morte-enfermeira-valdirene/
 birth_date: 
 death_date: 

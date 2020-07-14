@@ -11,6 +11,6 @@ country: Mexico
 source: https://m.aristeguinoticias.com/1005/mexico/enfermera-fallece-en-morelos-por-covid-19/
 birth_date: 
 death_date: 
---
+---
 
 35 years old.

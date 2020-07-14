@@ -11,6 +11,6 @@ country: Bosnia and Herzegovina
 source: https://undt.ba/en_US/in-memoriam-dr-dragan-vojvodic/15860
 birth_date: 
 death_date: 
---
+---
 
 61 years old.

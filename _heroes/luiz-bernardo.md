@@ -1,5 +1,5 @@
 ---
-first_name: Luiz "Luizão" Claudio
+first_name: Luiz Claudio
 last_name: Bernardo 
 description: 
 portrait: 
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Age unknown.
+Luiz "Luizão" Claudio Bernardo. Age unknown.
