@@ -1,5 +1,4 @@
 ---
-title: Giuseppe Finzi
 first_name: Giuseppe
 last_name: Finzi
 description: 

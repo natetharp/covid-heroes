@@ -1,5 +1,4 @@
 ---
-title: Tahsin Khrisat
 first_name: Tahsin
 last_name: Khrisat
 description: 

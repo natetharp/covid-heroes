@@ -1,5 +1,4 @@
 ---
-title: Larrice Anderson
 first_name: Larrice
 last_name: Anderson
 description: 

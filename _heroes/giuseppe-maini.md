@@ -1,5 +1,4 @@
 ---
-title: Giuseppe Maini
 first_name: Giuseppe
 last_name: Maini
 description: 

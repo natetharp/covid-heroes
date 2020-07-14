@@ -1,5 +1,4 @@
 ---
-title: Luigi Rocca
 first_name: Luigi
 last_name: Rocca
 description: 

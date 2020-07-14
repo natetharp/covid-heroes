@@ -1,10 +1,9 @@
 ---
-title: Jermain Ifill
 first_name: Jermain
 last_name: Ifill
 description: 
 portrait: 
-occupation: EMT
+occupation: Emergency Medical Technician
 employer: 
 city: 
 province: 

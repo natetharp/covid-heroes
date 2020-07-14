@@ -2,7 +2,7 @@
 first_name: Judy
 last_name: Wilson-Griffin
 description: 
-portrait: 
+portrait: judy-wilson-griffin.jpg
 occupation: Perinatal Clinical Nurse Specialist
 employer: SSM Health St. Mary's Hospital
 city: St. Louis

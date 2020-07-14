@@ -1,5 +1,4 @@
 ---
-title: Clair Marie Fuqua
 first_name: Clair Marie
 last_name: Fuqua
 description: 

@@ -1,5 +1,4 @@
 ---
-title: José Manuel Sanchez Ortega
 first_name: José Manuel Sanchez
 last_name: Ortega
 description: 

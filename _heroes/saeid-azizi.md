@@ -1,5 +1,4 @@
 ---
-title: Saeid Azizi
 first_name: Saeid
 last_name: Azizi
 description: 

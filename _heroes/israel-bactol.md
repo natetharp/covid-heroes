@@ -1,5 +1,4 @@
 ---
-title: Israel Bactol
 first_name: Israel
 last_name: Bactol
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Kim King-Smith
 first_name: Kim
 last_name: King-Smith
 description: 

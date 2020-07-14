@@ -1,5 +1,4 @@
 ---
-title: Francesco De Alberti
 first_name: Francesco
 last_name: De Alberti
 description: 

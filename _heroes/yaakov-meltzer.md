@@ -1,5 +1,4 @@
 ---
-title: Yaakov Meltzer
 first_name: Yaakov
 last_name: Meltzer
 description: 

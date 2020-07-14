@@ -1,5 +1,4 @@
 ---
-title: Tahmineh Adibi
 first_name: Tahmineh
 last_name: Adibi
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Layla Vafa
 first_name: Layla
 last_name: Vafa
 description: 

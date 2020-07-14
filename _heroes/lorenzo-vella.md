@@ -1,5 +1,4 @@
 ---
-title: Lorenzo Vella
 first_name: Lorenzo
 last_name: Vella
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Francesc Collado
 first_name: Francesc
 last_name: Collado
 description: 

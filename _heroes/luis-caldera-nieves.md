@@ -1,5 +1,4 @@
 ---
-title: Luis Caldera-Nieves
 first_name: Luis
 last_name: Caldera-Nieves
 description: 

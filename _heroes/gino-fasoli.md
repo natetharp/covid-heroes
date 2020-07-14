@@ -1,5 +1,4 @@
 ---
-title: Gino Fasoli
 first_name: Gino
 last_name: Fasoli
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Henry Fernandez
 first_name: Henry
 last_name: Fernandez
 description: 

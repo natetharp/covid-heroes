@@ -1,5 +1,4 @@
 ---
-title: Kious Kelly
 first_name: Kious
 last_name: Kelly
 description: 

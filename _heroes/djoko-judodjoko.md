@@ -1,5 +1,4 @@
 ---
-title: Djoko Judodjoko
 first_name: Djoko
 last_name: Judodjoko
 description: 

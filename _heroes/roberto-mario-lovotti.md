@@ -1,5 +1,4 @@
 ---
-title: Roberto Mario Lovotti
 first_name: Roberto Mario
 last_name: Lovotti
 description: 

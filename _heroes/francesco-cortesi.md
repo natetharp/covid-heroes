@@ -1,5 +1,4 @@
 ---
-title: Francesco Cortesi
 first_name: Francesco
 last_name: Cortesi
 description: 

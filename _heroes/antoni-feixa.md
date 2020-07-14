@@ -1,5 +1,4 @@
 ---
-title: Antoni Feixa
 first_name: Antoni
 last_name: Feixa
 description: 

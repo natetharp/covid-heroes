@@ -1,5 +1,4 @@
 ---
-title: Cemil Tascioglu
 first_name: Cemil
 last_name: Tascioglu
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Gianfranco D’Ambrosio
 first_name: Gianfranco
 last_name: D’Ambrosio
 description: 

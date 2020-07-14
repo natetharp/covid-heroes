@@ -1,5 +1,4 @@
 ---
-title: Diego Bianco
 first_name: Diego
 last_name: Bianco
 description: 

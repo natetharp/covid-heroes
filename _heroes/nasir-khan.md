@@ -8,7 +8,7 @@ employer: Dewsbury and District Hospital
 city: Dewsbury
 province: Yorkshire and the Humber
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.midyorks.nhs.uk/news/statement-re-the-death-of-dr-nasir-khan-2557
 birth_date: 
 death_date: 
 ---

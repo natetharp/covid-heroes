@@ -1,5 +1,4 @@
 ---
-title: Iman Moein Zadeh
 first_name: Iman Moein
 last_name: Zadeh
 description: 

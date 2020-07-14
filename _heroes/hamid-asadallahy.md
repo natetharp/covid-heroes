@@ -1,5 +1,4 @@
 ---
-title: Hamid Asadallahy
 first_name: Hamid
 last_name: Asadallahy
 description: 

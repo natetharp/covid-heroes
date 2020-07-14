@@ -1,5 +1,4 @@
 ---
-title: Vahid Yahyavi
 first_name: Vahid
 last_name: Yahyavi
 description: 

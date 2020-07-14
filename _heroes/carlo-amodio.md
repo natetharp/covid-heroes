@@ -1,5 +1,4 @@
 ---
-title: Carlo Amodio
 first_name: Carlo
 last_name: Amodio
 description: 

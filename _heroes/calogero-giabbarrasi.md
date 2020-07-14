@@ -1,5 +1,4 @@
 ---
-title: Calogero Giabbarrasi
 first_name: Calogero
 last_name: Giabbarrasi
 description: 

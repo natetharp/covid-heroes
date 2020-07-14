@@ -1,5 +1,4 @@
 ---
-title: Mohammad Kazem Golresan
 first_name: Mohammad Kazem
 last_name: Golresan
 description: 

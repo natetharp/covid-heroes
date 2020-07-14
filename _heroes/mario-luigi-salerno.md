@@ -1,5 +1,4 @@
 ---
-title: Mario Luigi Salerno
 first_name: Mario Luigi
 last_name: Salerno
 description: 

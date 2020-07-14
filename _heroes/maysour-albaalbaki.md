@@ -1,0 +1,3 @@
+
+
+<p><a href="http://www.tabnakhormozgan.ir/fa/news/835317/%D8%AF%DA%A9%D8%AA%D8%B1-%D9%85%DB%8C%D8%B3%D9%88%D8%B1-%D8%A8%D8%B9%D9%84%D8%A8%DA%A9%DB%8C-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A8%DB%8C%D9%87%D9%88%D8%B4%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%86%D9%86%D8%AF-%D8%B1%D9%88%D8%B2-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A8%D8%A7-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D9%88%D9%86%D8%A7-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA">Maysour Albaalbaki</a>, 74, Anesthesiology, Laleh Hospital, Tehran, Iran</p>

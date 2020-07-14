@@ -1,5 +1,4 @@
 ---
-title: John Murray
 first_name: John
 last_name: Murray
 description: 

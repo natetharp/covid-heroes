@@ -1,5 +1,4 @@
 ---
-title: Usama Riaz
 first_name: Usama
 last_name: Riaz
 description: 

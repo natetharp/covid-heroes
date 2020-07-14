@@ -1,5 +1,4 @@
 ---
-title: Santino Forzani
 first_name: Santino
 last_name: Forzani
 description: 

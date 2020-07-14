@@ -1,5 +1,4 @@
 ---
-title: Esmaeil Bakhshi Pour
 first_name: Esmaeil Bakhshi
 last_name: Pour
 description: 

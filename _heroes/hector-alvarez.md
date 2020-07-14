@@ -1,5 +1,4 @@
 ---
-title: Hector Alvarez
 first_name: Hector
 last_name: Alvarez
 description: 

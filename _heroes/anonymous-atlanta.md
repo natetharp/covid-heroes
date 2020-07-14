@@ -1,5 +1,4 @@
 ---
-title: Anonymous
 first_name: Anonymous
 last_name: _
 description: 

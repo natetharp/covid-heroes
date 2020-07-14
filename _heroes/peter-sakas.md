@@ -1,5 +1,4 @@
 ---
-title: Peter Sakas
 first_name: Peter
 last_name: Sakas
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Anna Maria Focarete
 first_name: Anna Maria
 last_name: Focarete
 description: 

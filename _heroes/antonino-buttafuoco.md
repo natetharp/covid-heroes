@@ -1,5 +1,4 @@
 ---
-title: Antonino  Buttafuoco
 first_name: Antonino 
 last_name: Buttafuoco
 description: 

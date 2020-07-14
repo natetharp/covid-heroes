@@ -1,5 +1,4 @@
 ---
-title: Nabeel Khair
 first_name: Nabeel
 last_name: Khair
 description: 

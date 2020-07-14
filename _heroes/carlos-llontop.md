@@ -6,10 +6,9 @@ portrait:
 occupation: General Practitioner
 employer: 
 city: Guayaquil
-province: 
+province: Guayas
 country: Ecuador
 source: https://www.telesurtv.net/news/ecuador-mas-medicos-fallecido-covid-guayas-20200419-0020.html
 birth_date: 
 death_date: 
 ---
-

@@ -1,5 +1,4 @@
 ---
-title: Christopher David Matus
 first_name: Christopher David
 last_name: Matus
 description: 

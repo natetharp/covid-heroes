@@ -3,7 +3,7 @@ first_name: Sebastiano
 last_name: Carbè
 description: 
 portrait: 
-occupation: 
+occupation: Physician (retired)
 employer: 
 city: 
 province: 
@@ -12,6 +12,8 @@ source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidem
 birth_date: 
 death_date: 2020-04-06
 ---
+
+Age unknown.
 
 Sebastiano Carbè † 06 04 2020
 Medico pensionato non in servizio, ex dirigente medico pronto soccorso

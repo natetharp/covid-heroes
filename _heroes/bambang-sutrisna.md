@@ -1,5 +1,4 @@
 ---
-title: Bambang Sutrisna
 first_name: Bambang
 last_name: Sutrisna
 description: 

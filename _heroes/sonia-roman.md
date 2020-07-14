@@ -1,5 +1,4 @@
 ---
-title: Sonia Román
 first_name: Sonia
 last_name: Román
 description: 

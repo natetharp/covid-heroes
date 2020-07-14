@@ -1,5 +1,4 @@
 ---
-title: Tahani Althbiti
 first_name: Tahani
 last_name: Althbiti
 description: 

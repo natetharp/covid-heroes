@@ -1,5 +1,4 @@
 ---
-title: Silvio Lussana
 first_name: Silvio
 last_name: Lussana
 description: 

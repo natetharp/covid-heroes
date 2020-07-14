@@ -1,5 +1,4 @@
 ---
-title: Xia Sisi
 first_name: Xia
 last_name: Sisi
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Nurettin Mutluergil
 first_name: Nurettin
 last_name: Mutluergil
 description: 

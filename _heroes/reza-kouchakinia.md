@@ -1,5 +1,4 @@
 ---
-title: Reza Kouchakinia
 first_name: Reza
 last_name: Kouchakinia
 description: 

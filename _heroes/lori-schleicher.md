@@ -1,5 +1,4 @@
 ---
-title: Lori Schleicher
 first_name: Lori
 last_name: Schleicher
 description: 

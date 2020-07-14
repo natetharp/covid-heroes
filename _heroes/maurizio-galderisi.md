@@ -1,5 +1,4 @@
 ---
-title: Maurizio Galderisi
 first_name: Maurizio
 last_name: Galderisi
 description: 

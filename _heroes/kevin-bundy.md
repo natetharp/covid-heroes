@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-33 years old.
+He was 33 years old.

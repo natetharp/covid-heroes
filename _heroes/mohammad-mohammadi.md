@@ -1,5 +1,4 @@
 ---
-title: Mohammad Mohammadi
 first_name: Mohammad
 last_name: Mohammadi
 description: 

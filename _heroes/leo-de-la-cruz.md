@@ -1,5 +1,4 @@
 ---
-title: Leo De la Cruz
 first_name: Leo
 last_name: De la Cruz
 description: 

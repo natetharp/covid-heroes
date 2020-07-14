@@ -1,5 +1,4 @@
 ---
-title: Valter Tarantini
 first_name: Valter
 last_name: Tarantini
 description: 

@@ -1,5 +1,4 @@
 ---
-title: Isaac Abadi
 first_name: Isaac
 last_name: Abadi
 description: 
@@ -15,3 +14,5 @@ death_date:
 ---
 
 90 years old.
+
+<!-- It's also been reported that he's 84 years old and from  Caracas, Venezuela. It's unclear which is correct. -->
