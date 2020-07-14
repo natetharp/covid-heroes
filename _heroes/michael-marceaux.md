@@ -6,8 +6,8 @@ portrait: michael-marceaux.jpg
 occupation: Emergency Room Nurse
 employer: Christus Highland
 city: Shreveport
-province: 
-country: Louisiana
+province: Louisiana
+country: United States
 source: https://www.knoe.com/content/news/KNOE-569762461.html
 birth_date: 
 death_date: 

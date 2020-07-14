@@ -7,7 +7,7 @@ occupation: Surgeon
 employer: 
 city: 
 province: 
-country: Ecaudor
+country: Ecuador
 source: https://radiolacalle.com/social/medico-del-hospital-teodoro-maldonado-carbo-fallece-en-la-lucha-contra-el-covid-19
 birth_date: 
 death_date: 

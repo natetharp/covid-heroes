@@ -6,8 +6,8 @@ portrait:
 occupation: Physician
 employer: 
 city: Shoreline
-province: 
-country: Washington
+province: Washington
+country: United States
 source: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=nola-mae-moore&amp;pid=196134357&amp;
 birth_date: 
 death_date: 
