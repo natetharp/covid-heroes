@@ -14,7 +14,7 @@ birth_date: 1930-05-08
 death_date: 2020-03-25
 ---
 
+89 years old.
+
 Flavio Roncoli 08 05 1930 † 25 03 2020
 Pensionato – Bergamo
-
-89 years old.

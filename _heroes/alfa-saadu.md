@@ -14,4 +14,4 @@ birth_date:
 death_date: 2020-03-30
 ---
 
-Dr. Alfa Saadu was treated for COVID-19 at Whittington Hospital in north London. He was 68 years old.
+Dr. Alfa Saadu was treated for COVID-19 at Whittington Hospital in north London. He was 68 years old. He was the Former Medical Director, Princess Alexandra Hospital, Essex and Ealing NHS Trust, Harlow, England as well as a former Physician, Queen Victoria Memorial Hospital, Welwyn, England.

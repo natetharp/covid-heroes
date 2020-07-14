@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-80 years old.
+80 years old. (Possibly 66, conflicting sources)

@@ -7,7 +7,7 @@ portrait:
 occupation: Nurse
 employer: Centro Medico La Raza
 city: Mexico City
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://www.expreso.com.mx/seccion/mexico/167861-fallece-por-coronavirus-enfermero-del-imss.html
 birth_date: 

@@ -1,0 +1,3 @@
+
+
+<p><a href="https://amp-redaccionmedica-com.cdn.ampproject.org/v/s/amp.redaccionmedica.com/autonomias/castilla-mancha/coronavirus-en-albacete-muere-el-secretario-general-de-colegio-de-medicos-2325?amp_js_v=a3&amp;amp_gsa=1&amp;usqp=mq331AQFKAGwASA%3D#aoh=15858437223927&amp;referrer=https%3A%2F%2Fwww.google.com&amp;amp_tf=De%20%251%24s&amp;ampshare=https%3A%2F%2Famp.redaccionmedica.com%2Fautonomias%2Fcastilla-mancha%2Fcoronavirus-en-albacete-muere-el-secretario-general-de-colegio-de-medicos-2325%23aoh%3D15858437223927%26referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DDe%2520%25251%2524s">Santos Julián Gonzalez Martinez</a>, 64, Secretary General, Governing Board of the Official College of Physicians of Albacete, Albacete, Spain</p>

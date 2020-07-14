@@ -6,9 +6,9 @@ portrait: jean-jacques-razafindranazy.jpg
 occupation: Emergency Doctor
 employer: Compiègne-Noyon Hospital
 city: Compiègne
-province: 
+province: Hauts-de-France
 country: France
-source: http://www.rfi.fr/en/france/20200323-hospital-staff-pay-homage-to-first-french-doctor-to-die-of-coronavirus, https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680, https://francais.medscape.com/voirarticle/3605782
+source: http://www.rfi.fr/en/france/20200323-hospital-staff-pay-homage-to-first-french-doctor-to-die-of-coronavirus, https://www.aa.com.tr/en/europe/france-death-toll-rises-to-860-with-5-doctors/1776680, https://francais.medscape.com/voirarticle/3605782, http://www.leparisien.fr/societe/covid-19-hommage-aux-soignants-morts-sur-le-front-de-l-epidemie-23-04-2020-8304714.php
 birth_date: 
 death_date: 2020-03-21
 ---

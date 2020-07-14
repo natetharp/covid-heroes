@@ -6,7 +6,7 @@ portrait: ricardo-zambrano.jpg
 occupation: Pediatrician and Neonatologist
 employer: 
 city: Guayaquil
-province: 
+province: Guayas
 country: Ecuador
 source: https://twitter.com/lahistoriaec/status/1242663074567458816
 birth_date: 

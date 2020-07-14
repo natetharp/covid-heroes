@@ -5,12 +5,12 @@ description:
 portrait: charlie-goodwin.jpg
 occupation: Patient Transport Driver
 employer: First 4 Care
-city: 
-province: 
+city: Mansfield
+province: East Midlands
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.bbc.com/news/uk-england-nottinghamshire-52561805
 birth_date: 
 death_date: 
 ---
 
-Charlie Goodwin was a patient transport driver working for First 4 Care.
+Charlie Goodwin was a patient transport driver working for First 4 Care. 61 years old.

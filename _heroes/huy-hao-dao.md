@@ -3,7 +3,7 @@ first_name: Huy-Hao
 last_name: Dao
 description: 
 portrait: huy-hao-dao.jpg
-occupation: Doctor
+occupation: Public Health Physician
 employer: Montérégie
 city: Longueui
 province: Québec

@@ -2,7 +2,7 @@
 first_name: Andy
 last_name: Collier
 description: 
-portrait: 
+portrait: andy-collier.jpg
 occupation: Nurse, Male Low Secure Unit
 employer: Hollins Park Hospital
 city: Warrington

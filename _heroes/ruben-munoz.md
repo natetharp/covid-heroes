@@ -4,13 +4,13 @@ last_name: Muñoz
 description: 
 portrait: ruben-munoz.jpg
 occupation: Healthcare Assistant
-employer: 
-city: 
-province: 
+employer: Surrey and Sussex NHS Trust (SASH)
+city: London
+province: London
 country: United Kingdom
-source: https://nursingnotes.co.uk/covid-19-memorial/
+source: https://nursingnotes.co.uk/covid-19-memorial/, https://www.bbc.com/news/uk-england-surrey-52351183
 birth_date: 
 death_date: 
 ---
 
-Ruben Junior Munoz was a Healthcare Assistant was was described as "extraordinary".
+Ruben Munoz Jr. was a Healthcare Assistant was was described as "extraordinary". He was 49 years old.

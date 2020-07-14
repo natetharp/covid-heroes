@@ -3,7 +3,7 @@ first_name: Domenico
 last_name: Fatica
 description: 
 portrait: 
-occupation: 
+occupation: Dentist
 employer: 
 city: 
 province: 
@@ -12,6 +12,8 @@ source: https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidem
 birth_date: 
 death_date: 2020-04-13
 ---
+
+Age unknown.
 
 Domenico Fatica † 13 04 2020
 Odontoiatria

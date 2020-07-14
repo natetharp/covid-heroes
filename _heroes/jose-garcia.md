@@ -6,7 +6,7 @@ portrait:
 occupation: Surgeon
 employer: 
 city: Mexico City
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://forums.collectors.com/discussion/1035943/rip-jay-m-galst-m-d
 birth_date: 

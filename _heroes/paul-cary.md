@@ -8,7 +8,7 @@ employer: Ambulnz — FEMA COVID Response Team
 city: Aurora
 province: Colorado
 country: United States
-source: https://www.nydailynews.com/coronavirus/ny-coronavirus-colorado-paramedic-came-to-nyc-dies-virus-20200501-mdps2ueb7vaejcpfk6726ajmhe-story.html, https://nypost.com/2020/05/01/66-year-old-paramedic-who-volunteered-in-nyc-dies-of-coronavirus/
+source: https://www.nydailynews.com/coronavirus/ny-coronavirus-colorado-paramedic-came-to-nyc-dies-virus-20200501-mdps2ueb7vaejcpfk6726ajmhe-story.html, https://nypost.com/2020/05/01/66-year-old-paramedic-who-volunteered-in-nyc-dies-of-coronavirus/, https://www.9news.com/mobile/article/news/health/coronavirus/colorado-paramedic-dies-covid-19/73-09c5c9d0-0d57-482c-a03d-ae3ba7549b9d
 birth_date: 
 death_date: 2020-04-29
 ---

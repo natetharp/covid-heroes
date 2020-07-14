@@ -4,7 +4,7 @@ last_name: Cabillon
 description: 
 portrait: maria-cabillon.jpg
 occupation: Head Nurse
-employer: Kings County Hospital Center’s Emergency Department
+employer: Emergency Department, Kings County Hospital Center
 city: Brooklyn
 province: New York
 country: United States

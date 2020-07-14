@@ -1,5 +1,4 @@
 ---
-title: Francesco Counselor
 first_name: Francesco
 last_name: Counselor
 description: 
