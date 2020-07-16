@@ -7,7 +7,7 @@ occupation: Ophthalmologist
 employer: The Central Hospital of Wuhan
 city: Wuhan
 province: Hubei
-country: People's Republic of China
+country: China
 source: https://www.bbc.com/news/world-asia-china-51403795, https://www.latimes.com/world-nation/story/2020-02-06/coronavirus-china-xi-li-wenliang, https://www.latimes.com/world-nation/story/2020-04-03/coronavirus-china-doctor-tomb-sweeping, https://twitter.com/qingwang1989/status/1246126857927503872
 birth_date: 
 death_date: 2020-02-07

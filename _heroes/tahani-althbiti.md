@@ -7,7 +7,7 @@ occupation: Nurse
 employer: KFAFH
 city: Jeddah 	
 province: 
-country: Kingdom of Saudi Arabia
+country: Saudi Arabia
 source: 
 birth_date: 
 death_date: 
