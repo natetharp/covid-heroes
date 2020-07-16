@@ -7,7 +7,7 @@ occupation: Respiratory Doctor
 employer: First People's Hospital of Jiangxia District
 city: Wuhan
 province: Hubei
-country: People's Republic of China
+country: China
 source: http://www.china.org.cn/china/2020-02/22/content_75733533.htm
 birth_date: 
 death_date: 

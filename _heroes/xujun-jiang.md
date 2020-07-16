@@ -7,7 +7,7 @@ occupation: Deputy Chief Doctor, Infectious Diseases
 employer: Taizhou City People's Hospital
 city: Taizhou
 province: Jiangsu
-country: People's Republic of China
+country: China
 source: https://twitter.com/qingwang1989/status/1246126857927503872
 birth_date: 
 death_date: 2020-01-23
