@@ -6,7 +6,7 @@ portrait:
 occupation: Family Medicine/General Practitioner
 employer: IMSS Unidad de Medicina Familiar No. 33
 city: Chihuahua
-province: 
+province: Chihuahua
 country: Mexico
 source: https://www.elheraldodechihuahua.com.mx/local/fallece-medico-chihuahuense-por-covid-19-noticias-de-chihuahua-5179365.html
 birth_date: 

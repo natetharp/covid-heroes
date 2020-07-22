@@ -6,7 +6,7 @@ portrait:
 occupation: Porter/Transporter
 employer: IMSS Hospital de Traumatología y Ortopedia
 city: Puebla
-province: 
+province: Puebla
 country: Mexico
 source: https://www.lajornadadeoriente.com.mx/puebla/muere-camillero-covi-19/
 birth_date: 

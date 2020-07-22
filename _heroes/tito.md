@@ -6,7 +6,7 @@ portrait:
 occupation: Nurse
 employer: IMSS Hospital General de Zona No. 2
 city: Aguascalientes
-province: 
+province: Aguascalientes
 country: Mexico
 source: http://www.hidrocalidodigital.com/local/articulo.php?idnota=172210
 birth_date: 

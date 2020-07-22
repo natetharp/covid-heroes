@@ -6,7 +6,7 @@ portrait:
 occupation: Orderly
 employer: CHSLD Cartierville
 city: Montreal
-province: 
+province: Québec
 country: Canada
 source: https://www.journaldemontreal.com/2020/05/05/diagnostic-positif-a-la-covid-une-travailleuse-sociale-de-33-ans-decede-1
 birth_date: 

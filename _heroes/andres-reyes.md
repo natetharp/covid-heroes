@@ -6,7 +6,7 @@ portrait:
 occupation: Family Medicine/General Practitioner
 employer: Hospital de las Américas
 city: Ecatepec
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://www.facebook.com/luistapia.medico/posts/4020196574687199
 birth_date: 

@@ -3,7 +3,7 @@ first_name: Ricardo
 last_name: Piacenso
 description: 
 portrait: 
-occupation: Internal Medicine
+occupation: Internal Medicine, Cardiology
 employer: 
 city: Rio de Janeiro
 province: 
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Age unknown.
+62 years old.

@@ -6,7 +6,7 @@ portrait:
 occupation: OB-GYN
 employer: IMSS Hospital Vicente Guerrero
 city: Acapulco
-province: 
+province: Guerrero
 country: Mexico
 source: https://novedadesaca.mx/confirman-muerte-del-doctor-tomas-hernandez-quijano-por-covid-19/
 birth_date: 

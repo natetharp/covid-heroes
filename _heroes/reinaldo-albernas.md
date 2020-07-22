@@ -3,7 +3,7 @@ first_name: Reinaldo
 last_name: Albernás
 description: 
 portrait: 
-occupation: Ob/Gyn
+occupation: OB-GYN
 employer: Hospital San Rafael de Alajuela
 city: Alajuela
 province: 

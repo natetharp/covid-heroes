@@ -3,7 +3,7 @@ first_name: Walid Yahya
 last_name: Abdelhaleem
 description: 
 portrait: 
-occupation: Ob/Gyn
+occupation: OB-GYN
 employer: Almuneerah General Hospital
 city: Cairo
 province: 

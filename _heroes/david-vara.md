@@ -6,7 +6,7 @@ portrait:
 occupation: Surgeon
 employer: IMSS Hospital General de Zona No. 1 "La Loma"
 city: Tlaxcala de Xicohténcatl
-province: 
+province: Tlaxcala
 country: Mexico
 source: https://www.elsoldetlaxcala.com.mx/local/en-tezoquipan-dan-emotivo-adios-a-medico-especialista-hermano-de-alcalde-de-nopalucan-5192505.html
 birth_date: 

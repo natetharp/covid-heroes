@@ -6,7 +6,7 @@ portrait:
 occupation: Physician
 employer: 
 city: Tlatelolco
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://www.infobae.com/america/mexico/2020/04/12/murio-de-coronavirus-un-medico-del-hospital-del-imss-en-tlatelolco/
 birth_date: 

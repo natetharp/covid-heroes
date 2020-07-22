@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Age unknown.
+Anthony Thomas, age unknown, was a paramedic for New York City EMS in Brooklyn and also worked at the NYU Langone Hospital.

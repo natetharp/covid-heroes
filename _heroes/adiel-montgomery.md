@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-39 years old.
+(presumed) Adiel Montgomery was 37 years old. It's also been reported that he was 39 years old and an ER Security Guard.

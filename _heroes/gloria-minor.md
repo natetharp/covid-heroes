@@ -13,4 +13,4 @@ birth_date:
 death_date: 2020-04-07
 ---
 
-Gloria Minor was a nurse at Metropolitan Hospital. She passed away from COVID-19 on April 7, 2020 and is survived by her three brothers.
+Gloria Minor, age unknown, was a nurse at Metropolitan Hospital. She passed away from COVID-19 on April 7, 2020 and is survived by her three brothers.

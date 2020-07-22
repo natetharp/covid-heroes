@@ -3,7 +3,7 @@ first_name: Ahmed
 last_name: Al-Annie
 description: 
 portrait: 
-occupation: Obstetrics & Gynecology
+occupation: OB-GYN
 employer: Banha Insurance Hospital
 city: Banha
 province: 

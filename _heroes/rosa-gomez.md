@@ -6,7 +6,7 @@ portrait:
 occupation: Security Guard, Physician
 employer: IMSS Hospital General No. 71
 city: Veracruz
-province: 
+province: Veracruz
 country: Mexico
 source: https://eldemocrata.com/mueren-doctora-y-policia-en-hospitales-de-veracruz-por-covid-19/
 birth_date: 

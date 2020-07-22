@@ -3,7 +3,7 @@ first_name: Maureen
 last_name: Lunney
 description: 
 portrait: maureen-lunney.jpg
-occupation: Nurse
+occupation: Nurse, Night-Shift
 employer: Richmond University Medical Center
 city: Staten Island
 province: New York

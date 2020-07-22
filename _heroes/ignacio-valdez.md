@@ -6,7 +6,7 @@ portrait:
 occupation: Orthopedics
 employer: IMSS
 city: Puebla
-province: 
+province: Puebla
 country: Mexico
 source: https://www.facebook.com/groups/579989892869779/permalink/599466394255462/
 birth_date: 

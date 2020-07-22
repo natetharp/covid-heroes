@@ -5,8 +5,8 @@ description:
 portrait: 
 occupation: Nurse
 employer: 
-city: Atizapan
-province: 
+city: Atizapán
+province: Ciudad de México
 country: Mexico
 source: https://www.eluniversal.com.mx/metropoli/coronavirus-con-porras-y-aplausos-enfermeros-despiden-companero-muerto-por-posible-covid
 birth_date: 

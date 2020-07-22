@@ -6,7 +6,7 @@ portrait:
 occupation: Nurse
 employer: Hospital General de San Luis Río Colorado
 city: San Luis Río Colorado
-province: 
+province: Sonora
 country: Mexico
 source: hhttps://www.uniradionoticias.com/noticias/Coronavirus/597740/muere-enfermero-de-san-luis-rio-colorado-por-covid-19.html
 birth_date: 

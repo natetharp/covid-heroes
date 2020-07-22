@@ -1,6 +1,6 @@
 ---
-first_name: Miguel
-last_name: Ángel Martínez
+first_name: Miguel Ángel
+last_name: Martínez
 description: 
 portrait: miguel-martinez.jpg
 occupation: Nurse

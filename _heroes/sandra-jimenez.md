@@ -6,7 +6,7 @@ portrait:
 occupation: Hospital Laundry Service
 employer: IMSS Hospital General Zona 20 de La Margarita
 city: Puebla
-province: 
+province: Puebla
 country: Mexico
 source: https://www.elsoldepuebla.com.mx/local/muere-trabajadora-de-lavado-del-imss-por-coronavirus-companeros-temen-contagio-puebla-tlaxcala-covid-19-5090807.html
 birth_date: 

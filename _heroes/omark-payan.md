@@ -6,7 +6,7 @@ portrait:
 occupation: Anestheiologist
 employer: 
 city: La Paz
-province: 
+province: Baja California Sur
 country: Mexico
 source: https://www.diarioelindependiente.mx/2020/04/historia-muerte-de-medico-deja-dolor-indignacion-y-miedo
 birth_date: 
