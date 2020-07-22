@@ -6,7 +6,7 @@ portrait:
 occupation: Healthcare Worker
 employer: Bahcelievler Government Hospital
 city: Istanbul
-province: 
+province: Istanbul
 country: Turkey
 source: https://www.umke.org/saglik-personeli/saglik-personeli-korona-virusunden-hayatini-kaybetti-h14011.html
 birth_date: 

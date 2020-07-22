@@ -6,7 +6,7 @@ portrait:
 occupation: Orderly
 employer: Centre de Soins Prolongés Grace Dart
 city: Montreal
-province: 
+province: Québec
 country: Canada
 source: https://www.cbc.ca/news/canada/montreal/victoria-salvan-patient-attendant-ordelies-quebec-covid-19-1.5537724
 birth_date: 

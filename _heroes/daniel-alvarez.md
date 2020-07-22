@@ -6,7 +6,7 @@ portrait:
 occupation: Nurse
 employer: IMSS Hospital General No. 36
 city: Coatzacoalcos
-province: 
+province: Veracruz
 country: Mexico
 source: https://www.diariodemexico.com/fallece-por-covid-19-joven-enfermero-en-imss-de-coatzacoalcos
 birth_date: 

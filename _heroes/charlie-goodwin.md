@@ -3,7 +3,7 @@ first_name: Charlie
 last_name: Goodwin
 description: 
 portrait: charlie-goodwin.jpg
-occupation: Patient Transport Driver
+occupation: Patient Transport Driver, Paramedic
 employer: First 4 Care
 city: Mansfield
 province: East Midlands
@@ -13,4 +13,4 @@ birth_date:
 death_date: 
 ---
 
-Charlie Goodwin was a patient transport driver working for First 4 Care. 61 years old.
+Charlie Goodwin, 61 years old, was a patient transport driver working for First 4 Care. 61 years old.

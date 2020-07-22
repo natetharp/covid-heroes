@@ -6,7 +6,7 @@ portrait:
 occupation: Internal Medicine
 employer: Hospital de especialidades ISSEMYM Ecatepec
 city: Ecatepec
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://twitter.com/DrMendozaManuel/status/125339284768598
 birth_date: 

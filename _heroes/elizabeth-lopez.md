@@ -5,8 +5,8 @@ description:
 portrait: 
 occupation: Epidemiology, Ambulatory Medicine Subdirector
 employer: State Health Service
-city: Baja California Sur
-province: 
+city: 
+province: Baja California Sur
 country: Mexico
 source: https://www.milenio.com/estados/coronavirus-muere-funcionaria-secretaria-salud-bcs
 birth_date: 

@@ -5,8 +5,8 @@ description:
 portrait: 
 occupation: Otolaryngology
 employer: IMSS Hospital General de Zona No. 3
-city: Aguascalientes
-province: 
+city: Jesús María
+province: Aguascalientes
 country: Mexico
 source: https://www.elclarinete.com.mx/fallece-medico-de-la-clinica-2-del-imss-en-aguascalientes-por-coronavirus/
 birth_date: 

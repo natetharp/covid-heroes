@@ -4,8 +4,8 @@ last_name: Nankieshore
 description: 
 portrait: 
 occupation: Emergency Room Unit Clerk
-employer: 
-city: LIJ Forest Hills
+employer: LIJ Forest Hills
+city: New York
 province: New York
 country: United States
 source: 

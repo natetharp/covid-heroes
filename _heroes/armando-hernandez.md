@@ -6,7 +6,7 @@ portrait:
 occupation: Emergency Medicine
 employer: Hospital General de Ecatepec Las Américas
 city: Ecatepec
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://heraldodemexico.com.mx/estados/hospital-las-americas-ecatepec-muerte-medico-covid19-doctor-armando-ramirez/
 birth_date: 

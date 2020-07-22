@@ -1,5 +1,5 @@
 ---
-first_name: Elizabeth B.
+first_name: Elizabeth
 last_name: DelMundo
 description: 
 portrait: 

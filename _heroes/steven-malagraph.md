@@ -3,8 +3,8 @@ first_name: Steven
 last_name: Malagraph
 description: 
 portrait: steven-malagraph.jpg
-occupation: Nurse
-employer: Emergency Department at Nyack Hospital
+occupation: Nurse, Emergency Department 
+employer: Montefiore Nyack Hospital
 city: Nyack
 province: New York
 country: United States

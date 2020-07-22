@@ -6,7 +6,7 @@ portrait:
 occupation: Gastroenterology
 employer: ISSSTE Hospital de Alta Especialidad
 city: Veracruz
-province: 
+province: Veracruz
 country: Mexico
 source: https://cambiodigital.com.mx/mosno.php?nota=440609
 birth_date: 

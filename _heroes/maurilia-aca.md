@@ -6,7 +6,7 @@ portrait:
 occupation: Social Worker
 employer: ISSSTE Hospital de Alta Especialidad
 city: Veracruz
-province: 
+province: Veracruz
 country: Mexico
 source: https://www.facebook.com/atses2018sv/posts/2645796415679774
 birth_date: 

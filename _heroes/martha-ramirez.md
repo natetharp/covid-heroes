@@ -6,7 +6,7 @@ portrait:
 occupation: Nurse
 employer: ISSSTE Hospital Regional General Ignacio Zaragoza
 city: Iztapalapa
-province: Mexico City
+province: Ciudad de México
 country: Mexico
 source: https://www.facebook.com/yosoy17internacional/posts/1598759246940904
 birth_date: 

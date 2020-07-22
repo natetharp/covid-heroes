@@ -6,7 +6,7 @@ portrait:
 occupation: Emergency Room Director
 employer: La Perla General Hospital
 city: Nezahualcoyotl
-province: 
+province: Ciudad de México
 country: Mexico
 source: https://abc14news.com/2020/04/11/mexican-hospital-er-director-dies-from-coronavirus/
 birth_date: 

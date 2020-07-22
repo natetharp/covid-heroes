@@ -6,7 +6,7 @@ portrait:
 occupation: Orderly
 employer: CHSLD Lucien-G. Rolland
 city: Saint-Jérôme
-province: 
+province: Québec
 country: Canada
 source: https://www.cbc.ca/news/canada/montreal/saint-jerome-pab-dies-covid-19-1.5547605
 birth_date: 

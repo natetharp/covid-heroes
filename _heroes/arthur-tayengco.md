@@ -3,7 +3,7 @@ first_name: Arthur Sydeco
 last_name: Tayengco
 description: 
 portrait: 
-occupation: Ob/Gyn
+occupation: OB-GYN
 employer: University Medical Center of Southern Nevada
 city: Las Vegas
 province: Nevada
