@@ -1,0 +1,24 @@
+[{% assign heroes = site.heroes | sort: "last_name" %}{% for hero in heroes %}
+  {
+	"fields": {
+	  "first_name": "{{ hero.first_name }}",
+	  "last_name": "{{ hero.last_name }}",
+	  "description": "{{ hero.description }}",
+	  "portrait": [
+		{
+		  "url": "{% if hero.portrait %}https://covid-heroes.com/assets/img/{{ hero.portrait }}{% else %}{% endif %}"
+		}
+	  ],
+	  "slug": "{{ hero.title | remove: " -" | replace: " ", "-" | downcase }}",
+	  "occupation": "{{ hero.occupation }}",
+	  "employer": {{ hero.employer | jsonify }},
+	  "city": "{{ hero.city }}",
+	  "province": "{{ hero.province }}",
+	  "country": "{{ hero.country }}",
+	  "source": "{{ hero.source }}",
+	  "birth_date": "{{ hero.birth_date }}",
+	  "death_date": "{{ hero.death_date }}",
+	  "content": {{ hero.rendered_content | jsonify }}
+	}
+  },{% endfor %}
+]
