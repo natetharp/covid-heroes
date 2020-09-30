@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+	<channel>
+		<atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
+		{% assign heroes = site.heroes | sort: "last_name" %}{% for hero in heroes %}
+		<item>
+			<first_name>{{ hero.first_name }}</first_name>
+			<last_name>{{ hero.last_name }}</last_name>
+			<description>{{ hero.description }}</description>
+			<portrait>{% if hero.portrait %}https://covid-heroes.com/assets/img/{{ hero.portrait }}{% else %}{% endif %}</portrait>
+			<slug>{{ hero.title | remove: " -" | replace: " ", "-" | downcase }}</slug>
+			<occupation>{{ hero.occupation }}</occupation>
+			<employer>{{ hero.employer }}</employer>
+			<city>{{ hero.city }}</city>
+			<province>{{ hero.province }}</province>
+			<country>{{ hero.country }}</country>
+			<source>{{ hero.source }}</source>
+			<birth_date>{{ hero.birth_date }}</birth_date>
+			<death_date>{{ hero.death_date }}</death_date>	
+			<content>{{ hero.rendered_content }}</content>
+		</item>{% endfor %}
+	</channel>
+</rss>
