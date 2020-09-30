@@ -27,7 +27,7 @@
 	<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
 	<meta property="og:url" content="{{ page.url | absolute_url }}" />
 	<meta property="og:image" content="{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}" />
-	<meta property="og:image:alt" content="Covid Heroes symbol" />
+	<meta property="og:image:alt" content="COVID Heroes symbol" />
 	
 	<!-- / Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image" />
@@ -35,7 +35,7 @@
 	<meta name="twitter:title" content="{{ site.title }}" />
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
 	<meta name="twitter:image" content="{{ "/assets/img/favicons/twitter-card-logo-1024x512.png" | absolute_url }}" />
-	<meta name="twitter:image:alt" content="Covid Heroes symbol" />
+	<meta name="twitter:image:alt" content="COVID Heroes symbol" />
 	
 	<!-- / Favorite Icons -->
 	<meta name="msapplication-TileColor" content="#009ec1" />
@@ -86,5 +86,17 @@
 			}
 		}
 	</style>
+	
+	{% if page.url == "/" or page.url == "/about/" %}
+	<script type="application/ld+json">
+	{
+		"@context" : "https://schema.org",
+		"@type" : "Organization",
+		"name": "COVID Heroes",
+		"url" : "{{ site.url }}",
+		"logo": "{{ '/assets/img/logo-covid-heroes.svg' | absolute_url }}"
+	}
+	</script>
+	{% endif %}
 	
 </head>
