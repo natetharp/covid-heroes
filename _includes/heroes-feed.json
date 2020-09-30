@@ -1,7 +1,4 @@
-var Airtable = require('airtable');
-var base = new Airtable({apiKey: 'YOUR_API_KEY'}).base('appgqOzXOkm2bsEE6');
-
-base('Active').create([{% assign heroes = site.heroes | sort: "last_name" %}{% for hero in heroes %}
+[{% assign heroes = site.heroes | sort: "last_name" %}{% for hero in heroes %}
   {
 	"fields": {
 	  "first_name": "{{ hero.first_name }}",
@@ -24,12 +21,4 @@ base('Active').create([{% assign heroes = site.heroes | sort: "last_name" %}{% f
 	  "content": {{ hero.rendered_content | jsonify }}
 	}
   },{% endfor %}
-], function(err, records) {
-  if (err) {
-	console.error(err);
-	return;
-  }
-  records.forEach(function (record) {
-	console.log(record.getId());
-  });
-});
+]
