@@ -86,9 +86,7 @@
 			}
 		}
 	</style>
-	
-	{% if page.url == "/" or page.url == "/about/" %}
-	<script type="application/ld+json">
+	{% if page.url == "/" or page.url == "/about/" %}<script type="application/ld+json">
 	{
 		"@context" : "https://schema.org",
 		"@type" : "Organization",
@@ -96,7 +94,20 @@
 		"url" : "{{ site.url }}",
 		"logo": "{{ '/assets/img/logo-covid-heroes.svg' | absolute_url }}"
 	}
-	</script>
-	{% endif %}
-	
+	</script>{% endif %}
+	{% if page.collection == "heroes" %}<script type="application/ld+json">
+	{
+		"@context" : "https://schema.org",
+		"@type" : "Person",
+		"name": "{{ page.first_name }} {{ page.last_name }}",
+		"url" : "{{ page.url | absolute_url }}",
+		"image" : "{{ site.url }}/assets/img/{{ page.portrait }}",
+		"description" : "{{ page.description }}",
+		"jobTitle" : "{{ page.occupation }}",
+		"worksFor" : "{{ page.employer }}",
+		"nationality" : "{{ page.country }}",
+		"birthDate" : "{{ page.birth_date }}",
+		"deathDate" : "{{ page.death_date }}"
+	}
+	</script>{% endif %}
 </head>
