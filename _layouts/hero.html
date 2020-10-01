@@ -8,13 +8,9 @@ layout: default
 				<h6 class="usa-heading-alt">Other Heroes from {{ page.country }}</h6>
 				<nav aria-label="Secondary navigation: heroes from same country">
 					<ul class="usa-sidenav">
-						{% for hero in site.heroes %}
-						{% if hero.country == page.country %}
-						<li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
+						{% for hero in site.heroes %}{% if hero.country == page.country %}<li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
 							<a href="{{ hero.url }}">{{ hero.first_name }} {{ hero.last_name }}</a>
-						</li>
-						{% endif %}
-						{%endfor%}
+						</li>{% endif %}{%endfor%}
 					</ul>
 				</nav>
 			</div>
@@ -31,7 +27,39 @@ layout: default
 
 				{{ content }}
 				
+				<nav class="pagination padding-top-2">
+					<div class="grid-container">
+					  <div class="grid-row margin-top-5">
+					<div class="desktop:grid-col-6">
+					{% if page.previous.url %}
+					{% if hero.portrait %}
+					<img loading="lazy" class="usa-media-block__img" src="/assets/img/{{ hero.portrait | prepend: site.baseurl }}" width="50" alt="{{ hero.first_name }} {{ hero.last_name }} portrait" />
+					{% else %}
+					<img loading="lazy" class="usa-media-block__img" src="{{ "/assets/img/icn-profile.svg" | relative_url }}" width="50" alt="" />
+					{% endif %}
+					<p class="text-light font-serif-md margin-top-0 margin-bottom-0"><a href="{{ page.previous.url }}">Previous</a></p>
+					<p class="text-medium font-sans-lg margin-top-0 margin-bottom-0"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+					<p class="text-normal font-sans-xs margin-top-0 margin-bottom-0">{{ page.previous.occupation }}, {{ page.previous.country }}</p>
+					{% endif %}
+					</div>
+					<div class="desktop:grid-col-6">
+					{% if page.next.url %}
+					{% if hero.portrait %}
+					<img loading="lazy" class="usa-media-block__img" src="/assets/img/{{ hero.portrait | prepend: site.baseurl }}" width="50" alt="{{ hero.first_name }} {{ hero.last_name }} portrait" />
+					{% else %}
+					<img loading="lazy" class="usa-media-block__img" src="{{ "/assets/img/icn-profile.svg" | relative_url }}" width="50" alt="" />
+					{% endif %}
+					<p class="text-light font-serif-md margin-top-0 margin-bottom-0"><a href="{{ page.next.url }}">Next</a></p>
+					<p class="text-medium font-sans-lg margin-top-0 margin-bottom-0"><a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+					<p class="text-normal font-sans-xs margin-top-0 margin-bottom-0">{{ page.next.occupation }}, {{ page.next.country }}</p>
+					{% endif %}
+					</div>
+					  </div>
+					  </div>
+				</nav>
+				
 			</main>
 		</div>
+			
 	</div>
 </div>
