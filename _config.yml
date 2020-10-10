@@ -5,6 +5,42 @@ timezone: America/Los_Angeles
 
 permalink: pretty
 
+# Build Settings
+markdown: kramdown
+
+plugins:
+  - jekyll-airtable
+  - environment_variables_generator
+  
+airtable:
+  enable_sync: true
+  base_uid: 'appgqOzXOkm2bsEE6'
+  tables:
+    - name: 'Active'
+      text_columns:
+        - 'first_name'
+        - 'last_name'
+        - 'slug'
+        - 'occupation'
+        - 'employer'
+        - 'city'
+        - 'province'
+        - 'country'
+        - 'source'
+      date_columns:
+        - 'birth_date'
+        - 'death_date'
+      long_text_columns:
+        - 'description'
+        - 'content'
+      attachment_columns:
+        - 'portrait'
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+collections_dir: heroes
 collections:
   heroes: 
     sort_by: last_name
@@ -19,21 +55,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "heroes"
+      type: "Heroes"
     values:
       layout: "hero"
-
-# Build Settings
-markdown: CommonMarkGhPages
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-
-sass:
-    style: compressed
-    sass_dir: _sass
 
 # Exclude from processing
 exclude:

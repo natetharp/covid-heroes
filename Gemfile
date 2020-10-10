@@ -1,9 +1,12 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'jekyll', '>= 4.0.0'
-gem 'jekyll-sitemap'
+gem 'jekyll', '>= 3.3'
 gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
-group :jekyll_plugins do
-  gem 'jekyll-commonmark-ghpages'
-end
+gem 'jekyll-airtable'
+
+# If you have any plugins, put them here!
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-sitemap', group: :jekyll_plugins
+gem 'airtable', group: :jekyll_plugins
+gem 'dotenv', group: :jekyll_plugins
