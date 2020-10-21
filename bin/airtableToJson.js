@@ -2,6 +2,8 @@
 
 const fs = require('fs')
 const dotenv = require('dotenv').config()
+var path = require('path')
+var appDir = path.dirname(require.main.filename)
 const Airtable = require('airtable')
 const base = new Airtable({ apiKey: process.env.AIRTABLE_KEY }).base(
   process.env.AIRTABLE_BASE
@@ -36,9 +38,9 @@ base('Active')
       }
       try {
         const fileName = 'heroes.json'
-        console.log(`Writing ${fileName}`)
+        console.log(`Writing to _data/${fileName}`)
         fs.writeFileSync(
-          `${__dirname}/${fileName}`,
+          `${appDir}/../_data/${fileName}`,
           JSON.stringify(recordFieldsJSON, null, 2)
         )
       } catch (err) {
