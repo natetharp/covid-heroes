@@ -8,5 +8,8 @@ node_modules
 .ruby-version
 .env
 
+# secrets
+.env
+
 # Hiding Mac files
 .DS_Store
