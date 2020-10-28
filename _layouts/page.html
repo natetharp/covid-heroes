@@ -24,7 +24,7 @@ layout: default
 						
 						{% if page.title == "By Country" %}
 						
-						{% assign groups = site.heroes | group_by: "country" | sort: "name" %}
+						{% assign groups = site.data.active | group_by: "country" | sort: "name" %}
 						{% for group in groups %}
 						<li class="usa-sidenav__item">
 							<a href="{{ page.url | absolute_url }}#{{ group.name | slugify }}">{{ group.name }}</a>
@@ -32,9 +32,9 @@ layout: default
 						{%endfor%}
 						
 						
-						<li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
+						<!-- <li class="usa-sidenav__item{% if item.url == page.url %} usa-current{% endif %}">
 							<a href="{{ item.url | absolute_url  }}">{{ item.title }}</a>
-						</li>
+						</li> -->
 						
 
 						{% else %}

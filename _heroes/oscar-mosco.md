@@ -1,3 +1,0 @@
-
-
-<p><a href="https://www.facebook.com/story.php?story_fbid=2506433669458067&amp;id=100002743761065&amp;refid=17&amp;_ft_=mf_story_key.2506433669458067%3Atop_level_post_id.2506433669458067%3Atl_objid.2506433669458067%3Acontent_owner_id_new.100002743761065%3Athrowback_story_fbid.2506433669458067%3Aphoto_attachments_list.%5b2506433116124789%2C2506433242791443%2C2506433369458097%2C2506433502791417%2C2506433636124737%5d%3Astory_location.4%3Astory_attachment_style.album%3Athid.100002743761065%3A306061129499414%3A2%3A0%3A1588316399%3A-3112351422168097432&amp;__tn__=*s*s-R">Oscar Roberto Palma Mosco</a>, age unknown, Orderly, IMSS Hospital de Especialidades Centro Medico Nacional Siglo XXI, Mexico City, Mexico</p>

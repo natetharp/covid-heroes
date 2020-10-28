@@ -5,11 +5,11 @@ timezone: America/Los_Angeles
 
 permalink: pretty
 
-collections:
-  heroes: 
-    sort_by: last_name
-    output: true
-    permalink: /:name/
+#collections:
+#  heroes: 
+#    sort_by: last_name
+#    output: true
+#    permalink: /:name/
 
 defaults:
   - scope:
@@ -17,11 +17,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "heroes"
-    values:
-      layout: "hero"
+#  - scope:
+#      path: ""
+#      type: "heroes"
+#    values:
+#      layout: "hero"
 
 # Build Settings
 markdown: CommonMarkGhPages
@@ -30,6 +30,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-datapage-generator
+
+page_gen-dirs: true
+  
+page_gen:
+  - data: 'active'
+    template: 'hero'
+    name: 'slug'
+    dir: ''
+    #name_expr: [a Ruby expression to generate the filename (alternative to name)]
+    title_expr: "record['first_name'] + ' ' + record['last_name']"
+    #title_expr: [a Ruby expression to generate the filename (alternative to title)]
+    #extension: [extension used to generate the filename]
+    #filter: [property to filter data records by]
+    #filter_condition: [a Ruby expression to filter data]
 
 sass:
     style: compressed

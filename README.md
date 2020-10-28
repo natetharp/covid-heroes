@@ -48,6 +48,7 @@ Finally run `bundle` to install jekyll for your project.
 
 You can now prefix all jekyll commands listed in this tutorial with `bundle exec` to make sure you use the jekyll version defined in your `Gemfile`.
 
+The Airtable importer requires Node.js. Install Node using NVM.
 
 ### Build
 Jekyll is a static site generator so we need Jekyll to build the site before we can view it. There are two commands you can run in the root of your site to build it:
@@ -58,3 +59,7 @@ Jekyll is a static site generator so we need Jekyll to build the site before we 
 When you’re developing a site you’ll use jekyll serve as it updates with any changes you make.
 
 Run `jekyll serve` and go to [http://localhost:4000](http://localhost:4000) in your browser.
+
+### Notes
+- The build will fail unless the `/_data/active.json` file already exists and has at least one record in it. The Airtable import script can overwrite the file, but cannot create it.
+- At current, the site appears to need the build process to run twice before new profiles are added to the `active.json` file and then be built into individual pages.

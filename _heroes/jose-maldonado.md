@@ -1,3 +1,0 @@
-
-
-<p><a href="https://www.facebook.com/story.php?story_fbid=2506070749494359&amp;id=100002743761065&amp;refid=17&amp;_ft_=mf_story_key.2506070749494359%3Atop_level_post_id.2506070749494359%3Atl_objid.2506070749494359%3Acontent_owner_id_new.100002743761065%3Athrowback_story_fbid.2506070749494359%3Aphoto_attachments_list.%5b2506068909494543%2C2506068976161203%2C2506069169494517%2C2506069262827841%2C2506069392827828%5d%3Astory_location.4%3Astory_attachment_style.album%3Athid.100002743761065%3A306061129499414%3A2%3A0%3A1588316399%3A4715074864252875881&amp;__tn__=*s*s-R">José Luis Valencia Maldonado</a>, age unknown, Nurse, IMSS UMAE Cardiología Siglo XXI, Mexico City, Mexico</p>
