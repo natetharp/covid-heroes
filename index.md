@@ -11,14 +11,11 @@ layout: default
 			<h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Highlighting the heroes among us</h2>
 			</div>
 			<div class="tablet:grid-col-8 usa-prose">
-			<p><strong>{{ site.heroes | size }}</strong> healthcare workers have given their lives in the fight against Coronavirus, as of {{ site.time | date: '%B %-d' }}. They're listed here in hopes that their sacrifices will never be forgotten.</p>
+			<p><strong>{{ site.data.active | size }}</strong> healthcare workers have given their lives in the fight against Coronavirus, as of {{ site.time | date: '%B %-d' }}. They're listed here in hopes that their sacrifices will never be forgotten.</p>
 			</div>
 		</div>
 	</div>
 </section>
-
-
-
 
 <section class="usa-graphic-list usa-section">
 	<div class="grid-container">

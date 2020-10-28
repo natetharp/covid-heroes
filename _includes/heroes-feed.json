@@ -1,4 +1,4 @@
-[{% assign heroes = site.heroes | sort: "last_name" %}{% for hero in heroes %}
+[{% assign heroes = site.data.active | sort: "last_name" %}{% for hero in heroes %}
   {
 	"fields": {
 	  "first_name": "{{ hero.first_name }}",

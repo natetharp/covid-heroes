@@ -26,7 +26,7 @@
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
 	<meta property="og:url" content="{{ page.url | absolute_url }}" />
-	<meta property="og:image" content="{% if page.portrait %}{{ site.url }}/assets/img/{{ page.portrait }}{% else %}{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}{% endif %}" />
+	<meta property="og:image" content="{% if page.portrait %}{{ page.portrait[0].url }}{% else %}{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}{% endif %}" />
 	<meta property="og:image:alt" content="{% if page.portrait %}{{ page.first_name }} {{ page.last_name }} portrait{% else %}COVID Heroes symbol{% endif %}" />
 	
 	<!-- / Twitter Card -->
@@ -34,7 +34,7 @@
 	<meta name="twitter:site" content="@HeroesCovid" />
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}" />
-	<meta name="twitter:image" content="{% if page.portrait %}{{ site.url }}/assets/img/{{ page.portrait }}{% else %}{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}{% endif %}" />
+	<meta name="twitter:image" content="{% if page.portrait %}{{ page.portrait[0].url }}{% else %}{{ "/assets/img/favicons/open-graph-logo-1200x1200.png" | absolute_url }}{% endif %}" />
 	<meta name="twitter:image:alt" content="{% if page.portrait %}{{ page.first_name }} {{ page.last_name }} portrait{% else %}COVID Heroes symbol{% endif %}" />
 	
 	<!-- / Favorite Icons -->
@@ -101,7 +101,7 @@
 		"@type" : "Person",
 		"name": "{{ page.first_name }} {{ page.last_name }}",
 		"url" : "{{ page.url | absolute_url }}",
-		"image" : "{{ site.url }}/assets/img/{{ page.portrait }}",
+		"image" : "{{ page.portrait[0].url }}",
 		"description" : "{{ page.description }}",
 		"jobTitle" : "{{ page.occupation }}",
 		"worksFor" : "{{ page.employer }}",

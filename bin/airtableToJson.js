@@ -37,7 +37,7 @@ base('Active')
         return
       }
       try {
-        const fileName = 'heroes.json'
+        const fileName = 'active.json'
         console.log(`Writing to _data/${fileName}`)
         fs.writeFileSync(
           `${appDir}/../_data/${fileName}`,

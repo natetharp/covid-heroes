@@ -4,13 +4,13 @@ title: By Country
 description: 
 ---
 
-{% assign items_grouped = site.heroes | group_by: 'country' | sort: 'name' %}
+{% assign items_grouped = site.data.active | group_by: 'country' | sort: 'name' %}
 {% for group in items_grouped %}
 	<a name="{{ group.name | slugify }}"></a><h2>{{ group.name }}</h2>
 	{% assign items = group.items | sort: 'last_name' %}
 	{% for item in items  %}
 		<h3>{{ item.first_name }} {{ item.last_name }}</h3>
 		<h4>{{ item.occupation }}{% if item.employer %}, {{ item.employer }}{% endif %}</h4>
-		<p><small><a href="{{ item.url | prepend: site.baseurl }}">Read More</a></small></p>
+		<p><small><a href="{{ item.slug | absolute_url }}">Read More</a></small></p>
 	{% endfor %}
 {% endfor %}
