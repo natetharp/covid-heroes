@@ -24,7 +24,8 @@ defaults:
 #      layout: "hero"
 
 # Build Settings
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
+markdown: kramdown
 
 plugins:
   - jekyll-sitemap
