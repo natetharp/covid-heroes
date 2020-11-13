@@ -20,9 +20,7 @@ layout: default
 <section class="usa-graphic-list usa-section">
 	<div class="grid-container">
 		<div class="grid-row">
-		
 		{% include hero-portrait.html %}		
-		
 		</div>
 	</div>
 </section>
