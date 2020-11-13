@@ -5,6 +5,7 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 gem 'jekyll-datapage-generator'
-group :jekyll_plugins do
-  gem 'jekyll-commonmark-ghpages'
-end
+gem 'kramdown-parser-gfm'
+#group :jekyll_plugins do
+#  gem 'jekyll-commonmark-ghpages'
+#end
