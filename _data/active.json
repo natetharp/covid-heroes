@@ -1,8 +1,5 @@
 [
   {
-    "first_name": "Golam"
-  },
-  {
     "first_name": "Tanveer Akram",
     "last_name": " Bhatti",
     "slug": "tanveer-akram-bhatti",
@@ -2381,15 +2378,6 @@
   {
     "first_name": "Carlos",
     "last_name": "Araujo-Preza",
-    "slug": "carlos-araujo-preza",
-    "employer": "HCA Houston Healthcare",
-    "city": "Tomball",
-    "province": "Texas",
-    "country": "United States",
-    "source": "https://www.cnn.com/2020/12/08/us/houston-doctor-covid-dies-trnd/index.html",
-    "death_date": "2020-11-30",
-    "occupation": "Physician",
-    "content": "Dr. Carlos Araujo-Preza, 51 years old, had been treating some of the sickest COVID-19 patients in the Houston area since the start of the pandemic.\n\n> Born in El Salvador, he came to the US in 1994 to continue his medical education, studying at Staten Island University Hospital in New York and Tulane University in New Orleans. In 2001, he moved to the Houston area and worked as a pulmonologist for nearly two decades.\n> He was appointed the critical care medical director of the ICU, primarily treating coronavirus patients. For nearly all of April, he slept in a room in the hospital, always on call in case of emergency.\n> When he fell ill with the virus in October, he put on the same brave face.\n> Araujo said her father initially downplayed the extent of his condition, not wanting his family to panic. He told them he was going to the hospital for supplemental oxygen, and that he expected he would be discharged the next day.\n> \"He was always saying, 'Oh, I'm good. I survived another day,'\" she said. \"He was very protective of us about his condition. And I think when he went to the hospital, he had no idea that it would become so serious.\"\n> Araujo-Preza was admitted to the ICU at HCA Houston Healthcare Tomball in early November, where he stayed about a week and a half, his daughter said. He had barely been out of the hospital 48 hours before he had to be readmitted.\n> By then, his condition had become more serious, and he was eventually transferred to Houston Methodist Hospital. A few days later, he was placed on a ventilator.\n> Araujo-Preza never returned home.\n> **[Harmeet Kaur](https://www.cnn.com/profiles/harmeet-kaur)**, CNN\n",
     "portrait": [
       {
         "id": "attPztBqVjuzv5XKY",
@@ -2415,7 +2403,16 @@
           }
         }
       }
-    ]
+    ],
+    "slug": "carlos-araujo-preza",
+    "occupation": "Physician",
+    "employer": "HCA Houston Healthcare",
+    "city": "Tomball",
+    "province": "Texas",
+    "country": "United States",
+    "source": "https://www.cnn.com/2020/12/08/us/houston-doctor-covid-dies-trnd/index.html",
+    "death_date": "2020-11-30",
+    "content": "Dr. Carlos Araujo-Preza, 51 years old, had been treating some of the sickest COVID-19 patients in the Houston area since the start of the pandemic.\n\n> Born in El Salvador, he came to the US in 1994 to continue his medical education, studying at Staten Island University Hospital in New York and Tulane University in New Orleans. In 2001, he moved to the Houston area and worked as a pulmonologist for nearly two decades.\n> He was appointed the critical care medical director of the ICU, primarily treating coronavirus patients. For nearly all of April, he slept in a room in the hospital, always on call in case of emergency.\n> When he fell ill with the virus in October, he put on the same brave face.\n> Araujo said her father initially downplayed the extent of his condition, not wanting his family to panic. He told them he was going to the hospital for supplemental oxygen, and that he expected he would be discharged the next day.\n> \"He was always saying, 'Oh, I'm good. I survived another day,'\" she said. \"He was very protective of us about his condition. And I think when he went to the hospital, he had no idea that it would become so serious.\"\n> Araujo-Preza was admitted to the ICU at HCA Houston Healthcare Tomball in early November, where he stayed about a week and a half, his daughter said. He had barely been out of the hospital 48 hours before he had to be readmitted.\n> By then, his condition had become more serious, and he was eventually transferred to Houston Methodist Hospital. A few days later, he was placed on a ventilator.\n> Araujo-Preza never returned home.\n> **[Harmeet Kaur](https://www.cnn.com/profiles/harmeet-kaur)**, CNN\n"
   },
   {
     "first_name": "Hassan",
