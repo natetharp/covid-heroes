@@ -1,5 +1,19 @@
 [
   {
+    "first_name": "Golam"
+  },
+  {
+    "first_name": "Tanveer Akram",
+    "last_name": " Bhatti",
+    "slug": "tanveer-akram-bhatti",
+    "occupation": "Pulmonary Medicine",
+    "city": "Sargodha",
+    "province": "Punjab",
+    "country": "Pakistan",
+    "source": "https://www.samaa.tv/living/health/2020/06/in-memoriam-names-of-health-workers-who-died-fighting-covid-19/",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Anonymous",
     "last_name": "_",
     "slug": "anonymous-scarborough",
@@ -1792,6 +1806,17 @@
     "content": "\n"
   },
   {
+    "first_name": "Shaukat",
+    "last_name": "Ali",
+    "slug": "shaukat-ali",
+    "occupation": "Physician",
+    "employer": "Emergency Medical Services, Ruby Ailcare Services",
+    "city": "Mala",
+    "country": "India",
+    "source": "https://m.mid-day.com/amp/articles/mumbai-malad-doctor-dies-of-covid-19-after-hospital-refuses-admission/22833278",
+    "content": " 45 years old. \n"
+  },
+  {
     "first_name": "Hadio",
     "last_name": "Ali",
     "portrait": [
@@ -2331,6 +2356,18 @@
     "content": "Age unknown.\n"
   },
   {
+    "first_name": "Ramon César",
+    "last_name": "Aparicio Osorio",
+    "slug": "ramon-cesar-aparicio-osorio",
+    "occupation": "OB-GYN, Hospital Director",
+    "employer": "Hospital Materno Infantil Vicente Guerrero",
+    "city": "Chimalhuacán",
+    "province": "State of Mexico",
+    "country": "Mexico",
+    "source": "https://www.facebook.com/eliyssaa/posts/2578136915621075",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Elard Roberto Calli",
     "last_name": "Araca",
     "slug": "elard-roberto-calli-araca",
@@ -2340,6 +2377,45 @@
     "country": "Peru",
     "source": "https://www.facebook.com/ColegioMedicodelPeru/posts/3135481123211241",
     "content": "Age unknown.\n"
+  },
+  {
+    "first_name": "Carlos",
+    "last_name": "Araujo-Preza",
+    "slug": "carlos-araujo-preza",
+    "employer": "HCA Houston Healthcare",
+    "city": "Tomball",
+    "province": "Texas",
+    "country": "United States",
+    "source": "https://www.cnn.com/2020/12/08/us/houston-doctor-covid-dies-trnd/index.html",
+    "death_date": "2020-11-30",
+    "occupation": "Physician",
+    "content": "Dr. Carlos Araujo-Preza, 51 years old, had been treating some of the sickest COVID-19 patients in the Houston area since the start of the pandemic.\n\n> Born in El Salvador, he came to the US in 1994 to continue his medical education, studying at Staten Island University Hospital in New York and Tulane University in New Orleans. In 2001, he moved to the Houston area and worked as a pulmonologist for nearly two decades.\n> He was appointed the critical care medical director of the ICU, primarily treating coronavirus patients. For nearly all of April, he slept in a room in the hospital, always on call in case of emergency.\n> When he fell ill with the virus in October, he put on the same brave face.\n> Araujo said her father initially downplayed the extent of his condition, not wanting his family to panic. He told them he was going to the hospital for supplemental oxygen, and that he expected he would be discharged the next day.\n> \"He was always saying, 'Oh, I'm good. I survived another day,'\" she said. \"He was very protective of us about his condition. And I think when he went to the hospital, he had no idea that it would become so serious.\"\n> Araujo-Preza was admitted to the ICU at HCA Houston Healthcare Tomball in early November, where he stayed about a week and a half, his daughter said. He had barely been out of the hospital 48 hours before he had to be readmitted.\n> By then, his condition had become more serious, and he was eventually transferred to Houston Methodist Hospital. A few days later, he was placed on a ventilator.\n> Araujo-Preza never returned home.\n> **[Harmeet Kaur](https://www.cnn.com/profiles/harmeet-kaur)**, CNN\n",
+    "portrait": [
+      {
+        "id": "attPztBqVjuzv5XKY",
+        "url": "https://dl.airtable.com/.attachments/5e9cf4345d34ed5936d7948639ea499e/303d9719/carlos-araujo-preza.jpg",
+        "filename": "carlos-araujo-preza.jpg",
+        "size": 36977,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/da629b56092cbee018c51417b1922c76/4fdf2b99",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/00c08ef453505b306c7dac542689cf4a/192e5a13",
+            "width": 361,
+            "height": 361
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e67356d76d0f70c6992658c83b9d422f/f9515b9d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   },
   {
     "first_name": "Hassan",
@@ -2359,6 +2435,17 @@
     "country": "Egypt",
     "source": "https://www.bbc.com/arabic/trending-52263335",
     "content": "She was 64 years old.\n"
+  },
+  {
+    "first_name": "Heriberto",
+    "last_name": "Arenas Solís",
+    "slug": "heriberto-arenas-solis",
+    "occupation": "Nurse",
+    "city": "Atizapán de Zaragoza",
+    "province": "State of Mexico",
+    "country": "Mexico",
+    "source": "https://www.eluniversal.com.mx/metropoli/coronavirus-con-porras-y-aplausos-enfermeros-despiden-companero-muerto-por-posible-covid?fbclid=IwAR1RTwjBLlRV9lGRyFbxDZqMkjWSYDWfRpGTqk1va-ngBCuz7q_vT_fN5hM",
+    "content": "32 years old.\n"
   },
   {
     "first_name": "Juan Viteri",
@@ -2556,6 +2643,17 @@
     "country": "Mexico",
     "source": "https://www.cronicamorelos.com/notas-fallecen_enfermeras_infectadas_con_covid_19-6802-2020",
     "content": "Age unknown.\n"
+  },
+  {
+    "first_name": "Porfirio ",
+    "last_name": "Arvizu Acosta",
+    "slug": "porfirio-arvizu-acosta",
+    "occupation": "Neonatologist",
+    "employer": "Hospital Pediátrico Iztacalco",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "source": "https://www.facebook.com/eliyssaa/posts/2493396164095151",
+    "content": "age unknown\n"
   },
   {
     "first_name": "George Nii Ajedu",
@@ -3062,6 +3160,17 @@
     "content": "Age unknown.\n"
   },
   {
+    "first_name": "Lyubov Alexandrovna ",
+    "last_name": "Balashevich",
+    "slug": "lyubov-alexandrovna-balashevich",
+    "occupation": "Pediatrics",
+    "employer": "Lyantor City Hospital",
+    "city": "Lyantor ",
+    "country": "Russia",
+    "source": "https://sites.google.com/view/covid-memory/obituaries/balashevichla",
+    "content": "73 years old.\n"
+  },
+  {
     "first_name": "Whitney Kathleen",
     "last_name": "Ballance",
     "slug": "whitney-ballance",
@@ -3404,6 +3513,17 @@
     "content": "63 years old.\n"
   },
   {
+    "first_name": "Miguel",
+    "last_name": "Barragán Nocua",
+    "slug": "miguel-barragan-nocua",
+    "occupation": "Family Medicine/General Practitioner",
+    "employer": "CAPS Chircales Rafael Uribe Uribe",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "source": "https://noticias.canalrcn.com/bogota/fallecio-otro-medico-victima-del-coronavirus-en-bogota-356638",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Francisco Brito",
     "last_name": "Barrera",
     "slug": "francisco-barrera",
@@ -3414,6 +3534,27 @@
     "country": "Mexico",
     "source": "https://www.horacero.com.mx/nacional/fallece-medico-del-imss-por-covid-19-en-hospital-de-cancun/",
     "content": "58 years old.\n"
+  },
+  {
+    "first_name": "José Manuel ",
+    "last_name": "Barrera Mojica",
+    "slug": "jose-manuel-barrera-mojica",
+    "occupation": " Family Medicine/General Practitioner, Politician",
+    "city": "Tuxtepec",
+    "province": "Oaxaca",
+    "country": "Mexico",
+    "source": "http://www.nvinoticias.com/nota/150301/fallece-por-covid-19-jose-manuel-barrera-ex-edil-de-tuxtepec/amp",
+    "content": "age unknown\n"
+  },
+  {
+    "first_name": "Mariano",
+    "last_name": "Barrios",
+    "slug": "mariano-barrios",
+    "occupation": "Family Medicine/General Practitioner",
+    "city": "Trinidad",
+    "country": "Bolivia",
+    "source": "https://www.radiofides.com/es/2020/05/15/muere-tercer-medico-por-covid-19-en-beni/",
+    "content": "35 years old. \n"
   },
   {
     "first_name": "Jenni Claire",
@@ -3511,6 +3652,17 @@
     "content": "Age unknown.\n"
   },
   {
+    "first_name": "Jorge \"Tibu\" ",
+    "last_name": "Basurto",
+    "slug": "jorge-tibu-basurto",
+    "occupation": "Hospital Staff, Maintenance Worker, High School Teacher",
+    "employer": "IMSS Hospital General de Zona No. 71",
+    "province": "Veracruz",
+    "country": "Mexico",
+    "source": "https://veracruz.lasillarota.com/amp/estados/muere-de-covid-empleado-de-imss-pedia-a-jarochos-quedarse-en-casa-veracruz-imss-fallecimiento-tibu/404878",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Don",
     "last_name": "Batayola",
     "slug": "don-batayola",
@@ -3588,6 +3740,17 @@
     "content": "Age unknown.\n"
   },
   {
+    "first_name": "Valery ",
+    "last_name": "Bayshtok",
+    "slug": "valery-bayshtok",
+    "occupation": "Family Medicine/General Practitioner",
+    "city": "Rego Park",
+    "province": "New York",
+    "country": "United States",
+    "source": "https://ne-np.facebook.com/groups/317464005892297/permalink/351566089148755/",
+    "content": "74 years old.\n"
+  },
+  {
     "first_name": "Brian",
     "last_name": "Beattie",
     "slug": "brian-beattie",
@@ -3598,6 +3761,18 @@
     "country": "Canada",
     "source": "https://www.cbc.ca/news/canada/london/registered-nurse-dies-london-covid-19-1.5566994",
     "content": "57 years old.\n"
+  },
+  {
+    "first_name": "Elene",
+    "last_name": "Becerra Rodríguez",
+    "slug": "elene-becerra-rodriguez",
+    "occupation": "Nurse, Chief of Service",
+    "employer": "Hospital General de Tula",
+    "city": "Tula",
+    "province": "Hidalgo",
+    "country": "Mexico",
+    "source": "https://www.excelsior.com.mx/nacional/fallece-por-covid-19-jefa-de-enfermeras-de-hospital-en-tula/1389243",
+    "content": "age unknown\n"
   },
   {
     "first_name": "Edward",
@@ -3707,6 +3882,17 @@
     "country": "United States",
     "source": "https://dailyvoice.com/new-jersey/teaneck/news/beloved-holy-name-caterer-killed-by-coronavirus/785477/",
     "content": "Age unknown.\n"
+  },
+  {
+    "first_name": "Mario",
+    "last_name": "Benítez",
+    "slug": "mario-benitez",
+    "occupation": "Radiology",
+    "employer": "Hospital Mario Catarino Rivas",
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "source": "https://www.proceso.hn/actualidad/7-actualidad/muere-por-covid-19-un-radiologo-del-hospital-catarino-rivas.html",
+    "content": "age unknown\n"
   },
   {
     "first_name": "Petronella",
@@ -4510,6 +4696,17 @@
     "content": "Antonio Buonomo 14 01 1955 †  21 03 2020\nMedico legale – Napoli\n\n65 years old.\n"
   },
   {
+    "first_name": "Michael T.",
+    "last_name": "Burgio",
+    "slug": "micheal-t-burgio",
+    "occupation": "Emergency Medicine",
+    "city": "Newton",
+    "province": "New Jersey",
+    "country": "United States",
+    "source": "https://obittree.com/obituary/us/new-jersey/rutherford/calhoun-mania-funeral-home-rutherford-nj/dr-michael-t-burgio-md/4233307/",
+    "content": "69 years old.\n\n"
+  },
+  {
     "first_name": "Irene",
     "last_name": "Burgonio",
     "slug": "irene-burgonio",
@@ -4955,6 +5152,16 @@
     "content": "55 years old.\n"
   },
   {
+    "first_name": "Jhony",
+    "last_name": "Cano Suárez",
+    "slug": "jhony-cano-suarez",
+    "occupation": "Family Medicine/General Practitioner",
+    "province": "Áncash",
+    "country": "Peru",
+    "source": "https://ancashaldia.com/chimbote-exdirector-de-la-diresa-johnny-cano-murio-victima-del-coronavirus-en-lima/",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Aurelio",
     "last_name": "Capilla",
     "slug": "aurelio-capilla",
@@ -5183,6 +5390,17 @@
     "country": "United Kingdom",
     "source": "https://nursingnotes.co.uk/covid-19-memorial/, https://www.mirror.co.uk/news/uk-news/least-55-nhs-staff-died-21889213",
     "content": "Jenelyn Carter was a healthcare assistant on the admissions ward at Morriston Hospital and was well loved by all her colleagues and patients.\n"
+  },
+  {
+    "first_name": "Juan Carlos ",
+    "last_name": "Carvajal",
+    "slug": "juan-carlos-carvajal",
+    "occupation": "Pulmonary Medicine",
+    "employer": "Clínica Santa María",
+    "city": "Santiago",
+    "country": "Chile",
+    "source": "https://www.meganoticias.cl/nacional/304105-doctor-juan-carvajal-muere-coronavirus-historia-covid-19-chile-1yz.html",
+    "content": "64 years old\n\n"
   },
   {
     "first_name": "Monica Villalba",
@@ -5439,6 +5657,15 @@
     "content": "Carol Challoner was a children's social worker for Liverpool City Council.\n"
   },
   {
+    "first_name": "Sara",
+    "last_name": "Chambi Mendez",
+    "slug": "sara-chambi-mendez",
+    "occupation": "Family Medicine/General Practitioner",
+    "country": "Bolivia",
+    "source": "https://www.prensa-latina.cu/index.php?o=rn&amp;id=368826&amp;SEO=tres-medicos-graduados-en-cuba-murieron-por-covid-19-en-bolivia",
+    "content": "\n"
+  },
+  {
     "first_name": "Phag",
     "last_name": "Chand",
     "slug": "phag-chand",
@@ -5470,6 +5697,18 @@
     "country": "France",
     "source": "https://pontivy.maville.com/actu/actudet_-grand-est-coronavirus.-deces-d-un-septieme-medecin-en-lien-avec-le-covid-19_53511-4062225_actu.Htm",
     "content": "73 years old.\n"
+  },
+  {
+    "first_name": "Priscilla",
+    "last_name": "Charrow",
+    "slug": "priscilla-charrow",
+    "occupation": "Hospital Staff",
+    "employer": "Elmhurst Hospital Center",
+    "city": "Queens",
+    "province": "New York",
+    "country": "United States",
+    "source": "https://khn.org/morning-breakout/the-hidden-health-workers-its-not-just-those-in-ers-who-are-struggling-to-cope-with-pandemic/",
+    "content": "65  years old.\n"
   },
   {
     "first_name": "Om Prakash",
@@ -5692,6 +5931,17 @@
     "content": "26 years old.\n"
   },
   {
+    "first_name": "Ehsanul Kabir ",
+    "last_name": "Chowdhury",
+    "slug": "ehsanul-kabir-chowdhury",
+    "occupation": "Physician, Former THA of Health Services Division",
+    "employer": "Rangpur Medical College",
+    "city": "Rangpur",
+    "country": "Bangladesh",
+    "source": "https://www.daily-sun.com/post/485588/Former-THA-Dr-Ehsanul-Kabir-dies-from-Covid19",
+    "content": "65 years old.\n"
+  },
+  {
     "first_name": "Abdul Mabud",
     "last_name": "Chowdhury",
     "portrait": [
@@ -5740,6 +5990,18 @@
     "country": "United States",
     "source": "https://engnews24h.com/bangladeshi-doctor-dies-in-corona/",
     "content": "58 years old.\n"
+  },
+  {
+    "first_name": "Reza",
+    "last_name": "Chowdhury",
+    "slug": "reza-chowdhury",
+    "occupation": "Internist and Infectious Diseases Physician",
+    "employer": "Westchester Medical Healthcare",
+    "city": "Bronx",
+    "province": "New York",
+    "country": "United States",
+    "source": "https://engnews24h.com/bangladeshi-doctor-dies-in-corona/",
+    "content": "58 years old\n"
   },
   {
     "first_name": "Nabil",
@@ -6091,6 +6353,17 @@
     "content": "Benedetto Comotti, 06 05 1945 † 26 03 2020\nEmatologo – Bergamo\n\n74 years old.\n"
   },
   {
+    "first_name": "Manoel",
+    "last_name": "Conceição Santos",
+    "slug": "manoel-conceiçao-santos",
+    "occupation": "Nurse, Serviço de Pronto Atendimento (SPA) Alvorada",
+    "city": "Manaus",
+    "province": "Amazonas",
+    "country": "Brazil",
+    "source": "https://www.acritica.com/channels/manaus/news/enfermeiro-morto-com-covid-19-dedicou-ultimos-momentos-da-vida-a-ajudar-pacientes",
+    "content": "42 years old.\n\n"
+  },
+  {
     "first_name": "Gustavo Adolfo Munizaga",
     "last_name": "Concha",
     "slug": "gustavo-concha",
@@ -6323,6 +6596,17 @@
     "source": "https://nursingnotes.co.uk/covid-19-memorial/, https://www.expressandstar.com/news/uk-news/2020/04/27/long-serving-ward-manager-at-london-mental-health-centre-dies/",
     "death_date": "2020-04-09",
     "content": "One of the longest-serving members of staff at a mental health centre in London has died after contracting COVID-19.\n\nAndy Costa devoted 26 years to the NHS, most recently working as a ward administrator at Highgate Mental Health Centre in north London, which is part of Camden and Islington NHS Foundation Trust. Prior to that, Mr Costa had worked on Elizabeth Torrance Ward in the nearby Waterlow Unit.\n\nA spokeswoman for the trust said: \n\n> Andy was a highly respected, conscientious and long-serving colleague who had worked at Highgate Mental Health Centre since it opened 15 years ago.\n> \n> Andy’s 26 years of diligence and loyalty to Camden and Islington NHS Foundation Trust were honoured with a long service award only last summer at a special tea party at the Irish Centre in Camden.\n> \n> Andy will be very much missed by us all, especially by his many colleagues and friends in the ward, administration and domestic staff areas at Highgate Mental Health Centre.\n> \n> Our deepest sympathies go to his family and friends.\n"
+  },
+  {
+    "first_name": "Rafael",
+    "last_name": "Costa Cruz",
+    "slug": "rafael-costa-cruz",
+    "occupation": "Critical Care",
+    "employer": "Hospital Garal Ernesto Simões Filho",
+    "city": "Salvador",
+    "country": "Brazil",
+    "source": "http://www.cremeb.org.br/index.php/noticias/nota-de-pesar-cremeb-lamenta-o-falecimento-de-dr-rafael-cruz/",
+    "content": " 59 years old.\n\n"
   },
   {
     "first_name": "Antonio",
@@ -6967,6 +7251,18 @@
     "content": "Gerallt Davies, MBE (Member of the Most Excellent Order of the British Empire), 51 years old, joined the ambulance service in 1994. He was also national operations officer for St John's Ambulance in Wales.\n"
   },
   {
+    "first_name": "Antonio ",
+    "last_name": "Dávila Castellanos",
+    "slug": "antonio-davila-castellanos",
+    "occupation": "Family Medicine/General Practitioner, Hospital Director",
+    "employer": "Hospital General ISSSTE",
+    "city": "Torreón",
+    "province": "Coahuila",
+    "country": "Mexico",
+    "source": "https://www.excelsior.com.mx/nacional/muere-director-de-clinica-del-issste-en-torreon-por-covid/1392130",
+    "content": "60 years old.\n\n"
+  },
+  {
     "first_name": "Emma",
     "last_name": "Davis",
     "slug": "emma-davis",
@@ -7351,6 +7647,17 @@
     "country": "Brazil",
     "source": "https://selesnafes.com/2020/05/em-apenas-1-dia-3-profissionais-de-enfermagem-morrem-de-covid-no-amapa/",
     "content": "27 years old.\n"
+  },
+  {
+    "first_name": "Ydelfonso",
+    "last_name": "Decoo",
+    "slug": "ydelfonso-decoo",
+    "occupation": "Family Medicine/General Practitioner",
+    "city": "New York City",
+    "province": "New York",
+    "country": "United States",
+    "source": "https://www.cbsnews.com/news/massive-mural-of-doctor-who-died-of-covid-19-honors-frontline-workers-in-new-york-city/",
+    "content": "70 years old\n\n"
   },
   {
     "first_name": "Liliana",
@@ -7748,6 +8055,18 @@
     "content": "Age unknown.\n"
   },
   {
+    "first_name": "Robert",
+    "last_name": "Doiron",
+    "slug": "rober-doiron",
+    "occupation": "Hospital Staff, Mental Health Counselor",
+    "employer": "UMass Marlboro Hospital",
+    "city": "Marlboro",
+    "province": "Massachusetts",
+    "country": "United States",
+    "source": "https://www.dyer-lakefuneralhome.com/obituary/robert-doiron",
+    "content": " 65 years old\n\n"
+  },
+  {
     "first_name": "Christina",
     "last_name": "Dolandis",
     "slug": "christina-dolandis",
@@ -7932,6 +8251,17 @@
     "country": "Brazil",
     "source": "https://jc.ne10.uol.com.br/pernambuco/2020/04/5606751-tecnica-de-enfermagem-que-morreu-esperando-leito-em-uti-tem-diagnostico-positivo-para-coronavirus.html",
     "content": "30 years old.\n"
+  },
+  {
+    "first_name": "Joselita",
+    "last_name": "dos Santos",
+    "slug": "joselita-dos-santos",
+    "occupation": "Nursing Technician (retired; still performed home care)",
+    "city": "Primavera do Leste",
+    "province": "Mato Grosso",
+    "country": "Brazil",
+    "source": "http://mt.corens.portalcofen.gov.br/nota-de-pesar-joselita-dos-santos_13899.html",
+    "content": "65\n"
   },
   {
     "first_name": "Maurice",
@@ -8121,6 +8451,17 @@
     "country": "Mexico",
     "source": "https://www.elnorte.com/fallece-bombero-de-cdmx-por-covid-19/ar1956689",
     "content": "59 years old.\n"
+  },
+  {
+    "first_name": "Miguel",
+    "last_name": "Duré",
+    "slug": "miguel-dure",
+    "occupation": "Emergency Medicine, Chief of Service",
+    "employer": "Hospital Julio C. Perrando",
+    "city": "Chaco",
+    "country": "Argentina",
+    "source": "https://lt10.com.ar/noticia/272759--murio-el-primer-medico-por-coronavirus-en-chaco",
+    "content": "53\n"
   },
   {
     "first_name": "İsmail",
@@ -8714,6 +9055,29 @@
     "content": "60 years old.\n"
   },
   {
+    "first_name": "José Antonio",
+    "last_name": "Escalante Vergara",
+    "slug": "jose-antonio-escalante-vergara",
+    "occupation": "Family Medicine/General Practitioner, Hospital Director",
+    "employer": "IMSS UMF No. 51",
+    "city": "Acayucan",
+    "province": "Veracruz",
+    "country": "Mexico",
+    "source": "https://veracruz.lasillarota.com/estados/muere-primer-directivo-del-imss-por-covid-19-en-veracruz-director-imss-salud-coronavirus/402338",
+    "content": "age unknown\n"
+  },
+  {
+    "first_name": "Solanger",
+    "last_name": "Escandela",
+    "slug": "solanger-escandela",
+    "occupation": "Pediatrics",
+    "employer": "Hospital Militar de Maracaibo",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "source": "https://efectococuyo.com/coronavirus/muere-pediatra-solangel-scandela-en-el-zulia-contagiada-por-covid-19/",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Jeffrey",
     "last_name": "Escher",
     "slug": "jeffrey-escher",
@@ -8814,6 +9178,18 @@
     "country": "United States",
     "source": "https://www.vitals.com/doctors/Dr_Orlando_Espinoza.html",
     "content": "53 years old.\n"
+  },
+  {
+    "first_name": "Javier \"Javi\"",
+    "last_name": "Espinoza Alfaro",
+    "slug": "javier-espinoza-alfaro",
+    "occupation": "Nurse",
+    "employer": " IMSS Hospital General Regional No. 72",
+    "city": "Tlalnepantla",
+    "province": "State of Mexico",
+    "country": "Mexico",
+    "source": "https://www.facebook.com/pinky.rdz.3/posts/10223552076536519",
+    "content": " age unknown\n"
   },
   {
     "first_name": "Pedro Marin",
@@ -9191,6 +9567,18 @@
     "content": "62 years old.\n"
   },
   {
+    "first_name": "Javier ",
+    "last_name": "Fernández Ferrer",
+    "slug": "javier-fernandez-ferrer",
+    "occupation": "Family Medicine/General Practitioner",
+    "employer": "Centro de Salud de Apan",
+    "city": "Apan",
+    "province": "Hidalgo",
+    "country": "Mexico",
+    "source": "https://hidalgo.lasillarota.com/estados/fallece-medico-en-apan-contagiado-de-covid-19-hidalgo-dge-covid-19-sars-cov-2/400335",
+    "content": " age unknown\n"
+  },
+  {
     "first_name": "Tatiane",
     "last_name": "Ferraregi",
     "slug": "tatiane-ferraregi",
@@ -9269,6 +9657,17 @@
     "country": "United States",
     "source": "https://www.fireengineering.com/2020/04/09/486509/ny-firefighter-dies-after-contracting-coronavirus/#gref",
     "content": "59 years old.\n"
+  },
+  {
+    "first_name": "Claudio Antonio",
+    "last_name": "Figueiredo Reis",
+    "slug": "claudio-antonio-figueiredo-reis",
+    "occupation": "OB-GYN, Secretaria de Estado de Saúde Pública (Sespa) ",
+    "employer": "Hospital Anita Gerosa",
+    "city": "Ananindeua",
+    "country": "Brazil",
+    "source": "https://sindmepa.org.br/2020/05/medicos-vitimas-da-covid-19-no-para/",
+    "content": "63\n"
   },
   {
     "first_name": "Jorge Mauad",
@@ -9623,6 +10022,18 @@
     "content": "Alfredo Franco † 09 05 2020\nMedico legale\n"
   },
   {
+    "first_name": "Sybil",
+    "last_name": "Freeman",
+    "slug": "sybil-freeman",
+    "occupation": "Nurse",
+    "employer": "Beaufort Memorial Hospital",
+    "city": "Beaufort",
+    "province": "South Carolina",
+    "country": "United States ",
+    "source": "https://www.islandpacket.com/news/local/community/beaufort-news/article243833252.html",
+    "content": "62\n"
+  },
+  {
     "first_name": "Carlos Enrique Burbano",
     "last_name": "Freire",
     "slug": "carlos-freire",
@@ -9884,6 +10295,17 @@
     "province": "New York",
     "country": "United States",
     "content": "Age unknown.\n"
+  },
+  {
+    "first_name": "Edward Douglas",
+    "last_name": "Gamarra Cámara<",
+    "slug": "edward-douglas-gamarra-camara",
+    "occupation": "Pediatrics, Neonatologist",
+    "employer": "Clínica Versalles",
+    "city": "Comas",
+    "country": "Peru",
+    "source": "https://www.facebook.com/ColegioMedicodelPeru/posts/3189933957765957",
+    "content": "age unknown\n"
   },
   {
     "first_name": "Roberto",
@@ -10204,6 +10626,18 @@
     "country": "Mexico",
     "source": "https://www.elimparcial.com/sonora/ciudadobregon/Mayra-amaba-ayudar-a-las-personas-por-eso-estudio-medicina-Hermana--20200605-0028.html",
     "content": "44 years old.\n"
+  },
+  {
+    "first_name": "Maura",
+    "last_name": "Getsabe Chi Coba",
+    "slug": "maura-getsabe-chi-coba",
+    "occupation": "Nurse, Vaccine Coordinator",
+    "employer": "ISSSTE C.H. Cancún",
+    "city": "Cancún",
+    "province": "Quintana Roo",
+    "country": "Mexico",
+    "source": "https://cronicaquintanarroense.com/muere-otra-enfermera-por-coronavirus-en-cancun/?fbclid=IwAR3vOIGoslyKzZGaDvcftOhw7QjqfhVry7ItW1kpTceGDu0Eb8s9sOR3zpg",
+    "content": "38 years old. \n"
   },
   {
     "first_name": "Calogero",
@@ -10648,6 +11082,18 @@
     "content": "61 years old.\n"
   },
   {
+    "first_name": "Juan Alejandro",
+    "last_name": "González",
+    "slug": "juan-alejandro-gonzalez",
+    "occupation": "Pediatric Doctor",
+    "employer": "Hospital General Regional No. 1",
+    "city": "Ciudad Obregón ",
+    "province": "Sonora",
+    "country": "Mexico",
+    "source": "https://www.elimparcial.com/sonora/ciudadobregon/Fallece-pediatra-por-Covid-19-en-Obregon-20200609-0008.html",
+    "content": "58 years old.\n"
+  },
+  {
     "first_name": "Leopoldo Pérez",
     "last_name": "González",
     "slug": "leopoldo-gonzalez",
@@ -10894,6 +11340,18 @@
     "content": "John Paul \"JP\" Granger was 22 years old.\n"
   },
   {
+    "first_name": "Elva",
+    "last_name": "Graveline",
+    "slug": "elva-graveline",
+    "occupation": "Nursing Assistant",
+    "employer": "Lawrence Memorial Hospital",
+    "city": "New London",
+    "province": "Connecticut",
+    "country": "United States",
+    "source": "https://www.legacy.com/obituaries/theday/obituary.aspx?n=elva-graveline-contreras&amp;pid=196278144&amp;fhid=6910",
+    "content": "52\n"
+  },
+  {
     "first_name": "Horacio Ejilevich",
     "last_name": "Grimaldi",
     "slug": "horacio-grimaldi",
@@ -10916,6 +11374,18 @@
     "content": "89 years old.\n"
   },
   {
+    "first_name": "Juan José ",
+    "last_name": "Guadamuz Bermudez",
+    "slug": "juan-jose-guadamuz-bermudez",
+    "occupation": "Dermatology",
+    "employer": "Hospital Escuela Oscar Danilo Rosales",
+    "city": "Leon",
+    "province": "Nicaragua",
+    "country": "Nicaragua",
+    "source": "https://www.laprensa.com.ni/2020/06/06/nacionales/2682499-muere-otro-doctor-con-sintomas-de-covid-19-en-leon",
+    "content": "85\n"
+  },
+  {
     "first_name": "Cinthia Marín",
     "last_name": "Guerrero",
     "slug": "cinthia-guerrero",
@@ -10926,6 +11396,18 @@
     "country": "Mexico",
     "source": "https://colectivopericu.net/2020/04/17/muere-joven-trabajadora-del-imss-a-causa-de-coronavirus",
     "content": "32 years old.\n"
+  },
+  {
+    "first_name": "Jose Trinidad Angel",
+    "last_name": "Guerrero Valencia",
+    "slug": "jose-trinidad-angel-guerrero-valencia",
+    "occupation": "Pediatrics",
+    "employer": "Hospital General de Tejupilco",
+    "city": "Tejupilco",
+    "province": "State of Mexico",
+    "country": "Mexico",
+    "source": "https://www.facebook.com/yosoy17internacional/photos/pb.325875184229323.-2207520000../1619383734878455/",
+    "content": " 67\n"
   },
   {
     "first_name": "Simon",
@@ -18327,6 +18809,18 @@
     "content": "\n"
   },
   {
+    "first_name": "Raimundo ",
+    "last_name": "Nonato Costa de Viveiros",
+    "slug": "raimundo-nonato-costa-de-viveiros",
+    "occupation": "Dermatology",
+    "employer": "Private Practice",
+    "city": "Belém",
+    "province": "Pará",
+    "country": "Brazil",
+    "source": "https://sindmepa.org.br/2020/05/nota-de-pesar-dr-raimundo-nonato-costa-de-viveiros/",
+    "content": "age unknown\n"
+  },
+  {
     "first_name": "Veronica",
     "last_name": "Norman",
     "slug": "veronica-norman",
@@ -19036,6 +19530,17 @@
     "country": "United States",
     "source": "https://www.latimes.com/world-nation/story/2020-03-24/in-louisiana-death-comes-before-coronavirus-test-results",
     "content": "39 years old.\n"
+  },
+  {
+    "first_name": "Harry ",
+    "last_name": "Owusu Boateng",
+    "slug": "harry-owusu-boateng",
+    "occupation": "Pediatrics, Medical Director",
+    "employer": "Kwadaso Seventh Day Adventist Hospital",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "source": "https://www.myjoyonline.com/news/a-week-after-md-of-kwadaso-sda-hospital-died-with-covid-19-virus-claims-life-of-his-brother/",
+    "content": "42 years old.\n\n"
   },
   {
     "first_name": "Feriha",
@@ -25278,6 +25783,18 @@
     "country": "Mexico",
     "source": "https://www.facebook.com/eliyssaa/posts/2573708192730614",
     "content": "Age unknown.\n"
+  },
+  {
+    "first_name": "José Favela",
+    "last_name": "Trejo",
+    "slug": "jose-favela-trejo",
+    "occupation": "Surgery",
+    "employer": "Hospital General de San Pedro",
+    "city": "San Pedro",
+    "province": "Coahuila",
+    "country": "Mexico",
+    "source": "https://www.zocalo.com.mx/new_site/articulo/reconoce-salud-coahuila-labor-de-medico-acaecido-por-covid",
+    "content": "52\n"
   },
   {
     "first_name": "Daniela",
