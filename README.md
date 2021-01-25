@@ -11,6 +11,7 @@ A memorial to those that have lost their lives fighting the COVID-19 pandemic.
 - [NYSNA Nurses Memorial](https://www.nysna.org/memoriam-fallen-nysna-nurses)
 - https://twitter.com/Covid19Docs
 - https://www.facebook.com/groups/317464005892297/
+- Incorporate data from Guardian research. https://www.theguardian.com/us-news/ng-interactive/2020/aug/11/lost-on-the-frontline-covid-19-coronavirus-us-healthcare-workers-deaths-database
 
 ### Alternate Data Types
 - [Transit Workers Union Memorial](http://www.twulocal100.org/memoriam)
