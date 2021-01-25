@@ -1,0 +1,46 @@
+/* SITE */
+
+Standards: HTML5, CSS3, USWDS
+Tools: Jekyll, GitHub Pages
+Software: Coda, Terminal, NameChanger, ImageOptim
+
+
+/* TEAM */
+
+Name: Nate Tharp (Research and Development)
+Twitter: @natetharp
+Location: Los Angeles, CA, USA
+
+Name: Christy Joy (Copywriting)
+Twitter: @coffeedrn
+Location: Spartanburg, SC, USA
+
+Name: Jolene Esposito (Photo Resizing and Retouching)
+Location: Washington, DC, USA
+
+Name: Charles Reid (Development)
+GitHub: github.com/cwreid
+Location: Los Angeles, CA, USA
+
+Name: Chris Gray (Brand Design)
+Website: chrisgray.co
+Location: Albany, CA, USA
+
+Name: Jason Liu (Brand Design)
+Website: jasonjl.com
+Location: Los Angeles, CA, USA
+
+Name: Mati Rui (Brand Design)
+
+Name: Kaylee Liu (Translation)
+LinkedIn: linkedin.com/in/kaylee-liu-84188766/
+Location: Melbourne, VIC, AUS
+
+Name: Melinda Chen (Translation)
+Website:  chenmelinda.co
+Location: New York, NY, USA
+
+
+/* THANKS */
+
+Thanks to Maciej Ceglowski for the original idea: https://twitter.com/Pinboard/status/1243027902767067136
