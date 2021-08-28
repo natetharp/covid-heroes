@@ -9,7 +9,7 @@ layout: default
 				<nav aria-label="Secondary navigation: heroes from same country">
 					<ul class="usa-sidenav">
 						{% for hero in site.data.active %}{% if hero.country == page.country %}<li class="usa-sidenav__item{% if hero.url == page.url %} usa-current{% endif %}">
-							<a href="{{ hero.url }}">{{ hero.first_name }} {{ hero.last_name }}</a>
+							<a href="{{ hero.slug | absolute_url }}">{{ hero.first_name }} {{ hero.last_name }}</a>
 						</li>{% endif %}{% endfor %}
 					</ul>
 				</nav>
@@ -22,10 +22,10 @@ layout: default
 				    <div class="grid-col-fill usa-prose">
 					    <h1>{{ page.first_name }} {{ page.last_name }}</h1>	
 						<p class="usa-intro">{{ page.occupation }}{% if page.employer %}, {{ page.employer }}{% endif %}</p>
-						<p class="usa-intro">{{ page.country }}</p></div>
+						<p class="usa-intro">{% if page.city %}{{ page.city }}, {% endif %}{% if page.province %}{{ page.province }}, {% endif %}{{ page.country }}</p></div>
 				</div>
 
-				{{ page.bio }}
+				{{ page.bio | markdownify }}
 				
 				<nav class="pagination padding-top-2">
 					<div class="grid-container">
